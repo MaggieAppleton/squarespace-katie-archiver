@@ -1,0 +1,154 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:21:40.954878",
+    "scraped_at": "2025-08-04T11:21:10.706099",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 312,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 74,
+        "warnings": 0
+      },
+      "success_rate": 7400.0,
+      "summary": {
+        "automatic_fixes_applied": 312,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 74,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "epic books.png",
+        "caption": "",
+        "dimensions": {
+          "height": 225,
+          "width": 225
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "Epic Books",
+          "title": "",
+          "url": "https://www.getepic.com/"
+        },
+        {
+          "text": "Ms. Day",
+          "title": "",
+          "url": "https://www.getepic.com/educator/23028730232/ms-day"
+        },
+        {
+          "text": "SOME OF THE BEST: Audio Picture Books for younger students",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1468870/some-of-the-best-audio-picture-books-for-younger-kids"
+        },
+        {
+          "text": "SOME OF THE BEST: Epic eBooks & Read-Along Books for younger students",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1464648/some-of-the-best-epic-ebooks-read-along-books-younger-students"
+        },
+        {
+          "text": "SOME OF THE BEST: Epic eBooks & Read-Along Books for older students",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1460919/some-of-the-best-ebooks-read-along-books-older-students"
+        },
+        {
+          "text": "MS - Graphic Books",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1441653/ms-graphic-books"
+        },
+        {
+          "text": "MS - World War I & World War II",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1441514/ms-world-war-i-ii"
+        },
+        {
+          "text": "MS - Coding & Programming",
+          "title": "",
+          "url": "https://www.getepic.com/collection/743044/ms-coding-and-programming"
+        },
+        {
+          "text": "MS - Poetry",
+          "title": "",
+          "url": "https://www.getepic.com/collection/742996/ms-poetry"
+        },
+        {
+          "text": "MS - Nonfiction - Recommendations",
+          "title": "",
+          "url": "https://www.getepic.com/collection/738907/ms-nonfiction-recommendations"
+        },
+        {
+          "text": "MS - Fiction - Recommendations",
+          "title": "",
+          "url": "https://www.getepic.com/collection/738897/ms-fiction-recommendations"
+        },
+        {
+          "text": "Migrants & Refugees",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1461055/migrants-refugees"
+        },
+        {
+          "text": "International-Mindedness / Activism",
+          "title": "",
+          "url": "https://www.getepic.com/collection/1461060/international-mindedness-activism"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1537455140089\" id=\"item-5ba3b361575d1fbc075f6e2e\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302867300_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302867300_71\"><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537634287410_24737\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302867300_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302867300_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302867300_68\" style=\"max-width:225px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302867300_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302867300_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:100%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"epic books.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png\" data-image-dimensions=\"225x225\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"225\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537636886400-VCJWD13MXX6SKTAN9756/epic+books.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"225\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-cbd8ac73369f072b65d5\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/\" target=\"_blank\">Epic Books</a> has rightly been called the Netflix of children’s ebooks &amp; audio books.  It’s a fathomless source of both schlock and gold with an interface that insists on being in control of the browsing experience.  </p><p class=\"\" style=\"white-space:pre-wrap;\">Who should be interested in this?  Parents are the primary target — whereby Epic will get a standing order for roughly US$7/month and children get 24/7 access to 25,000 “high-quality kids’ books, videos &amp; more!”  But teachers get a sweet deal via free educational accounts which allow them to set up student logins for their online “classroom” — which is <strong>free and available for children to access during school hours 5 days a week</strong> (where “school hours” seems to mean not after 5pm at night).  The child will then presumably pressure the parents to pay for the out-of-hours experience…..</p><p class=\"\" style=\"white-space:pre-wrap;\">This is not a library tool.  It’s designed for a teacher and a classroom, where you set up readers inside your online reading “classroom,” though you can import students from Google Classroom.  <strong>The material is mainly suitable for primary school children, though there is enough stuff to get a middle-school teacher excited.  Heavy on the non-fiction, quite a bit of graphic novels, and lots of picture books</strong>.  Some videos, too.  It’s a badge / motivation environment, with lots of flashing progress notifications.</p><p class=\"\" style=\"white-space:pre-wrap;\"><strong>Teachers can create “collections” — which is the only way to keep track of the good stuff. </strong> And new titles are released each week.  Some stuff is also probably being removed each week, but it’s hard to know.</p><p class=\"\" style=\"white-space:pre-wrap;\">Check out some collections below I’ve created to introduce people to Epic.  (My profile lists all my public collections — see <a href=\"https://www.getepic.com/educator/23028730232/ms-day\" target=\"_blank\">Ms. Day</a> — and I don’t know why they think I’m based in New York!).</p><p class=\"\" style=\"white-space:pre-wrap;\">If you want to log in to my trial classroom, use the <strong>Student Login - Class Code: pww7754</strong>:</p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1468870/some-of-the-best-audio-picture-books-for-younger-kids\" target=\"_blank\">SOME OF THE BEST: Audio Picture Books for younger students</a><br/>Right now this includes over 170 picture books, many of which you probably own in your library collection (e.g., Scholastic, Reading Rainbow, heavy on USA classics, etc.).  These audio books only really ‘work’ if you’ve got a print copy in hand to follow along with.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1464648/some-of-the-best-epic-ebooks-read-along-books-younger-students\" target=\"_blank\">SOME OF THE BEST: Epic eBooks &amp; Read-Along Books for younger students</a><br/>Right now this includes over 60 books.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1460919/some-of-the-best-ebooks-read-along-books-older-students\" target=\"_blank\">SOME OF THE BEST: Epic eBooks &amp; Read-Along Books for older students</a><br/>Right now this includes over 50 books.</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\">I’ve made some other collections with middle school students in mind:</p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1441653/ms-graphic-books\" target=\"_blank\">MS - Graphic Books</a><br/>Right now this includes over 50 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1441514/ms-world-war-i-ii\" target=\"_blank\">MS - World War I &amp; World War II</a><br/>Right now this includes over 40 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/743044/ms-coding-and-programming\" target=\"_blank\">MS - Coding &amp; Programming</a><br/>Right now this includes over 40 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/742996/ms-poetry\" target=\"_blank\">MS - Poetry</a><br/>Right now this includes over 40 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/738907/ms-nonfiction-recommendations\" target=\"_blank\">MS - Nonfiction - Recommendations</a><br/>Right now this includes over 40 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/738897/ms-fiction-recommendations\" target=\"_blank\">MS - Fiction - Recommendations</a><br/>Right now this includes over 40 eBooks.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1461055/migrants-refugees\" target=\"_blank\">Migrants &amp; Refugees</a><br/>Right now this includes over 30 eBooks, including the 3 Parvana/Breadwinner novels.</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.getepic.com/collection/1461060/international-mindedness-activism\" target=\"_blank\">International-Mindedness / Activism</a><br/>Right now this includes over 40 eBooks.</p></li></ul>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537634287410_14937\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><br/></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Epic Books has rightly been called the Netflix of children’s ebooks & audio books.  It’s a fathomless source of both schlock and gold with an interface that insists on being in control of the browsing experience.  Who should be interested in this?  Parents are the primary target — whereby Epic will get a standing order for roughly US$7/month and children get 24/7 access to 25,000 “high-quality kids’ books, videos & more!”  But teachers get a sweet deal via free educational accounts which allow them to set up student logins for their online “classroom” — which is free and available for children to access during school hours 5 days a week (where “school hours” seems to mean not after 5pm at night).  The child will then presumably pressure the parents to pay for the out-of-hours experience…..This is not a library tool.  It’s designed for a teacher and a classroom, where you set up readers inside your online reading “classroom,” though you can import students from Google Classroom.  The material is mainly suitable for primary school children, though there is enough stuff to get a middle-school teacher excited.  Heavy on the non-fiction, quite a bit of graphic novels, and lots of picture books.  Some videos, too.  It’s a badge / motivation environment, with lots of flashing progress notifications.Teachers can create “collections” — which is the only way to keep track of the good stuff.  And new titles are released each week.  Some stuff is also probably being removed each week, but it’s hard to know.Check out some collections below I’ve created to introduce people to Epic.  (My profile lists all my public collections — see Ms. Day — and I don’t know why they think I’m based in New York!).If you want to log in to my trial classroom, use the Student Login - Class Code: pww7754:SOME OF THE BEST: Audio Picture Books for younger studentsRight now this includes over 170 picture books, many of which you probably own in your library collection (e.g., Scholastic, Reading Rainbow, heavy on USA classics, etc.).  These audio books only really ‘work’ if you’ve got a print copy in hand to follow along with.SOME OF THE BEST: Epic eBooks & Read-Along Books for younger studentsRight now this includes over 60 books.SOME OF THE BEST: Epic eBooks & Read-Along Books for older studentsRight now this includes over 50 books.I’ve made some other collections with middle school students in mind:MS - Graphic BooksRight now this includes over 50 eBooks.MS - World War I & World War IIRight now this includes over 40 eBooks.MS - Coding & ProgrammingRight now this includes over 40 eBooks.MS - PoetryRight now this includes over 40 eBooks.MS - Nonfiction - RecommendationsRight now this includes over 40 eBooks.MS - Fiction - RecommendationsRight now this includes over 40 eBooks.Migrants & RefugeesRight now this includes over 30 eBooks, including the 3 Parvana/Breadwinner novels.International-Mindedness / ActivismRight now this includes over 40 eBooks.",
+    "text": "Epic Books has rightly been called the Netflix of children’s ebooks & audio books.  It’s a fathomless source of both schlock and gold with an interface that insists on being in control of the browsing experience.  Who should be interested in this?  Parents are the primary target — whereby Epic will get a standing order for roughly US$7/month and children get 24/7 access to 25,000 “high-quality kids’ books, videos & more!”  But teachers get a sweet deal via free educational accounts which allow them to set up student logins for their online “classroom” — which is free and available for children to access during school hours 5 days a week (where “school hours” seems to mean not after 5pm at night).  The child will then presumably pressure the parents to pay for the out-of-hours experience…..This is not a library tool.  It’s designed for a teacher and a classroom, where you set up readers inside your online reading “classroom,” though you can import students from Google Classroom.  The material is mainly suitable for primary school children, though there is enough stuff to get a middle-school teacher excited.  Heavy on the non-fiction, quite a bit of graphic novels, and lots of picture books.  Some videos, too.  It’s a badge / motivation environment, with lots of flashing progress notifications.Teachers can create “collections” — which is the only way to keep track of the good stuff.  And new titles are released each week.  Some stuff is also probably being removed each week, but it’s hard to know.Check out some collections below I’ve created to introduce people to Epic.  (My profile lists all my public collections — see Ms. Day — and I don’t know why they think I’m based in New York!).If you want to log in to my trial classroom, use the Student Login - Class Code: pww7754:SOME OF THE BEST: Audio Picture Books for younger studentsRight now this includes over 170 picture books, many of which you probably own in your library collection (e.g., Scholastic, Reading Rainbow, heavy on USA classics, etc.).  These audio books only really ‘work’ if you’ve got a print copy in hand to follow along with.SOME OF THE BEST: Epic eBooks & Read-Along Books for younger studentsRight now this includes over 60 books.SOME OF THE BEST: Epic eBooks & Read-Along Books for older studentsRight now this includes over 50 books.I’ve made some other collections with middle school students in mind:MS - Graphic BooksRight now this includes over 50 eBooks.MS - World War I & World War IIRight now this includes over 40 eBooks.MS - Coding & ProgrammingRight now this includes over 40 eBooks.MS - PoetryRight now this includes over 40 eBooks.MS - Nonfiction - RecommendationsRight now this includes over 40 eBooks.MS - Fiction - RecommendationsRight now this includes over 40 eBooks.Migrants & RefugeesRight now this includes over 30 eBooks, including the 3 Parvana/Breadwinner novels.International-Mindedness / ActivismRight now this includes over 40 eBooks.",
+    "word_count": 484
+  },
+  "excerpt": "Epic Books has rightly been called the Netflix of children’s ebooks & audio books.  It’s a fathomless source of both schlock and gold with an interface that insists on being in control of the browsing experience.",
+  "id": "2018-9-20-epicbooks",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-09-20T00:00:00",
+  "slug": "epicbooks",
+  "title": "Epic is Epic",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/9/20/epicbooks"
+}

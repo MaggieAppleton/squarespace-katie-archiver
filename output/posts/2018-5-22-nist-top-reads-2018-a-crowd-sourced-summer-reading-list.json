@@ -1,0 +1,98 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:11:01.504300",
+    "scraped_at": "2025-08-04T11:10:31.323419",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 293,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 68,
+        "warnings": 0
+      },
+      "success_rate": 6800.0,
+      "summary": {
+        "automatic_fixes_applied": 293,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 68,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "think about books read IMAGE.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": 1620,
+          "width": 1448
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2018-06-10 17.53.48.png",
+        "caption": "",
+        "dimensions": {
+          "height": 755,
+          "width": 943
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/",
+          "title": "",
+          "url": "https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/"
+        },
+        {
+          "text": "https://goo.gl/forms/o9iV6nOQPzKVHS7v1",
+          "title": "",
+          "url": "https://goo.gl/forms/o9iV6nOQPzKVHS7v1"
+        },
+        {
+          "text": "http://www.librarything.com/catalog.php?view=librarynist&collection=506275&shelf=list&sort=title",
+          "title": "",
+          "url": "http://www.librarything.com/catalog.php?view=librarynist&collection=506275&shelf=list&sort=title"
+        },
+        {
+          "text": "https://www.librarycat.org/lib/librarynist",
+          "title": "",
+          "url": "https://www.librarycat.org/lib/librarynist"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526994356108\" id=\"item-5b0414550e2e72164dc0c6c8\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302227898_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302227898_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-98f6070d5d561adfc8af\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">UPDATE:  Here's the library blog post on our summer reading and the results of our survey: <a href=\"https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/\" target=\"_blank\">https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/</a></p><p class=\"\" style=\"white-space:pre-wrap;\">We're asking our community to recommend a book or two for friends to read -- based on something great they've read over the past year.</p><p class=\"\" style=\"white-space:pre-wrap;\">See sample Google Form here: <a href=\"https://goo.gl/forms/o9iV6nOQPzKVHS7v1\" target=\"_blank\">https://goo.gl/forms/o9iV6nOQPzKVHS7v1</a></p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1526991284530_79361\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302227898_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302227898_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302227898_68\" style=\"max-width:1448px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302227898_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302227898_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:111.87845611572266%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"think about books read IMAGE.jpg\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg\" data-image-dimensions=\"1448x1620\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1620\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994285187-B3JSEEDK6U259US7DUY6/think+about+books+read+IMAGE.jpg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1448\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1526991284530_79640\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">The results are being gathered in this LibraryThing collection -- <strong>librarynist</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">Tabular form: <a href=\"http://www.librarything.com/catalog.php?view=librarynist&amp;collection=506275&amp;shelf=list&amp;sort=title\" target=\"_blank\">http://www.librarything.com/catalog.php?view=librarynist&amp;collection=506275&amp;shelf=list&amp;sort=title</a></p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">TinyCat interface: <a href=\"https://www.librarycat.org/lib/librarynist\" target=\"_blank\">https://www.librarycat.org/lib/librarynist</a></p></li></ul>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1526991284530_83176\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302227898_85\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302227898_84\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302227898_83\" style=\"max-width:943px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.librarycat.org/lib/librarynist\" id=\"yui_3_17_2_1_1754302227898_82\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302227898_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302227898_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:80.06362915039062%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2018-06-10 17.53.48.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png\" data-image-dimensions=\"943x755\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"755\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1528628075801-JFQQJKPN13YTZP0OPPHL/Screenshot+2018-06-10+17.53.48.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"943\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div></div></div></div>",
+    "markdown": "UPDATE:  Here's the library blog post on our summer reading and the results of our survey: https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/We're asking our community to recommend a book or two for friends to read -- based on something great they've read over the past year.See sample Google Form here: https://goo.gl/forms/o9iV6nOQPzKVHS7v1\n\nThe results are being gathered in this LibraryThing collection -- librarynistTabular form: http://www.librarything.com/catalog.php?view=librarynist&collection=506275&shelf=list&sort=titleTinyCat interface: https://www.librarycat.org/lib/librarynist",
+    "text": "UPDATE:  Here's the library blog post on our summer reading and the results of our survey: https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/We're asking our community to recommend a book or two for friends to read -- based on something great they've read over the past year.See sample Google Form here: https://goo.gl/forms/o9iV6nOQPzKVHS7v1\n\nThe results are being gathered in this LibraryThing collection -- librarynistTabular form: http://www.librarything.com/catalog.php?view=librarynist&collection=506275&shelf=list&sort=titleTinyCat interface: https://www.librarycat.org/lib/librarynist",
+    "word_count": 61
+  },
+  "excerpt": "UPDATE:  Here's the library blog post on our summer reading and the results of our survey: https://library.nist.ac.th/summer-reading-and-nist-top-reads-2018/We're asking our community to recommend a book or two for friends to read -- based on something great they've read over the past year.",
+  "id": "2018-5-22-nist-top-reads-2018-a-crowd-sourced-summer-reading-list",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "nist-top-reads-2018-a-crowd-sourced-summer-reading-list",
+  "title": "NIST Top Reads 2018 - a crowd-sourced summer reading list",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/nist-top-reads-2018-a-crowd-sourced-summer-reading-list"
+}

@@ -1,0 +1,87 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:46:23.201842",
+    "scraped_at": "2025-08-04T10:45:53.044382",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 271,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 61,
+        "warnings": 0
+      },
+      "success_rate": 6100.0,
+      "summary": {
+        "automatic_fixes_applied": 271,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 61,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screen Shot 2018-10-22 at 3.26.45 PM.png",
+        "caption": "",
+        "dimensions": {
+          "height": 894,
+          "width": 1165
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "available in the UWCSEA library catalogs",
+          "title": "",
+          "url": "http://ask.uwcsea.edu.sg/faq/150181"
+        },
+        {
+          "text": "Int’l School Library Connection",
+          "title": "",
+          "url": "https://www.facebook.com/groups/SLAsia/"
+        },
+        {
+          "text": "the A & B grade Extended Essays",
+          "title": "",
+          "url": "https://nist.follettdestiny.com/cataloging/servlet/handlebasicsearchform.do?keywordText=pdf+extended+essays&siteTypeID=-2&searchType=keyword&siteID=&includeLibrary=true&includeMedia=false&mediaSiteID=&doNotSaveSearchHistory=false&context=saas18_8501549&site=201"
+        },
+        {
+          "text": "Read this library blog entry",
+          "title": "",
+          "url": "https://library.nist.ac.th/how-can-i-read-extended-essays-of-previous-students/"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1540196711313\" id=\"item-5bcd87dbeef1a115dd9c16e9\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300749696_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300749696_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-f80172151cca4c63f442\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">Someone just contacted me via Facebook to ask about the legality of the Extended Essays <a href=\"http://ask.uwcsea.edu.sg/faq/150181\" target=\"_blank\">available in the UWCSEA library catalogs</a> — meaning, is it violating copyright law?</p><p style=\"white-space: pre-wrap;\">I started this microblog in part as a way to not have some of my small contributions to semi-public conversations be hidden.  So let me repeat here what I said in the (closed) Facebook group: <a href=\"https://www.facebook.com/groups/SLAsia/\" target=\"_blank\">Int’l School Library Connection</a> back in May 2017.</p><blockquote><p style=\"white-space: pre-wrap;\">Do you make any student work publicly available via your library catalog? We do and the issue of copyright was raised over on the ECIS iSkoodle teacher-librarian forum. Below is a reprint of what I just posted there......</p><p style=\"white-space: pre-wrap;\">Okay, everyone, I have an update on this issue -- of us making some of our students' Extended Essays and TOK Essays publicly available in our library catalog.</p><p style=\"white-space: pre-wrap;\">The IB said this in response to our query:</p><p style=\"white-space: pre-wrap;\"><strong>\"Your students retain copyright ownership in their essays (note that contractual arrangements may alter this rule) and the IB is granted a non-exclusive license as per our rules and regulations. Therefore, the IB does not control distribution rights, only the copyright holder does.\"</strong></p><p style=\"white-space: pre-wrap;\">My TL colleague Barb Reid has attended copyright for educator workshops here in Singapore and she contacted an expert on copyright issues, and he said:</p><p style=\"white-space: pre-wrap;\">\"The creator of the work (student) is the owner of the copyright in the absence of an agreement to the contrary. It is the \"cultural norm\" in Singapore Government institutions for students to sign over copyright of work created while they were a student to the institution. This is an area of contract law.\"</p><p style=\"white-space: pre-wrap;\">So we asked our administration what our students sign if anything -- and discovered that our students do sign terms and conditions upon admission and this clause relates to copyright:</p><p style=\"white-space: pre-wrap;\">\"10.11 Intellectual property: The College reserves all rights and interests in any intellectual property rights arising as a result of the actions of a student in conjunction with any member of staff of the College and/or other pupils at the College for a purpose associated with the College. Any use of any such intellectual property rights by a student is subject to the consent of the College upon terms and conditions acceptable by the College. The College may, at its discretion, allow the student's role in creation/development of intellectual property rights to be acknowledged.\"</p><p style=\"white-space: pre-wrap;\"><strong>So we believe this covers us in terms of making students' work public.</strong></p><p style=\"white-space: pre-wrap;\">Do your schools have students sign something similar upon admission?</p></blockquote><p style=\"white-space: pre-wrap;\">So the issue concerns both the copyright laws in the country where your school is located AND the “contract” between your school and its students regarding intellectual property rights.</p><p style=\"white-space: pre-wrap;\">Here at NIST I have done the same thing — made <a href=\"https://nist.follettdestiny.com/cataloging/servlet/handlebasicsearchform.do?keywordText=pdf+extended+essays&amp;siteTypeID=-2&amp;searchType=keyword&amp;siteID=&amp;includeLibrary=true&amp;includeMedia=false&amp;mediaSiteID=&amp;doNotSaveSearchHistory=false&amp;context=saas18_8501549&amp;site=201\" target=\"_blank\">the A &amp; B grade Extended Essays</a> available as free, publicly-available PDFs via the library catalog.  <a href=\"https://library.nist.ac.th/how-can-i-read-extended-essays-of-previous-students/\" target=\"_blank\">Read this library blog entry</a> for details.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1540196714177_5061\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300749696_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300749696_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300749696_69\" style=\"max-width:1165px;\">\n<a class=\"sqs-block-image-link\" href=\"https://nist.follettdestiny.com/cataloging/servlet/handlebasicsearchform.do?keywordText=pdf+extended+essays&amp;siteTypeID=-2&amp;searchType=keyword&amp;siteID=&amp;includeLibrary=true&amp;includeMedia=false&amp;mediaSiteID=&amp;doNotSaveSearchHistory=false&amp;context=saas18_8501549&amp;site=201\" id=\"yui_3_17_2_1_1754300749696_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300749696_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300749696_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:76.73819732666016%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screen Shot 2018-10-22 at 3.26.45 PM.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png\" data-image-dimensions=\"1165x894\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"894\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540196887098-2HL5G8N4MYJL7A0ACY91/Screen+Shot+2018-10-22+at+3.26.45+PM.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1165\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1540196714177_5338\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\"><br/></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Someone just contacted me via Facebook to ask about the legality of the Extended Essays available in the UWCSEA library catalogs — meaning, is it violating copyright law?I started this microblog in part as a way to not have some of my small contributions to semi-public conversations be hidden.  So let me repeat here what I said in the (closed) Facebook group: Int’l School Library Connection back in May 2017.Do you make any student work publicly available via your library catalog? We do and the issue of copyright was raised over on the ECIS iSkoodle teacher-librarian forum. Below is a reprint of what I just posted there......Okay, everyone, I have an update on this issue -- of us making some of our students' Extended Essays and TOK Essays publicly available in our library catalog.The IB said this in response to our query:\"Your students retain copyright ownership in their essays (note that contractual arrangements may alter this rule) and the IB is granted a non-exclusive license as per our rules and regulations. Therefore, the IB does not control distribution rights, only the copyright holder does.\"My TL colleague Barb Reid has attended copyright for educator workshops here in Singapore and she contacted an expert on copyright issues, and he said:\"The creator of the work (student) is the owner of the copyright in the absence of an agreement to the contrary. It is the \"cultural norm\" in Singapore Government institutions for students to sign over copyright of work created while they were a student to the institution. This is an area of contract law.\"So we asked our administration what our students sign if anything -- and discovered that our students do sign terms and conditions upon admission and this clause relates to copyright:\"10.11 Intellectual property: The College reserves all rights and interests in any intellectual property rights arising as a result of the actions of a student in conjunction with any member of staff of the College and/or other pupils at the College for a purpose associated with the College. Any use of any such intellectual property rights by a student is subject to the consent of the College upon terms and conditions acceptable by the College. The College may, at its discretion, allow the student's role in creation/development of intellectual property rights to be acknowledged.\"So we believe this covers us in terms of making students' work public.Do your schools have students sign something similar upon admission?So the issue concerns both the copyright laws in the country where your school is located AND the “contract” between your school and its students regarding intellectual property rights.Here at NIST I have done the same thing — made the A & B grade Extended Essays available as free, publicly-available PDFs via the library catalog.  Read this library blog entry for details.",
+    "text": "Someone just contacted me via Facebook to ask about the legality of the Extended Essays available in the UWCSEA library catalogs — meaning, is it violating copyright law?I started this microblog in part as a way to not have some of my small contributions to semi-public conversations be hidden.  So let me repeat here what I said in the (closed) Facebook group: Int’l School Library Connection back in May 2017.Do you make any student work publicly available via your library catalog? We do and the issue of copyright was raised over on the ECIS iSkoodle teacher-librarian forum. Below is a reprint of what I just posted there......Okay, everyone, I have an update on this issue -- of us making some of our students' Extended Essays and TOK Essays publicly available in our library catalog.The IB said this in response to our query:\"Your students retain copyright ownership in their essays (note that contractual arrangements may alter this rule) and the IB is granted a non-exclusive license as per our rules and regulations. Therefore, the IB does not control distribution rights, only the copyright holder does.\"My TL colleague Barb Reid has attended copyright for educator workshops here in Singapore and she contacted an expert on copyright issues, and he said:\"The creator of the work (student) is the owner of the copyright in the absence of an agreement to the contrary. It is the \"cultural norm\" in Singapore Government institutions for students to sign over copyright of work created while they were a student to the institution. This is an area of contract law.\"So we asked our administration what our students sign if anything -- and discovered that our students do sign terms and conditions upon admission and this clause relates to copyright:\"10.11 Intellectual property: The College reserves all rights and interests in any intellectual property rights arising as a result of the actions of a student in conjunction with any member of staff of the College and/or other pupils at the College for a purpose associated with the College. Any use of any such intellectual property rights by a student is subject to the consent of the College upon terms and conditions acceptable by the College. The College may, at its discretion, allow the student's role in creation/development of intellectual property rights to be acknowledged.\"So we believe this covers us in terms of making students' work public.Do your schools have students sign something similar upon admission?So the issue concerns both the copyright laws in the country where your school is located AND the “contract” between your school and its students regarding intellectual property rights.Here at NIST I have done the same thing — made the A & B grade Extended Essays available as free, publicly-available PDFs via the library catalog.  Read this library blog entry for details.",
+    "word_count": 465
+  },
+  "excerpt": "Someone just contacted me via Facebook to ask about the legality of the Extended Essays available in the UWCSEA library catalogs — meaning, is it violating copyright law?I started this microblog in part as a way to not have some of my small contributions to semi-public conversations be hidden.",
+  "id": "2018-10-22-the-legality-of-extended-essays-in-library-catalogs-as-exemplars",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-10-22T00:00:00",
+  "slug": "the-legality-of-extended-essays-in-library-catalogs-as-exemplars",
+  "title": "The legality of Extended Essays in library catalogs -- as exemplars",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/10/22/the-legality-of-extended-essays-in-library-catalogs-as-exemplars"
+}

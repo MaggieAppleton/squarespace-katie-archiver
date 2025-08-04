@@ -1,0 +1,257 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:38:51.456252",
+    "scraped_at": "2025-08-04T10:38:21.053795",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 225,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 49,
+        "warnings": 0
+      },
+      "success_rate": 4900.0,
+      "summary": {
+        "automatic_fixes_applied": 225,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 49,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 1167,
+          "width": 908
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Dianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)",
+        "caption": "",
+        "dimensions": {
+          "height": 933,
+          "width": 700
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 1701,
+          "width": 1276
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "Learning 2.0 Asia",
+          "title": "",
+          "url": "http://learning2asia.org/"
+        },
+        {
+          "text": "EARCOS Teachers Conference",
+          "title": "",
+          "url": "https://www.earcos.org/conf_calendar.php#"
+        },
+        {
+          "text": "Google Apps for Education (GAFE) in Singapore",
+          "title": "",
+          "url": "https://sg.gafesummit.com/2015/"
+        },
+        {
+          "text": "International Federation of Library Associations (IFLA)",
+          "title": "",
+          "url": "http://conference.ifla.org/"
+        },
+        {
+          "text": "the American Library Association (ALA)",
+          "title": "",
+          "url": "http://alaac15.ala.org/"
+        },
+        {
+          "text": "ISLN",
+          "title": "",
+          "url": "http://silcsing.blogspot.com"
+        },
+        {
+          "text": "Kuala Lumpur",
+          "title": "",
+          "url": "https://groups.google.com/forum/#!forum/klln"
+        },
+        {
+          "text": "Hong Kong",
+          "title": "",
+          "url": "http://www.hkgoldendragonawards.org/"
+        },
+        {
+          "text": "China",
+          "title": "",
+          "url": "http://www.acamis.org/"
+        },
+        {
+          "text": "Japan",
+          "title": "",
+          "url": "http://www.sakuramedal.com/"
+        },
+        {
+          "text": "Librarian Knowledge Sharing Workshop",
+          "title": "",
+          "url": "https://groups.google.com/forum/#!topic/klln/Ji1Jsmb3bZw"
+        },
+        {
+          "text": "School Librarian Connection",
+          "title": "",
+          "url": "http://www.schoollibrarianconnection.com/conferences"
+        },
+        {
+          "text": "the Shanghai librarians",
+          "title": "",
+          "url": "https://schoollibrarysymposium.wikispaces.com/"
+        },
+        {
+          "text": "Tech-Integrated Libraries",
+          "title": "",
+          "url": "https://drive.google.com/file/d/0B88y99PAnOIBYk1Bd2trMVNyR1E/view"
+        },
+        {
+          "text": "International Association of School Librarianship (IASL)",
+          "title": "",
+          "url": "http://www.iasl-online.org/meetings/info.html"
+        },
+        {
+          "text": "ECIS Triennial Librarians Conference",
+          "title": "",
+          "url": "http://buttedeliteracy.drupalgardens.com/"
+        },
+        {
+          "text": "Librarian Knowledge Sharing Workshop",
+          "title": "",
+          "url": "http://blogs.shrewsbury.ac.th/lksw/presentations-2015/"
+        },
+        {
+          "text": "Maggie Appleton",
+          "title": "",
+          "url": "http://www.maggieappleton.com/"
+        },
+        {
+          "text": "\"Who We Are\" Google Doc",
+          "title": "",
+          "url": "http://www.schoollibrarianconnection.com/conferences/about/who-we-are"
+        },
+        {
+          "text": "\"Research Relevance: K-12 Library Instruction for the 21st Century\" Colloquium",
+          "title": "",
+          "url": "http://www.castilleja.org/page.cfm?p=942570"
+        },
+        {
+          "text": "Tasha Bergson-Michelson",
+          "title": "",
+          "url": "https://twitter.com/researchwell"
+        },
+        {
+          "text": "Jole Seroff",
+          "title": "",
+          "url": "https://twitter.com/joleseroff"
+        },
+        {
+          "text": "Debbie Abilock",
+          "title": "",
+          "url": "http://www.noodletools.com/debbie/bio/"
+        },
+        {
+          "text": "Kate Brundage",
+          "title": "",
+          "url": "http://www.sas.edu.sg/page.cfm?p=2063"
+        },
+        {
+          "text": "Dianne McKenzie",
+          "title": "",
+          "url": "http://librarygrits.blogspot.sg/"
+        },
+        {
+          "text": "Kurt Wittig",
+          "title": "",
+          "url": "https://twitter.com/kurtwittig"
+        },
+        {
+          "text": "Michelle Fitzgerald",
+          "title": "",
+          "url": "https://www.goodreads.com/user/show/3815559-michelle-fitzgerald"
+        },
+        {
+          "text": "Gamestorming",
+          "title": "",
+          "url": "http://gamestorming.com/"
+        },
+        {
+          "text": "Ed Emberley - \"Build a World\"",
+          "title": "",
+          "url": "http://austinkleon.com/2009/11/21/ed-emberleys-make-a-world/"
+        },
+        {
+          "text": "Click here to see my Google photo album",
+          "title": "",
+          "url": "https://goo.gl/photos/KKfJrjycRwKBhemk9"
+        },
+        {
+          "text": "A Twitter stream",
+          "title": "",
+          "url": "https://docs.google.com/spreadsheets/d/1Ojg7YqTS4kX5Hu3_VE5M7dR2-NaSDru6hF8kgITVeQA/edit?usp=sharing"
+        },
+        {
+          "text": "bit.ly/ResearchRelevance",
+          "title": "",
+          "url": "http://bit.ly/ResearchRelevance"
+        },
+        {
+          "text": "\"Genres of Scholarly Knowledge Production.\"",
+          "title": "",
+          "url": "https://medium.com/genres-of-scholarly-knowledge-production/revisiting-genres-of-scholarly-knowledge-production-fd240e9631ec"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1439161250699\" id=\"item-55c7d956e4b029ac82316aaf\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300297646_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300297646_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-3a77d533b7200c9ae7e9\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Forms of in-person professional development can be considered genres -- and like literary genres, they evolve.  (NB: Forms of online PD are another topic.)  (What is it about us as animals/mammals that being in a room together is different than a Google Hangout?   I liken ebooks to Skype conversations - we do miss something, whether faint pheromones or just broader visual clues about the physical entity/environment.)</p><p>The big conference with keynote speakers and multiple vendor displays is the most established.  Outside that paradigm, everyone is experimenting with combinations of macro (whole audience keynote), mini (1 hour workshop/presentation), micro (20 min), and nano (5 min, lightning round style) sessions.  The degree of expected participation assumed in the design of the event also varies, from prepared presentations (whether read or spoken, with or without slideshows) to hands-on exercises to a free-flow unconference style.  Identification of themes and strands helps to tie the event and people together.</p><p>What works in one physical setting won't work in another (we all know what the lack of decent wifi and acoustics does to any gathering) -- and the composition and size of the group has an enormous influence on what is effective and what isn't.  (Can I say here that the app I'm waiting for is the one where everyone can speak into their mobile device and it acts like a microphone such that the whole room can clearly hear the question being asked.... If you know of one, contact me immediately.)</p><p>The online support for any event is also terribly important.  A decent website, available both before and after the event - with all the relevant backup materials - goes without saying, as well as well-publicized hashtags, so people not able to attend can easily eavesdrop.</p><p>As a teacher-librarian, I participate in events designed with teachers in mind (e.g., <a href=\"http://learning2asia.org/\" target=\"_blank\">Learning 2.0 Asia</a>, <a href=\"https://www.earcos.org/conf_calendar.php#\" target=\"_blank\">EARCOS Teachers Conference</a> and <a href=\"https://sg.gafesummit.com/2015/\" target=\"_blank\">Google Apps for Education (GAFE) in Singapore</a>) and events designed with librarians in mind (e.g., the <a href=\"http://conference.ifla.org/\" target=\"_blank\">International Federation of Library Associations (IFLA)</a> and <a href=\"http://alaac15.ala.org/\" target=\"_blank\">the American Library Association (ALA)</a>), but the best for me are the hybrid kind -- where teacher-librarians get to meet and exchange ideas and experiences related to both teaching and to librarianship.  </p><p>Local network after-school meetings provide that kind of in-person contact.  Here in Singapore we have <a href=\"http://silcsing.blogspot.com\" target=\"_blank\">ISLN</a> (International Schools Library Network of Singapore), as other cities do -- <a href=\"https://groups.google.com/forum/#!forum/klln\" target=\"_blank\">Kuala Lumpur</a>, Bangkok, <a href=\"http://www.hkgoldendragonawards.org/\" target=\"_blank\">Hong Kong</a>, <a href=\"http://www.acamis.org/\" target=\"_blank\">China</a>, <a href=\"http://www.sakuramedal.com/\" target=\"_blank\">Japan</a>, etc.  But more dedicated time together with other teacher-librarians is definitely worth it.</p><p>In the region, there are several recurring events, e.g., the <a href=\"https://groups.google.com/forum/#!topic/klln/Ji1Jsmb3bZw\" target=\"_blank\">Librarian Knowledge Sharing Workshop </a>(LKSW) (now coming up to its 4th year , back in Kuala Lumpur where it started); the <a href=\"http://www.schoollibrarianconnection.com/conferences\" target=\"_blank\">School Librarian Connection</a>, initiated last year in Hong Kong, up for repetition somewhere, perhaps Singapore; <a href=\"https://schoollibrarysymposium.wikispaces.com/\" target=\"_blank\">the Shanghai librarians</a> conference; and in Taiwan this November an EARCOS-sponsored weekend on <a href=\"https://drive.google.com/file/d/0B88y99PAnOIBYk1Bd2trMVNyR1E/view\" target=\"_blank\">Tech-Integrated Libraries</a>. </p><p>The large-scale version of these are the <a href=\"http://www.iasl-online.org/meetings/info.html\" target=\"_blank\">International Association of School Librarianship (IASL)</a> and the <a href=\"http://buttedeliteracy.drupalgardens.com/\" target=\"_blank\">ECIS Triennial Librarians Conference</a> -- though timing and distance are sometimes a problem.</p><p>To give an idea of the range of ideas explored in the small-scale regional professional gatherings, see this summary sketch-note from the February 2015 <a href=\"http://blogs.shrewsbury.ac.th/lksw/presentations-2015/\" target=\"_blank\">Librarian Knowledge Sharing Workshop</a> in Bangkok -- by <a href=\"http://www.maggieappleton.com/\" target=\"_blank\">Maggie Appleton</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1439079324770_230572\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300297646_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300297646_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300297646_69\" style=\"max-width:908px;\">\n<button class=\"sqs-block-image-button lightbox\" data-description=\"\" data-lightbox-theme=\"\" id=\"yui_3_17_2_1_1754300297646_68\">\n<span class=\"v6-visually-hidden\">View fullsize</span>\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300297646_67\">\n<div class=\"sqs-image-shape-container-element\" id=\"yui_3_17_2_1_1754300297646_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:128.52423095703125%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png\" data-image-dimensions=\"908x1167\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1167\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439168676527-VKK110WOOV8HZEUVQIC0/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"908\"/>\n</div>\n</div>\n</button>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1439079324770_230792\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>And to give an idea of who attends these events, see this <a href=\"http://www.schoollibrarianconnection.com/conferences/about/who-we-are\" target=\"_blank\">\"Who We Are\" Google Doc</a> from the November 2015 School Librarian Connection conference in Hong Kong.</p><p>This past June I attended the 2-day <a href=\"http://www.castilleja.org/page.cfm?p=942570\" target=\"_blank\">\"Research Relevance: K-12 Library Instruction for the 21st Century\" Colloquium</a> in California.  Hats off to <a href=\"https://twitter.com/researchwell\" target=\"_blank\">Tasha Bergson-Michelson</a>, <a href=\"https://twitter.com/joleseroff\" target=\"_blank\">Jole Seroff</a>, and <a href=\"http://www.noodletools.com/debbie/bio/\" target=\"_blank\">Debbie Abilock</a> - and all the others who organized the event that brought over 80 teacher-librarians together in Palo Alto at Castilleja School, just before the ALA annual conference started in San Francisco.</p><p>I was lucky to be attending, both this colloquium and ALA, with a small cohort of international school teachers - the ever-ebullient <a href=\"http://www.sas.edu.sg/page.cfm?p=2063\" target=\"_blank\">Kate Brundage</a> from the Singapore American School; the online-wonder <a href=\"http://librarygrits.blogspot.sg/\" target=\"_blank\">Dianne McKenzie</a> from Hong Kong; my new parallel campus secondary teacher-librarian at UWCSEA in Singapore, <a href=\"https://twitter.com/kurtwittig\" target=\"_blank\">Kurt Wittig</a>, previously in Cambodia; and a new UWC-related friend, <a href=\"https://www.goodreads.com/user/show/3815559-michelle-fitzgerald\" target=\"_blank\">Michelle Fitzgerald</a> from Japan.</p><p>Research Relevance was a good combination of  experiences.  We started off with a communal exercise using raw creative materials -- based on \"Build a World\" from the <a href=\"http://gamestorming.com/\" target=\"_blank\">Gamestorming</a> book (which was inspired by the classic picture book for kids by <a href=\"http://austinkleon.com/2009/11/21/ed-emberleys-make-a-world/\" target=\"_blank\">Ed Emberley - \"Build a World\"</a>). </p><p>Our task?  To build our ideal library as symbolically or literally as we wanted.  We then did a gallery walk with each table explaining their creation to others.  Depending on your group and attitude, could have been painful or fun.  (Dianne and I had fun....)</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1439079324770_196598\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300297646_91\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300297646_90\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300297646_89\" style=\"max-width:700px;\">\n<button class=\"sqs-block-image-button lightbox\" data-description='&lt;p&gt;Dianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)&lt;/p&gt;' data-lightbox-theme=\"\" id=\"yui_3_17_2_1_1754300297646_88\">\n<span class=\"v6-visually-hidden\">View fullsize</span>\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300297646_87\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300297646_86\" style=\"\n                position: relative;\n                \n                  padding-bottom:133.28570556640625%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt='Dianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)' class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png\" data-image-dimensions=\"700x933\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"933\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439169291695-7PSC94TI6QSSQP8KAG53/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"700\"/>\n</div>\n</div>\n</button>\n<figcaption class=\"image-caption-wrapper\">\n<div class=\"image-caption\"><p>Dianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)</p></div>\n</figcaption>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1439079324770_196819\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Making things is quite trendy in the school/library world.  So we all enjoyed a tour of the school's makerspace -- the Bourn Idea Lab.  <a href=\"https://goo.gl/photos/KKfJrjycRwKBhemk9\" target=\"_blank\">Click here to see my Google photo album</a>.</p><p>Hands-on experience and group interaction were admirably built into the two days.  For example, someone demo'ed a \"write-around\" exercise - where you move between tables, visually commenting on provocative snippets.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1439079324770_437334\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300297646_107\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300297646_106\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300297646_105\" style=\"max-width:1276px;\">\n<button class=\"sqs-block-image-button lightbox\" data-description=\"\" data-lightbox-theme=\"\" id=\"yui_3_17_2_1_1754300297646_104\">\n<span class=\"v6-visually-hidden\">View fullsize</span>\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300297646_103\">\n<div class=\"sqs-image-shape-container-element\" id=\"yui_3_17_2_1_1754300297646_102\" style=\"\n                position: relative;\n                \n                  padding-bottom:133.3072052001953%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg\" data-image-dimensions=\"1276x1701\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1701\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1439172783045-ULB0MDEG13GCVXGNBH8O/image-asset.jpeg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"1276\"/>\n</div>\n</div>\n</button>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1439079324770_437554\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>And when there was a session on exploring the difference between taking paper written notes vs. notes on a tablet using a stylus vs. notes typed on a laptop, the organizers had tablets and styli <em>(those Latin plurals always look awkward, don't they?)</em> for people to play with.  And every session ended with us writing Post-It note reflections publicly displayed.</p><p>The residuals?  <a href=\"https://docs.google.com/spreadsheets/d/1Ojg7YqTS4kX5Hu3_VE5M7dR2-NaSDru6hF8kgITVeQA/edit?usp=sharing\" target=\"_blank\">A Twitter stream</a> (#ResearchRelevance) and a Google Folder of presenter materials -- <a href=\"http://bit.ly/ResearchRelevance\" target=\"_blank\">bit.ly/ResearchRelevance</a>  (a bit dense to navigate - only for the dedicated).  I'll relay my own pertinent take-aways about teaching and leading research in a separate blogpost.</p><p>If you are interested in considering forms of conferences from an anthropological point of view, here's an interesting Medium article by the organizers of a conference on <a href=\"https://medium.com/genres-of-scholarly-knowledge-production/revisiting-genres-of-scholarly-knowledge-production-fd240e9631ec\" target=\"_blank\">\"Genres of Scholarly Knowledge Production.\"</a>  It considers conferences from an international university humanities perspective, but you can't help but apply it to our own school teacher/librarian PD experience.  E.g., the reliance on one screen and a slideshow.  The front of the room focus.  Thinking how to make the most of human beings being together.   Contemplating how the infrastructure of a conference affects the content and impact of the event....</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Forms of in-person professional development can be considered genres -- and like literary genres, they evolve.  (NB: Forms of online PD are another topic.)  (What is it about us as animals/mammals that being in a room together is different than a Google Hangout?   I liken ebooks to Skype conversations - we do miss something, whether faint pheromones or just broader visual clues about the physical entity/environment.)The big conference with keynote speakers and multiple vendor displays is the most established.  Outside that paradigm, everyone is experimenting with combinations of macro (whole audience keynote), mini (1 hour workshop/presentation), micro (20 min), and nano (5 min, lightning round style) sessions.  The degree of expected participation assumed in the design of the event also varies, from prepared presentations (whether read or spoken, with or without slideshows) to hands-on exercises to a free-flow unconference style.  Identification of themes and strands helps to tie the event and people together.What works in one physical setting won't work in another (we all know what the lack of decent wifi and acoustics does to any gathering) -- and the composition and size of the group has an enormous influence on what is effective and what isn't.  (Can I say here that the app I'm waiting for is the one where everyone can speak into their mobile device and it acts like a microphone such that the whole room can clearly hear the question being asked.... If you know of one, contact me immediately.)The online support for any event is also terribly important.  A decent website, available both before and after the event - with all the relevant backup materials - goes without saying, as well as well-publicized hashtags, so people not able to attend can easily eavesdrop.As a teacher-librarian, I participate in events designed with teachers in mind (e.g., Learning 2.0 Asia, EARCOS Teachers Conference and Google Apps for Education (GAFE) in Singapore) and events designed with librarians in mind (e.g., the International Federation of Library Associations (IFLA) and the American Library Association (ALA)), but the best for me are the hybrid kind -- where teacher-librarians get to meet and exchange ideas and experiences related to both teaching and to librarianship.  Local network after-school meetings provide that kind of in-person contact.  Here in Singapore we have ISLN (International Schools Library Network of Singapore), as other cities do -- Kuala Lumpur, Bangkok, Hong Kong, China, Japan, etc.  But more dedicated time together with other teacher-librarians is definitely worth it.In the region, there are several recurring events, e.g., the Librarian Knowledge Sharing Workshop (LKSW) (now coming up to its 4th year , back in Kuala Lumpur where it started); the School Librarian Connection, initiated last year in Hong Kong, up for repetition somewhere, perhaps Singapore; the Shanghai librarians conference; and in Taiwan this November an EARCOS-sponsored weekend on Tech-Integrated Libraries. The large-scale version of these are the International Association of School Librarianship (IASL) and the ECIS Triennial Librarians Conference -- though timing and distance are sometimes a problem.To give an idea of the range of ideas explored in the small-scale regional professional gatherings, see this summary sketch-note from the February 2015 Librarian Knowledge Sharing Workshop in Bangkok -- by Maggie Appleton.\n\nView fullsize\n\nAnd to give an idea of who attends these events, see this \"Who We Are\" Google Doc from the November 2015 School Librarian Connection conference in Hong Kong.This past June I attended the 2-day \"Research Relevance: K-12 Library Instruction for the 21st Century\" Colloquium in California.  Hats off to Tasha Bergson-Michelson, Jole Seroff, and Debbie Abilock - and all the others who organized the event that brought over 80 teacher-librarians together in Palo Alto at Castilleja School, just before the ALA annual conference started in San Francisco.I was lucky to be attending, both this colloquium and ALA, with a small cohort of international school teachers - the ever-ebullient Kate Brundage from the Singapore American School; the online-wonder Dianne McKenzie from Hong Kong; my new parallel campus secondary teacher-librarian at UWCSEA in Singapore, Kurt Wittig, previously in Cambodia; and a new UWC-related friend, Michelle Fitzgerald from Japan.Research Relevance was a good combination of  experiences.  We started off with a communal exercise using raw creative materials -- based on \"Build a World\" from the Gamestorming book (which was inspired by the classic picture book for kids by Ed Emberley - \"Build a World\"). Our task?  To build our ideal library as symbolically or literally as we wanted.  We then did a gallery walk with each table explaining their creation to others.  Depending on your group and attitude, could have been painful or fun.  (Dianne and I had fun....)\n\nView fullsize\n\nDianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)\n\nMaking things is quite trendy in the school/library world.  So we all enjoyed a tour of the school's makerspace -- the Bourn Idea Lab.  Click here to see my Google photo album.Hands-on experience and group interaction were admirably built into the two days.  For example, someone demo'ed a \"write-around\" exercise - where you move between tables, visually commenting on provocative snippets.\n\nView fullsize\n\nAnd when there was a session on exploring the difference between taking paper written notes vs. notes on a tablet using a stylus vs. notes typed on a laptop, the organizers had tablets and styli (those Latin plurals always look awkward, don't they?) for people to play with.  And every session ended with us writing Post-It note reflections publicly displayed.The residuals?  A Twitter stream (#ResearchRelevance) and a Google Folder of presenter materials -- bit.ly/ResearchRelevance  (a bit dense to navigate - only for the dedicated).  I'll relay my own pertinent take-aways about teaching and leading research in a separate blogpost.If you are interested in considering forms of conferences from an anthropological point of view, here's an interesting Medium article by the organizers of a conference on \"Genres of Scholarly Knowledge Production.\"  It considers conferences from an international university humanities perspective, but you can't help but apply it to our own school teacher/librarian PD experience.  E.g., the reliance on one screen and a slideshow.  The front of the room focus.  Thinking how to make the most of human beings being together.   Contemplating how the infrastructure of a conference affects the content and impact of the event....",
+    "text": "Forms of in-person professional development can be considered genres -- and like literary genres, they evolve.  (NB: Forms of online PD are another topic.)  (What is it about us as animals/mammals that being in a room together is different than a Google Hangout?   I liken ebooks to Skype conversations - we do miss something, whether faint pheromones or just broader visual clues about the physical entity/environment.)The big conference with keynote speakers and multiple vendor displays is the most established.  Outside that paradigm, everyone is experimenting with combinations of macro (whole audience keynote), mini (1 hour workshop/presentation), micro (20 min), and nano (5 min, lightning round style) sessions.  The degree of expected participation assumed in the design of the event also varies, from prepared presentations (whether read or spoken, with or without slideshows) to hands-on exercises to a free-flow unconference style.  Identification of themes and strands helps to tie the event and people together.What works in one physical setting won't work in another (we all know what the lack of decent wifi and acoustics does to any gathering) -- and the composition and size of the group has an enormous influence on what is effective and what isn't.  (Can I say here that the app I'm waiting for is the one where everyone can speak into their mobile device and it acts like a microphone such that the whole room can clearly hear the question being asked.... If you know of one, contact me immediately.)The online support for any event is also terribly important.  A decent website, available both before and after the event - with all the relevant backup materials - goes without saying, as well as well-publicized hashtags, so people not able to attend can easily eavesdrop.As a teacher-librarian, I participate in events designed with teachers in mind (e.g., Learning 2.0 Asia, EARCOS Teachers Conference and Google Apps for Education (GAFE) in Singapore) and events designed with librarians in mind (e.g., the International Federation of Library Associations (IFLA) and the American Library Association (ALA)), but the best for me are the hybrid kind -- where teacher-librarians get to meet and exchange ideas and experiences related to both teaching and to librarianship.  Local network after-school meetings provide that kind of in-person contact.  Here in Singapore we have ISLN (International Schools Library Network of Singapore), as other cities do -- Kuala Lumpur, Bangkok, Hong Kong, China, Japan, etc.  But more dedicated time together with other teacher-librarians is definitely worth it.In the region, there are several recurring events, e.g., the Librarian Knowledge Sharing Workshop (LKSW) (now coming up to its 4th year , back in Kuala Lumpur where it started); the School Librarian Connection, initiated last year in Hong Kong, up for repetition somewhere, perhaps Singapore; the Shanghai librarians conference; and in Taiwan this November an EARCOS-sponsored weekend on Tech-Integrated Libraries. The large-scale version of these are the International Association of School Librarianship (IASL) and the ECIS Triennial Librarians Conference -- though timing and distance are sometimes a problem.To give an idea of the range of ideas explored in the small-scale regional professional gatherings, see this summary sketch-note from the February 2015 Librarian Knowledge Sharing Workshop in Bangkok -- by Maggie Appleton.\n\nView fullsize\n\nAnd to give an idea of who attends these events, see this \"Who We Are\" Google Doc from the November 2015 School Librarian Connection conference in Hong Kong.This past June I attended the 2-day \"Research Relevance: K-12 Library Instruction for the 21st Century\" Colloquium in California.  Hats off to Tasha Bergson-Michelson, Jole Seroff, and Debbie Abilock - and all the others who organized the event that brought over 80 teacher-librarians together in Palo Alto at Castilleja School, just before the ALA annual conference started in San Francisco.I was lucky to be attending, both this colloquium and ALA, with a small cohort of international school teachers - the ever-ebullient Kate Brundage from the Singapore American School; the online-wonder Dianne McKenzie from Hong Kong; my new parallel campus secondary teacher-librarian at UWCSEA in Singapore, Kurt Wittig, previously in Cambodia; and a new UWC-related friend, Michelle Fitzgerald from Japan.Research Relevance was a good combination of  experiences.  We started off with a communal exercise using raw creative materials -- based on \"Build a World\" from the Gamestorming book (which was inspired by the classic picture book for kids by Ed Emberley - \"Build a World\"). Our task?  To build our ideal library as symbolically or literally as we wanted.  We then did a gallery walk with each table explaining their creation to others.  Depending on your group and attitude, could have been painful or fun.  (Dianne and I had fun....)\n\nView fullsize\n\nDianne McKenzie working on our \"ideal library\" - which we called a \"prosumption palace\" - a place for both production and consumption.... (not original, but I forget where I first heard it)\n\nMaking things is quite trendy in the school/library world.  So we all enjoyed a tour of the school's makerspace -- the Bourn Idea Lab.  Click here to see my Google photo album.Hands-on experience and group interaction were admirably built into the two days.  For example, someone demo'ed a \"write-around\" exercise - where you move between tables, visually commenting on provocative snippets.\n\nView fullsize\n\nAnd when there was a session on exploring the difference between taking paper written notes vs. notes on a tablet using a stylus vs. notes typed on a laptop, the organizers had tablets and styli (those Latin plurals always look awkward, don't they?) for people to play with.  And every session ended with us writing Post-It note reflections publicly displayed.The residuals?  A Twitter stream (#ResearchRelevance) and a Google Folder of presenter materials -- bit.ly/ResearchRelevance  (a bit dense to navigate - only for the dedicated).  I'll relay my own pertinent take-aways about teaching and leading research in a separate blogpost.If you are interested in considering forms of conferences from an anthropological point of view, here's an interesting Medium article by the organizers of a conference on \"Genres of Scholarly Knowledge Production.\"  It considers conferences from an international university humanities perspective, but you can't help but apply it to our own school teacher/librarian PD experience.  E.g., the reliance on one screen and a slideshow.  The front of the room focus.  Thinking how to make the most of human beings being together.   Contemplating how the infrastructure of a conference affects the content and impact of the event....",
+    "word_count": 1059
+  },
+  "excerpt": "Forms of in-person professional development can be considered genres -- and like literary genres, they evolve.  (NB: Forms of online PD are another topic.)  (What is it about us as animals/mammals that being in a room together is different than a Google Hangout?   I liken ebooks to Skype conversa...",
+  "id": "2015-8-9-forms-of-face-to-face-professional-development-conference-workshop-symposium-colloquium",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "Professional development",
+      "School libraries"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2015-08-09T00:00:00",
+  "slug": "forms-of-face-to-face-professional-development-conference-workshop-symposium-colloquium",
+  "title": "The shape of face-to-face PD for teacher-librarians: Conference, workshop, symposium, colloquium?",
+  "url": "https://www.thelibrarianedge.com/libedge/2015/8/9/forms-of-face-to-face-professional-development-conference-workshop-symposium-colloquium"
+}

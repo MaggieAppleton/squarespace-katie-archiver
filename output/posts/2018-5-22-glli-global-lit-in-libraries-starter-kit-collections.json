@@ -1,0 +1,93 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:48:14.397847",
+    "scraped_at": "2025-08-04T10:47:44.246703",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 280,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 64,
+        "warnings": 0
+      },
+      "success_rate": 6400.0,
+      "summary": {
+        "automatic_fixes_applied": 280,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 64,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "GLLI (Global Lit in Libraries) - Starter Kit Collections?",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991690925-7SQTFYVQCVTLO8VGF7GA/Screenshot+2018-05-22+19.20.12.png?format=1500w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2018-05-22 19.20.12.png",
+        "caption": "",
+        "dimensions": {
+          "height": 541,
+          "width": 342
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "http://www.librarything.com/.../Global-Lit-in-Libs...",
+          "title": "",
+          "url": "http://www.librarything.com/list/18723/all/Global-Lit-in-Libs-Childrens-Lit-Starter-Kit-possibilities"
+        },
+        {
+          "text": "http://www.librarything.com/.../Global-Lit-in-Libs-YA...",
+          "title": "",
+          "url": "http://www.librarything.com/list/18722/all/Global-Lit-in-Libs-YA-Starter-Kit-possibilities"
+        },
+        {
+          "text": "http://www.librarything.com/catalog/glli",
+          "title": "",
+          "url": "http://www.librarything.com/catalog/glli"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526991728334\" id=\"item-5b0409da2b6a2868279bda5f\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300860854_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300860854_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-652b3c38c599ada1ec3a\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Idea coming out of IASL 2018 in Turkey (thanks to Karen Van Drie) - every school library should have 2 books from each country.  She suggested over on Facebook that we get Follett to make/host the list.</p><p>Instead I suggested using LibraryThing -- e.g., see this public crowd-source List for Children's Lit:<br/> <a href=\"http://www.librarything.com/list/18723/all/Global-Lit-in-Libs-Childrens-Lit-Starter-Kit-possibilities\" target=\"_blank\">http://www.librarything.com/.../Global-Lit-in-Libs...</a><br/><br/>and one for YA Lit:<br/><a href=\"http://www.librarything.com/list/18722/all/Global-Lit-in-Libs-YA-Starter-Kit-possibilities\" target=\"_blank\">http://www.librarything.com/.../Global-Lit-in-Libs-YA...</a><br/><br/>As people add titles to this list, use the \"Explain\" feature to indicate which COUNTRY or CULTURE the book relates to -- and, if possible, in what way, e.g.,<br/><br/>-- Content of the book, e.g., setting or characters<br/>-- Author's background<br/>-- Location of original publication<br/>-- Translation<br/>--------------------------------</p><p>GLLI already has some wonderful collections started:  <a href=\"http://www.librarything.com/catalog/glli\" target=\"_blank\">http://www.librarything.com/catalog/glli</a></p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1526991284530_33629\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300860854_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300860854_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300860854_69\" style=\"max-width:342px;\">\n<a class=\"sqs-block-image-link\" href=\"http://www.librarything.com/catalog/glli\" id=\"yui_3_17_2_1_1754300860854_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300860854_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300860854_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:158.1871337890625%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2018-05-22 19.20.12.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png\" data-image-dimensions=\"342x541\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"541\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526991912219-IAJEYX86BMN1MDJ3WB9Q/Screenshot+2018-05-22+19.20.12.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"342\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Idea coming out of IASL 2018 in Turkey (thanks to Karen Van Drie) - every school library should have 2 books from each country.  She suggested over on Facebook that we get Follett to make/host the list.Instead I suggested using LibraryThing -- e.g., see this public crowd-source List for Children's Lit: http://www.librarything.com/.../Global-Lit-in-Libs...and one for YA Lit:http://www.librarything.com/.../Global-Lit-in-Libs-YA...As people add titles to this list, use the \"Explain\" feature to indicate which COUNTRY or CULTURE the book relates to -- and, if possible, in what way, e.g.,-- Content of the book, e.g., setting or characters-- Author's background-- Location of original publication-- Translation--------------------------------GLLI already has some wonderful collections started:  http://www.librarything.com/catalog/glli",
+    "text": "Idea coming out of IASL 2018 in Turkey (thanks to Karen Van Drie) - every school library should have 2 books from each country.  She suggested over on Facebook that we get Follett to make/host the list.Instead I suggested using LibraryThing -- e.g., see this public crowd-source List for Children's Lit: http://www.librarything.com/.../Global-Lit-in-Libs...and one for YA Lit:http://www.librarything.com/.../Global-Lit-in-Libs-YA...As people add titles to this list, use the \"Explain\" feature to indicate which COUNTRY or CULTURE the book relates to -- and, if possible, in what way, e.g.,-- Content of the book, e.g., setting or characters-- Author's background-- Location of original publication-- Translation--------------------------------GLLI already has some wonderful collections started:  http://www.librarything.com/catalog/glli",
+    "word_count": 106
+  },
+  "excerpt": "Idea coming out of IASL 2018 in Turkey (thanks to Karen Van Drie) - every school library should have 2 books from each country.  She suggested over on Facebook that we get Follett to make/host the list.Instead I suggested using LibraryThing -- e.g.",
+  "id": "2018-5-22-glli-global-lit-in-libraries-starter-kit-collections",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "glli-global-lit-in-libraries-starter-kit-collections",
+  "title": "GLLI (Global Lit in Libraries) - Starter Kit Collections?",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/glli-global-lit-in-libraries-starter-kit-collections"
+}

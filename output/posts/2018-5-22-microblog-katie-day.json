@@ -1,0 +1,82 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:04:16.179893",
+    "scraped_at": "2025-08-04T11:03:46.039900",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 286,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 66,
+        "warnings": 0
+      },
+      "success_rate": 6600.0,
+      "summary": {
+        "automatic_fixes_applied": 286,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 66,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "http://neevliteraturefestival.org/",
+          "title": "",
+          "url": "http://neevliteraturefestival.org/"
+        },
+        {
+          "text": "https://www.librarything.com/catalog.php?view=neevlit&collection=506635&shelf=list&sort=title&sort=title",
+          "title": "",
+          "url": "https://www.librarything.com/catalog.php?view=neevlit&collection=506635&shelf=list&sort=title&sort=title"
+        },
+        {
+          "text": "https://www.librarycat.org/lib/neevlit",
+          "title": "",
+          "url": "https://www.librarycat.org/lib/neevlit"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526991181572\" id=\"item-5b040878758d46ba386af94a\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-245ca0beef6ada88267e\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Recently re-discovered my love for LibraryThing, after valiantly trying to use Goodreads (with its easy Google Apps for Education integration) for different school librarian projects (Red Dots, Bangkok Book Awards, draft class library lists, etc.), but LT has so much more power.  And now there's the TinyCat interface....</p><p>For example, there's a new children's book award starting up in India, growing out of the annual Neev Literature Festival - <a href=\"http://neevliteraturefestival.org/\" target=\"_blank\">http://neevliteraturefestival.org/</a>.</p><p>And with committee members in different countries, each reading one-third of the longlist titles submitted by Indian publishers, we needed a way to share the whole list.  Why not LibraryThing?  E.g.,  <a href=\"https://www.librarything.com/catalog.php?view=neevlit&amp;collection=506635&amp;shelf=list&amp;sort=title&amp;sort=title\" target=\"_blank\">https://www.librarything.com/catalog.php?view=neevlit&amp;collection=506635&amp;shelf=list&amp;sort=title&amp;sort=title</a></p><p>Especially as there's that beautiful simple interface (the tinycat option):  <a href=\"https://www.librarycat.org/lib/neevlit\" target=\"_blank\">https://www.librarycat.org/lib/neevlit</a> </p><p>I foresee this LT catalog as a database of India-related children and YA literature, compiled by the Neev committee.</p><p> </p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Recently re-discovered my love for LibraryThing, after valiantly trying to use Goodreads (with its easy Google Apps for Education integration) for different school librarian projects (Red Dots, Bangkok Book Awards, draft class library lists, etc.), but LT has so much more power.  And now there's the TinyCat interface....For example, there's a new children's book award starting up in India, growing out of the annual Neev Literature Festival - http://neevliteraturefestival.org/.And with committee members in different countries, each reading one-third of the longlist titles submitted by Indian publishers, we needed a way to share the whole list.  Why not LibraryThing?  E.g.,  https://www.librarything.com/catalog.php?view=neevlit&collection=506635&shelf=list&sort=title&sort=titleEspecially as there's that beautiful simple interface (the tinycat option):  https://www.librarycat.org/lib/neevlit I foresee this LT catalog as a database of India-related children and YA literature, compiled by the Neev committee.",
+    "text": "Recently re-discovered my love for LibraryThing, after valiantly trying to use Goodreads (with its easy Google Apps for Education integration) for different school librarian projects (Red Dots, Bangkok Book Awards, draft class library lists, etc.), but LT has so much more power.  And now there's the TinyCat interface....For example, there's a new children's book award starting up in India, growing out of the annual Neev Literature Festival - http://neevliteraturefestival.org/.And with committee members in different countries, each reading one-third of the longlist titles submitted by Indian publishers, we needed a way to share the whole list.  Why not LibraryThing?  E.g.,  https://www.librarything.com/catalog.php?view=neevlit&collection=506635&shelf=list&sort=title&sort=titleEspecially as there's that beautiful simple interface (the tinycat option):  https://www.librarycat.org/lib/neevlit I foresee this LT catalog as a database of India-related children and YA literature, compiled by the Neev committee.",
+    "word_count": 129
+  },
+  "excerpt": "Recently re-discovered my love for LibraryThing, after valiantly trying to use Goodreads (with its easy Google Apps for Education integration) for different school librarian projects (Red Dots, Bangkok Book Awards, draft class library lists, etc.), but LT has so much more power.",
+  "id": "2018-5-22-microblog-katie-day",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "microblog-katie-day",
+  "title": "LibraryThing over Goodreads for sharing tagged lists",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/microblog-katie-day"
+}

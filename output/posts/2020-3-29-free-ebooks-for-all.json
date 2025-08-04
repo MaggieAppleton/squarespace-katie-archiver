@@ -1,0 +1,277 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:29:10.339581",
+    "scraped_at": "2025-08-04T11:28:39.902117",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 359,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 86,
+        "warnings": 0
+      },
+      "success_rate": 8600.0,
+      "summary": {
+        "automatic_fixes_applied": 359,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 86,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screenshot 2020-03-27 10.16.09.png",
+        "caption": "",
+        "dimensions": {
+          "height": 497,
+          "width": 506
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2020-03-27 10.10.08.png",
+        "caption": "",
+        "dimensions": {
+          "height": 515,
+          "width": 842
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2020-03-29 15.15.35.png",
+        "caption": "",
+        "dimensions": {
+          "height": 615,
+          "width": 850
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2020-03-29 20.00.57.png",
+        "caption": "",
+        "dimensions": {
+          "height": 619,
+          "width": 785
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "the Internet Archive’s response to questions",
+          "title": "",
+          "url": "https://blog.archive.org/2020/03/30/internet-archive-responds-why-we-released-the-national-emergency-library/"
+        },
+        {
+          "text": "ibraries & librarians who signed this statement",
+          "title": "",
+          "url": "https://docs.google.com/document/d/1vkl3RX4CzpRTQsoG1tsdHC0foYiU7A8U_Vt1UyVboP8/edit"
+        },
+        {
+          "text": "National Emergency Library",
+          "title": "",
+          "url": "http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/"
+        },
+        {
+          "text": "Open Library",
+          "title": "",
+          "url": "https://openlibrary.org/"
+        },
+        {
+          "text": "sign up here",
+          "title": "",
+          "url": "https://archive.org/account/signup?referer=https%3A%2F%2Farchive.org%2F"
+        },
+        {
+          "text": "create a free Adobe account here",
+          "title": "",
+          "url": "https://account.adobe.com/"
+        },
+        {
+          "text": "download the free Adobe app here",
+          "title": "",
+          "url": "https://www.adobe.com/sea/solutions/ebook/digital-editions/download.html"
+        },
+        {
+          "text": "bit.ly/openlibraryfiction",
+          "title": "",
+          "url": "http://bit.ly/openlibraryfiction"
+        },
+        {
+          "text": "bit.ly/openlibraryfreefiction",
+          "title": "",
+          "url": "http://bit.ly/openlibraryfreefiction"
+        },
+        {
+          "text": "see my previous post",
+          "title": "",
+          "url": "http://www.thelibrarianedge.com/microblog/2018/9/20/epicbooks"
+        },
+        {
+          "text": "Open Culture",
+          "title": "",
+          "url": "http://www.openculture.com/"
+        },
+        {
+          "text": "Project Gutenberg",
+          "title": "",
+          "url": "https://www.gutenberg.org/"
+        },
+        {
+          "text": "classics suitable for middle-school students",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/642363-katie-day?shelf=free-ebooks-ms"
+        },
+        {
+          "text": "classics suitable for high school students",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/642363-katie-day?shelf=free-ebooks"
+        },
+        {
+          "text": "Holes (and its sequel, Small Steps)",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=holes%20sachar&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=creator%3A%22sachar%2C%20louis%2C%201954-%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "The Boy with the Striped Pajamas",
+          "title": "",
+          "url": "https://archive.org/details/boyinstripedpaja00john_0"
+        },
+        {
+          "text": "The Giver",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=%22the%20giver%22&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Speak",
+          "title": "",
+          "url": "https://archive.org/details/speak0000ande"
+        },
+        {
+          "text": "Animal Farm",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=%22animal%20farm%22%20orwell&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Fahrenheit 451",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=%22fahrenheit%20451%22&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Harry Potter",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=%22harry%20potter%22&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=subject%3A%22Potter%2C%20Harry%20%28Fictitious%20character%29%22&and%5B%5D=creator%3A%22rowling%2C%20j.%20k%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "The Mysterious Benedict Society",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=%22mysterious%20benedict%20society%22&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "The Hunger Games",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=suzanne%20collins&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Lord of the Rings",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=tolkien&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Rick Riordan",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=rick%20riordan&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-addeddate"
+        },
+        {
+          "text": "Michael Morpurgo",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=michael%20morpurgo&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=creator%3A%22morpurgo%2C%20michael%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Roald Dahl",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=roald%20dahl&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=creator%3A%22dahl%2C%20roald%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Haruki Murakami",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=haruki%20murakami&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=creator%3A%22murakami%2C%20haruki%2C%201949-%22&sin=&sort=-publicdate"
+        },
+        {
+          "text": "Margaret Atwood",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=margaret%20atwood&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Toni Morrison",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=toni%20morrison&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "Agatha Christie",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=agatha%20christie&and%5B%5D=subject%3A%22Fiction%22&and%5B%5D=languageSorter%3A%22English%22&and%5B%5D=firstCreator%3AC&and%5B%5D=creator%3A%22christie%2C%20agatha%2C%201890-1976%22&sin=&sort=creatorSorter"
+        },
+        {
+          "text": "Stephen King",
+          "title": "",
+          "url": "https://archive.org/details/inlibrary?and%5B%5D=stephen%20king&and%5B%5D=creator%3A%22king%2C%20stephen%2C%201947-%22&and%5B%5D=languageSorter%3A%22English%22&sin=&sort=-downloads"
+        },
+        {
+          "text": "The Diary of Anne Frank",
+          "title": "",
+          "url": "https://archive.org/details/isbn_9780140264739"
+        },
+        {
+          "text": "The Hitchhiker’s Guide to the Galaxy",
+          "title": "",
+          "url": "https://archive.org/details/hitchhikerssguid00doug"
+        },
+        {
+          "text": "@SecLibraryNIST",
+          "title": "",
+          "url": "https://twitter.com/SecLibraryNIST"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1585466085479\" id=\"item-5e8049f0d6fbed7437e3e39e\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754303316470_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754303316470_71\"><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1585491619957_19394\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303316470_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303316470_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303316470_68\" style=\"max-width:506px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303316470_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303316470_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:98.22134399414062%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2020-03-27 10.16.09.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png\" data-image-dimensions=\"506x497\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"497\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492017259-V6ZJJMOFX2C5CJE00L1A/Screenshot+2020-03-27+10.16.09.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"506\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-2173f314acca62171c3d\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Updated: Apr 12:  See<a href=\"https://blog.archive.org/2020/03/30/internet-archive-responds-why-we-released-the-national-emergency-library/\" target=\"_blank\"> the Internet Archive’s response to questions </a>about the legality of this.  The number of l<a href=\"https://docs.google.com/document/d/1vkl3RX4CzpRTQsoG1tsdHC0foYiU7A8U_Vt1UyVboP8/edit\" target=\"_blank\">ibraries &amp; librarians who signed this statement </a>supporting it is worth scanning.  </p><p class=\"\" style=\"white-space:pre-wrap;\">I changed the title of this post to more accurately reflect the situation.  And I will only be promoting titles for which I have copies sitting dormant in our school collection.  </p><p class=\"\" style=\"text-align:center;white-space:pre-wrap;\">—————————-</p><p class=\"\" style=\"white-space:pre-wrap;\">Thanks to the <a href=\"http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/\" target=\"_blank\">National Emergency Library</a>, <strong>anyone can borrow the same ebook at the same time</strong> — <strong>free </strong>via the Internet Archive and the <a href=\"https://openlibrary.org/\" target=\"_blank\">Open Library</a> — as waiting lists have been abolished <strong>until June 30th</strong>. </p><p class=\"\" style=\"white-space:pre-wrap;\">Anyone (<a href=\"https://archive.org/account/signup?referer=https%3A%2F%2Farchive.org%2F\" target=\"_blank\">sign up here</a>) can <strong>borrow</strong> <strong>up to 10 items</strong> at a time, for a 2-week loan period, to <strong>read online</strong> or <strong>download</strong> to read via <strong>Adobe Digital Editions</strong> (<a href=\"https://account.adobe.com/\" target=\"_blank\">create a free Adobe account here</a> / <a href=\"https://www.adobe.com/sea/solutions/ebook/digital-editions/download.html\" target=\"_blank\">download the free Adobe app here</a>). </p><p class=\"\" style=\"white-space:pre-wrap;\">And the books aren’t just the tired old out-of-copyright ones. Searching the 1.5 million titles in the catalog (scanned from various academic institutions) can be tricky, so start from this page: <strong>Books to Borrow -&gt; Fiction -&gt; in English -&gt; sorted by Title</strong> — using this short URL: <a href=\"http://bit.ly/openlibraryfiction\" target=\"_blank\"><strong>bit.ly/openlibraryfiction</strong></a> <strong>.  </strong>About 140,000 titles are returned from that search (and the number has gone down a bit over the last few weeks as authors have opted to have their works removed).  (At first I was promoting a shortened URL — <a href=\"http://bit.ly/openlibraryfreefiction\" target=\"_blank\">bit.ly/openlibraryfreefiction</a> — that returned results sorted by “most viewed” — but that included some dubious Penthouse story collections near the top of the list….)</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1585491619957_32253\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303316470_85\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303316470_84\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303316470_83\" style=\"max-width:842px;\">\n<a class=\"sqs-block-image-link\" href=\"http://bit.ly/openlibraryfreefiction\" id=\"yui_3_17_2_1_1754303316470_82\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303316470_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303316470_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:61.16389465332031%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2020-03-27 10.10.08.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png\" data-image-dimensions=\"842x515\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"515\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585492113273-LPXZVNNJ0J7SP82YK05K/Screenshot+2020-03-27+10.10.08.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"842\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1585491619957_32535\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Since the COVID-19 lockdown crisis has hit schools — and school libraries — making physical access to books impossible or problematic, we teacher-librarians have been scrambled to curate and advertise the digital resources available to our communities — especially ebooks and audiobooks — and especially the type of books that would provide <strong>free, voluntary pleasure reading for our secondary school students</strong>.  </p><p class=\"\" style=\"white-space:pre-wrap;\">Elementary school students, studying from home, have the benefit of accessing free <strong>EpicBooks</strong> (<a href=\"http://www.thelibrarianedge.com/microblog/2018/9/20/epicbooks\" target=\"_blank\">see my previous post</a>) during school hours, which provides a great variety of picture books and nonfiction texts, as well as some graphic novels.  Plus authors and publishers are letting picture books be read online via YouTube for all to enjoy.</p><p class=\"\" style=\"white-space:pre-wrap;\">For middle/high school students, there are quite a few places online to find free essays, short stories, and poetry (e.g., <a href=\"http://www.openculture.com/\" target=\"_blank\">Open Culture</a>), but it’s harder to find large collections of longer, more engrossing novels and narrative nonfiction.</p><p class=\"\" style=\"white-space:pre-wrap;\">School and public library systems can purchase new ebooks and audiobooks for lending through software vendors like <strong>Overdrive</strong> (with its Sora app), <strong>Borrowbox</strong>, and <strong>Follett Destiny</strong> — but those platforms can require an initial/ongoing investment of money or have a very awkward interface.</p><p class=\"\" style=\"white-space:pre-wrap;\">Many international school libraries are too small — or have been unconvinced of the demand for novel-reading on screens — to take the plunge.  Which leaves them, in this current international situation, with no physical books and just the free ebooks (works old enough to be out-of-copyright, e.g., published before 1923) available via <a href=\"https://www.gutenberg.org/\" target=\"_blank\">Project Gutenberg</a> et al.  </p><p class=\"\" style=\"white-space:pre-wrap;\">There’s nothing wrong with reading classics.  I have curated two lists on Goodreads of free <a href=\"https://www.goodreads.com/review/list/642363-katie-day?shelf=free-ebooks-ms\" target=\"_blank\">classics suitable for middle-school students</a> and <a href=\"https://www.goodreads.com/review/list/642363-katie-day?shelf=free-ebooks\" target=\"_blank\">classics suitable for high school students</a>. (NB: Goodreads has an online reading interface that uses <a href=\"https://www.gutenberg.org/\">Project Gutenberg</a> texts.)</p><p class=\"\" style=\"white-space:pre-wrap;\">But many of the titles on offer through the Open Library — and accessible thanks to the National Emergency Library — are more popular and relatively contemporary.  Terribly useful for schools without access to their libraries and book cupboards.  </p><p class=\"\" style=\"white-space:pre-wrap;\">You can find titles like <a href=\"https://archive.org/details/inlibrary?and%5B%5D=holes%20sachar&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=creator%3A%22sachar%2C%20louis%2C%201954-%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Holes (and its sequel, Small Steps)</a>, <a href=\"https://archive.org/details/boyinstripedpaja00john_0\" target=\"_blank\">The Boy with the Striped Pajamas</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=%22the%20giver%22&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">The Giver</a>, <a href=\"https://archive.org/details/speak0000ande\" target=\"_blank\">Speak</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=%22animal%20farm%22%20orwell&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Animal Farm</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=%22fahrenheit%20451%22&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Fahrenheit 451</a>, etc.</p><p class=\"\" style=\"white-space:pre-wrap;\">You can find series like <a href=\"https://archive.org/details/inlibrary?and%5B%5D=%22harry%20potter%22&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=subject%3A%22Potter%2C%20Harry%20%28Fictitious%20character%29%22&amp;and%5B%5D=creator%3A%22rowling%2C%20j.%20k%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Harry Potter</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=%22mysterious%20benedict%20society%22&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">The Mysterious Benedict Society</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=suzanne%20collins&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">The Hunger Games</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=tolkien&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Lord of the Rings</a>, etc.</p><p class=\"\" style=\"white-space:pre-wrap;\">You can find authors like <a href=\"https://archive.org/details/inlibrary?and%5B%5D=rick%20riordan&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-addeddate\" target=\"_blank\">Rick Riordan</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=michael%20morpurgo&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=creator%3A%22morpurgo%2C%20michael%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Michael Morpurgo</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=roald%20dahl&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=creator%3A%22dahl%2C%20roald%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Roald Dahl</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=haruki%20murakami&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=creator%3A%22murakami%2C%20haruki%2C%201949-%22&amp;sin=&amp;sort=-publicdate\" target=\"_blank\">Haruki Murakami</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=margaret%20atwood&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Margaret Atwood</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=toni%20morrison&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Toni Morrison</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=agatha%20christie&amp;and%5B%5D=subject%3A%22Fiction%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;and%5B%5D=firstCreator%3AC&amp;and%5B%5D=creator%3A%22christie%2C%20agatha%2C%201890-1976%22&amp;sin=&amp;sort=creatorSorter\" target=\"_blank\">Agatha Christie</a>, <a href=\"https://archive.org/details/inlibrary?and%5B%5D=stephen%20king&amp;and%5B%5D=creator%3A%22king%2C%20stephen%2C%201947-%22&amp;and%5B%5D=languageSorter%3A%22English%22&amp;sin=&amp;sort=-downloads\" target=\"_blank\">Stephen King</a>, etc.</p><p class=\"\" style=\"white-space:pre-wrap;\">Think book circles, think book groups, think shared reading experiences… </p><p class=\"\" style=\"white-space:pre-wrap;\">This is the time for students to read <a href=\"https://archive.org/details/isbn_9780140264739\">The Diary of Anne Frank</a>, if they haven’t before! </p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1585466088343_37565\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303316470_95\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303316470_94\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303316470_93\" style=\"max-width:850px;\">\n<a class=\"sqs-block-image-link\" href=\"https://archive.org/details/isbn_9780140264739\" id=\"yui_3_17_2_1_1754303316470_92\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303316470_91\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303316470_90\" style=\"\n                position: relative;\n                \n                  padding-bottom:72.35294342041016%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2020-03-29 15.15.35.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png\" data-image-dimensions=\"850x615\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"615\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585469817126-STG9Y5U8Y0Y5HC5BAHJ9/Screenshot+2020-03-29+15.15.35.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"850\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1585466088343_39196\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">If laughter and escapism are called for, then why not have students appreciate another modern classic — <a href=\"https://archive.org/details/hitchhikerssguid00doug\" target=\"_blank\">The Hitchhiker’s Guide to the Galaxy</a>?</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1585466088343_129363\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303316470_105\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303316470_104\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303316470_103\" style=\"max-width:785px;\">\n<a class=\"sqs-block-image-link\" href=\"https://archive.org/details/hitchhikerssguid00doug\" id=\"yui_3_17_2_1_1754303316470_102\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303316470_101\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303316470_100\" style=\"\n                position: relative;\n                \n                  padding-bottom:78.85350799560547%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2020-03-29 20.00.57.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png\" data-image-dimensions=\"785x619\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"619\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1585486913852-24JZNCVPZCGNOMEYU9DY/Screenshot+2020-03-29+20.00.57.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"785\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1585466088343_129646\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">I’ll be highlighting individual titles, series, and authors available as free National Emergency Library ebooks through my secondary library Twitter feed in the coming weeks — follow <a href=\"https://twitter.com/SecLibraryNIST\" target=\"_blank\">@SecLibraryNIST</a>.</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Updated: Apr 12:  See the Internet Archive’s response to questions about the legality of this.  The number of libraries & librarians who signed this statement supporting it is worth scanning.  I changed the title of this post to more accurately reflect the situation.  And I will only be promoting titles for which I have copies sitting dormant in our school collection.  —————————-Thanks to the National Emergency Library, anyone can borrow the same ebook at the same time — free via the Internet Archive and the Open Library — as waiting lists have been abolished until June 30th. Anyone (sign up here) can borrow up to 10 items at a time, for a 2-week loan period, to read online or download to read via Adobe Digital Editions (create a free Adobe account here / download the free Adobe app here). And the books aren’t just the tired old out-of-copyright ones. Searching the 1.5 million titles in the catalog (scanned from various academic institutions) can be tricky, so start from this page: Books to Borrow -> Fiction -> in English -> sorted by Title — using this short URL: bit.ly/openlibraryfiction .  About 140,000 titles are returned from that search (and the number has gone down a bit over the last few weeks as authors have opted to have their works removed).  (At first I was promoting a shortened URL — bit.ly/openlibraryfreefiction — that returned results sorted by “most viewed” — but that included some dubious Penthouse story collections near the top of the list….)\n\nSince the COVID-19 lockdown crisis has hit schools — and school libraries — making physical access to books impossible or problematic, we teacher-librarians have been scrambled to curate and advertise the digital resources available to our communities — especially ebooks and audiobooks — and especially the type of books that would provide free, voluntary pleasure reading for our secondary school students.  Elementary school students, studying from home, have the benefit of accessing free EpicBooks (see my previous post) during school hours, which provides a great variety of picture books and nonfiction texts, as well as some graphic novels.  Plus authors and publishers are letting picture books be read online via YouTube for all to enjoy.For middle/high school students, there are quite a few places online to find free essays, short stories, and poetry (e.g., Open Culture), but it’s harder to find large collections of longer, more engrossing novels and narrative nonfiction.School and public library systems can purchase new ebooks and audiobooks for lending through software vendors like Overdrive (with its Sora app), Borrowbox, and Follett Destiny — but those platforms can require an initial/ongoing investment of money or have a very awkward interface.Many international school libraries are too small — or have been unconvinced of the demand for novel-reading on screens — to take the plunge.  Which leaves them, in this current international situation, with no physical books and just the free ebooks (works old enough to be out-of-copyright, e.g., published before 1923) available via Project Gutenberg et al.  There’s nothing wrong with reading classics.  I have curated two lists on Goodreads of free classics suitable for middle-school students and classics suitable for high school students. (NB: Goodreads has an online reading interface that uses Project Gutenberg texts.)But many of the titles on offer through the Open Library — and accessible thanks to the National Emergency Library — are more popular and relatively contemporary.  Terribly useful for schools without access to their libraries and book cupboards.  You can find titles like Holes (and its sequel, Small Steps), The Boy with the Striped Pajamas, The Giver, Speak, Animal Farm, Fahrenheit 451, etc.You can find series like Harry Potter, The Mysterious Benedict Society, The Hunger Games, Lord of the Rings, etc.You can find authors like Rick Riordan, Michael Morpurgo, Roald Dahl, Haruki Murakami, Margaret Atwood, Toni Morrison, Agatha Christie, Stephen King, etc.Think book circles, think book groups, think shared reading experiences… This is the time for students to read The Diary of Anne Frank, if they haven’t before! \n\nIf laughter and escapism are called for, then why not have students appreciate another modern classic — The Hitchhiker’s Guide to the Galaxy?\n\nI’ll be highlighting individual titles, series, and authors available as free National Emergency Library ebooks through my secondary library Twitter feed in the coming weeks — follow @SecLibraryNIST.",
+    "text": "Updated: Apr 12:  See the Internet Archive’s response to questions about the legality of this.  The number of libraries & librarians who signed this statement supporting it is worth scanning.  I changed the title of this post to more accurately reflect the situation.  And I will only be promoting titles for which I have copies sitting dormant in our school collection.  —————————-Thanks to the National Emergency Library, anyone can borrow the same ebook at the same time — free via the Internet Archive and the Open Library — as waiting lists have been abolished until June 30th. Anyone (sign up here) can borrow up to 10 items at a time, for a 2-week loan period, to read online or download to read via Adobe Digital Editions (create a free Adobe account here / download the free Adobe app here). And the books aren’t just the tired old out-of-copyright ones. Searching the 1.5 million titles in the catalog (scanned from various academic institutions) can be tricky, so start from this page: Books to Borrow -> Fiction -> in English -> sorted by Title — using this short URL: bit.ly/openlibraryfiction .  About 140,000 titles are returned from that search (and the number has gone down a bit over the last few weeks as authors have opted to have their works removed).  (At first I was promoting a shortened URL — bit.ly/openlibraryfreefiction — that returned results sorted by “most viewed” — but that included some dubious Penthouse story collections near the top of the list….)\n\nSince the COVID-19 lockdown crisis has hit schools — and school libraries — making physical access to books impossible or problematic, we teacher-librarians have been scrambled to curate and advertise the digital resources available to our communities — especially ebooks and audiobooks — and especially the type of books that would provide free, voluntary pleasure reading for our secondary school students.  Elementary school students, studying from home, have the benefit of accessing free EpicBooks (see my previous post) during school hours, which provides a great variety of picture books and nonfiction texts, as well as some graphic novels.  Plus authors and publishers are letting picture books be read online via YouTube for all to enjoy.For middle/high school students, there are quite a few places online to find free essays, short stories, and poetry (e.g., Open Culture), but it’s harder to find large collections of longer, more engrossing novels and narrative nonfiction.School and public library systems can purchase new ebooks and audiobooks for lending through software vendors like Overdrive (with its Sora app), Borrowbox, and Follett Destiny — but those platforms can require an initial/ongoing investment of money or have a very awkward interface.Many international school libraries are too small — or have been unconvinced of the demand for novel-reading on screens — to take the plunge.  Which leaves them, in this current international situation, with no physical books and just the free ebooks (works old enough to be out-of-copyright, e.g., published before 1923) available via Project Gutenberg et al.  There’s nothing wrong with reading classics.  I have curated two lists on Goodreads of free classics suitable for middle-school students and classics suitable for high school students. (NB: Goodreads has an online reading interface that uses Project Gutenberg texts.)But many of the titles on offer through the Open Library — and accessible thanks to the National Emergency Library — are more popular and relatively contemporary.  Terribly useful for schools without access to their libraries and book cupboards.  You can find titles like Holes (and its sequel, Small Steps), The Boy with the Striped Pajamas, The Giver, Speak, Animal Farm, Fahrenheit 451, etc.You can find series like Harry Potter, The Mysterious Benedict Society, The Hunger Games, Lord of the Rings, etc.You can find authors like Rick Riordan, Michael Morpurgo, Roald Dahl, Haruki Murakami, Margaret Atwood, Toni Morrison, Agatha Christie, Stephen King, etc.Think book circles, think book groups, think shared reading experiences… This is the time for students to read The Diary of Anne Frank, if they haven’t before! \n\nIf laughter and escapism are called for, then why not have students appreciate another modern classic — The Hitchhiker’s Guide to the Galaxy?\n\nI’ll be highlighting individual titles, series, and authors available as free National Emergency Library ebooks through my secondary library Twitter feed in the coming weeks — follow @SecLibraryNIST.",
+    "word_count": 719
+  },
+  "excerpt": "Updated: Apr 12:  See the Internet Archive’s response to questions about the legality of this.  The number of libraries & librarians who signed this statement supporting it is worth scanning.  I changed the title of this post to more accurately reflect the situation.",
+  "id": "2020-3-29-free-ebooks-for-all",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "ebooks"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2020-03-29T00:00:00",
+  "slug": "free-ebooks-for-all",
+  "title": "Increased access to eBook loans for all - until June 30th",
+  "url": "https://www.thelibrarianedge.com/microblog/2020/3/29/free-ebooks-for-all"
+}

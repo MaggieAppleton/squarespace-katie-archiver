@@ -1,0 +1,162 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:41:57.867126",
+    "scraped_at": "2025-08-04T10:41:27.607295",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 244,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 54,
+        "warnings": 0
+      },
+      "success_rate": 5400.0,
+      "summary": {
+        "automatic_fixes_applied": 244,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 54,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 336,
+          "width": 640
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg",
+        "title": ""
+      },
+      {
+        "alt_text": "POSTER: 10 Common Errors",
+        "caption": "",
+        "dimensions": {
+          "height": 1652,
+          "width": 2338
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 333,
+          "width": 725
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "What NOT to do....",
+        "caption": "",
+        "dimensions": {
+          "height": 4958,
+          "width": 7016
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "",
+          "title": "",
+          "url": "http://www.demilked.com/tshirt-icons-for-travelers-iconspeak-world/"
+        },
+        {
+          "text": "Kurt Wittig",
+          "title": "",
+          "url": "https://twitter.com/kurtwittig"
+        },
+        {
+          "text": "the poster below",
+          "title": "",
+          "url": "https://www.dropbox.com/s/wizr2azmdnezs1e/Common%20Errors%20Noun%20Project%20poster%20-%20LARGE.pdf?dl=0"
+        },
+        {
+          "text": "White Paper Plagiarism Spectrum",
+          "title": "",
+          "url": "http://turnitin.com/assets/en_us/media/plagiarism_spectrum.php"
+        },
+        {
+          "text": "click here for a link",
+          "title": "",
+          "url": "https://www.dropbox.com/sh/xc64lcemc1qdhcp/AAD9iW92kwIZWJs3axLzKQSha?dl=0"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1468598373751\" id=\"item-5789082df5e2313700b56909\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300484201_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300484201_72\"><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1468593495502_63621\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300484201_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300484201_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300484201_69\" style=\"max-width:640px;\">\n<a class=\"sqs-block-image-link\" href=\"http://www.demilked.com/tshirt-icons-for-travelers-iconspeak-world/\" id=\"yui_3_17_2_1_1754300484201_68\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300484201_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300484201_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:52.499996185302734%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg\" data-image-dimensions=\"640x336\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"336\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468599486956-8OVEOTOW0C0EA2ORII4P/image-asset.jpeg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"640\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1468593495502_67537\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Inspired by the wordless \"Travelers T-Shirt\" (right) -- see <a href=\"http://www.demilked.com/tshirt-icons-for-travelers-iconspeak-world/\" target=\"_blank\">http://www.demilked.com/…/tshirt-icons-for-travelers-iconsp…</a> -- and prompted by an IBO Diploma Programme workshop on the Extended Essay, <a href=\"https://twitter.com/kurtwittig\" target=\"_blank\">Kurt Wittig</a> (my counterpart at our parallel campus) and I developed the poster below (yes, it's Creative Commons, so download and use). </p><p>In the workshop, the leaders admonished us about giving students too much specific feedback on their essays, especially by correcting citations -- though they said we could look and identify types of problems.</p><p>So Kurt and I joked that we needed to make T-shirts, like the wordless one above, where you could communicate by just pointing to icons.  A quick visual way to give students big hints about things possibly wrong somewhere in their essay, e.g., relating to referencing and/or the bibliography.  And then let them go find and correct their own errors. </p><p>We started by making <a href=\"https://www.dropbox.com/s/wizr2azmdnezs1e/Common%20Errors%20Noun%20Project%20poster%20-%20LARGE.pdf?dl=0\" target=\"_blank\">the poster below</a>.  (The T-shirts have yet to be produced....)</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-aspect-ratio=\"69.11111111111111\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1468593495502_34730\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300484201_85\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300484201_84\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300484201_83\" style=\"max-width:2338px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300484201_82\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300484201_81\" style=\"\n                position: relative;\n                \n                  padding-bottom:69.11111450195312%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"POSTER: 10 Common Errors\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors\" data-image-dimensions=\"2338x1652\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1652\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468598412141-JVHHGWHUQ7OQQWQJA76F/POSTER%3A+10+Common+Errors?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2338\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1468593495502_75490\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>The problem of self-plagiarism was raised at the same IB workshop, so that was included.  Another one students are often unaware of is the fact that you can't put anything in your bibliography that you don't actually cite in your paper -- what we have called\" Extra references\" (though it could also have been called \"Padding your bibliography\").  \"No author voice\" refers to writing which can be all perfectly paraphrased and cited, but where no analysis or original thinking is evident.  (It's not a \"conversation\" unless you contribute something!)</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1468593495502_89840\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300484201_94\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300484201_93\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300484201_92\" style=\"max-width:725px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300484201_91\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300484201_90\" style=\"\n                position: relative;\n                \n                  padding-bottom:45.931034088134766%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png\" data-image-dimensions=\"725x333\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"333\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468635224797-FDSI012N7BVBE4P1XJWS/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"725\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1468593495502_128486\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Kurt and I also had fun developing an activity for our students based on Turnitin's <a href=\"http://turnitin.com/assets/en_us/media/plagiarism_spectrum.php\" target=\"_blank\">White Paper Plagiarism Spectrum</a> -- an incredibly useful list of 10 types of unoriginal work.   We thought how great it would be to give students the task of sorting the infractions from \"most academically dishonest\" to \"most honest.\"</p><p>But first we had to do it ourselves.  Below is our result (moving from left to right, most dishonest to least dishonest), though (truth be told) I'm not sure now that I can justify each position.  But that's the beauty.  You have to figure it out for yourself and come up with your own justifications -- each time.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-aspect-ratio=\"58.55555555555556\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1468593495502_124767\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300484201_103\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300484201_102\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300484201_101\" style=\"max-width:7016px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300484201_100\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300484201_99\" style=\"\n                position: relative;\n                \n                  padding-bottom:58.55555725097656%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"What NOT to do....\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....\" data-image-dimensions=\"7016x4958\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"4958\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1468637683143-QWY9P9IM995JLN7UQ3OA/What+NOT+to+do....?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"7016\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1468593495502_154586\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>We give groups of students ( 3 to 4 max) each a set of 10 Turnitin cards and see how they organize them, from worst to least worst.   It's a very interesting exercise.</p><p>If you feel like trying it with your students, <a href=\"https://www.dropbox.com/sh/xc64lcemc1qdhcp/AAD9iW92kwIZWJs3axLzKQSha?dl=0\" target=\"_blank\">click here for a link</a> to a folder with seven PDFs of the set of cards, each color-coded and ready to be printed out (on A5 or whatever).  A downloaded copy of the full Turnitin White Paper Plagiarism Spectrum study can also be found there.</p><p> </p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Inspired by the wordless \"Travelers T-Shirt\" (right) -- see http://www.demilked.com/…/tshirt-icons-for-travelers-iconsp… -- and prompted by an IBO Diploma Programme workshop on the Extended Essay, Kurt Wittig (my counterpart at our parallel campus) and I developed the poster below (yes, it's Creative Commons, so download and use). In the workshop, the leaders admonished us about giving students too much specific feedback on their essays, especially by correcting citations -- though they said we could look and identify types of problems.So Kurt and I joked that we needed to make T-shirts, like the wordless one above, where you could communicate by just pointing to icons.  A quick visual way to give students big hints about things possibly wrong somewhere in their essay, e.g., relating to referencing and/or the bibliography.  And then let them go find and correct their own errors. We started by making the poster below.  (The T-shirts have yet to be produced....)\n\nThe problem of self-plagiarism was raised at the same IB workshop, so that was included.  Another one students are often unaware of is the fact that you can't put anything in your bibliography that you don't actually cite in your paper -- what we have called\" Extra references\" (though it could also have been called \"Padding your bibliography\").  \"No author voice\" refers to writing which can be all perfectly paraphrased and cited, but where no analysis or original thinking is evident.  (It's not a \"conversation\" unless you contribute something!)\n\nKurt and I also had fun developing an activity for our students based on Turnitin's White Paper Plagiarism Spectrum -- an incredibly useful list of 10 types of unoriginal work.   We thought how great it would be to give students the task of sorting the infractions from \"most academically dishonest\" to \"most honest.\"But first we had to do it ourselves.  Below is our result (moving from left to right, most dishonest to least dishonest), though (truth be told) I'm not sure now that I can justify each position.  But that's the beauty.  You have to figure it out for yourself and come up with your own justifications -- each time.\n\nWe give groups of students ( 3 to 4 max) each a set of 10 Turnitin cards and see how they organize them, from worst to least worst.   It's a very interesting exercise.If you feel like trying it with your students, click here for a link to a folder with seven PDFs of the set of cards, each color-coded and ready to be printed out (on A5 or whatever).  A downloaded copy of the full Turnitin White Paper Plagiarism Spectrum study can also be found there.",
+    "text": "Inspired by the wordless \"Travelers T-Shirt\" (right) -- see http://www.demilked.com/…/tshirt-icons-for-travelers-iconsp… -- and prompted by an IBO Diploma Programme workshop on the Extended Essay, Kurt Wittig (my counterpart at our parallel campus) and I developed the poster below (yes, it's Creative Commons, so download and use). In the workshop, the leaders admonished us about giving students too much specific feedback on their essays, especially by correcting citations -- though they said we could look and identify types of problems.So Kurt and I joked that we needed to make T-shirts, like the wordless one above, where you could communicate by just pointing to icons.  A quick visual way to give students big hints about things possibly wrong somewhere in their essay, e.g., relating to referencing and/or the bibliography.  And then let them go find and correct their own errors. We started by making the poster below.  (The T-shirts have yet to be produced....)\n\nThe problem of self-plagiarism was raised at the same IB workshop, so that was included.  Another one students are often unaware of is the fact that you can't put anything in your bibliography that you don't actually cite in your paper -- what we have called\" Extra references\" (though it could also have been called \"Padding your bibliography\").  \"No author voice\" refers to writing which can be all perfectly paraphrased and cited, but where no analysis or original thinking is evident.  (It's not a \"conversation\" unless you contribute something!)\n\nKurt and I also had fun developing an activity for our students based on Turnitin's White Paper Plagiarism Spectrum -- an incredibly useful list of 10 types of unoriginal work.   We thought how great it would be to give students the task of sorting the infractions from \"most academically dishonest\" to \"most honest.\"But first we had to do it ourselves.  Below is our result (moving from left to right, most dishonest to least dishonest), though (truth be told) I'm not sure now that I can justify each position.  But that's the beauty.  You have to figure it out for yourself and come up with your own justifications -- each time.\n\nWe give groups of students ( 3 to 4 max) each a set of 10 Turnitin cards and see how they organize them, from worst to least worst.   It's a very interesting exercise.If you feel like trying it with your students, click here for a link to a folder with seven PDFs of the set of cards, each color-coded and ready to be printed out (on A5 or whatever).  A downloaded copy of the full Turnitin White Paper Plagiarism Spectrum study can also be found there.",
+    "word_count": 436
+  },
+  "excerpt": "Inspired by the wordless \"Travelers T-Shirt\" (right) -- see http://www.demilked.com/…/tshirt-icons-for-travelers-iconsp… -- and prompted by an IBO Diploma Programme workshop on the Extended Essay, Kurt Wittig (my counterpart at our parallel campus) and I developed the poster below (ye...",
+  "id": "2016-7-15-pointing-out-errors-in-referencing-and-bibliographies",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "referencing",
+      "Research/inquiry",
+      "bibliographies"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2016-07-15T00:00:00",
+  "slug": "pointing-out-errors-in-referencing-and-bibliographies",
+  "title": "Pointing out the errors of their ways -- when it comes to referencing and bibliographies",
+  "url": "https://www.thelibrarianedge.com/libedge/2016/7/15/pointing-out-errors-in-referencing-and-bibliographies"
+}

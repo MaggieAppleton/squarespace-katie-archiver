@@ -1,0 +1,220 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:43:52.871354",
+    "scraped_at": "2025-08-04T10:43:22.536979",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 256,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 57,
+        "warnings": 0
+      },
+      "success_rate": 5700.0,
+      "summary": {
+        "automatic_fixes_applied": 256,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 57,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "shar pin before 2016-10-02 14.55.19.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": 1200,
+          "width": 1600
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg",
+        "title": ""
+      },
+      {
+        "alt_text": "Shar Pin finished building IMG_7811.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1200,
+          "width": 1600
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "Shar pin collection chart IMG_7397(1).JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1600,
+          "width": 1200
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "Myanmar passing out shelfmarkers IMG_7810 copy.jpeg",
+        "caption": "",
+        "dimensions": {
+          "height": 668,
+          "width": 527
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "A version of this",
+          "title": "",
+          "url": "http://silcsing.blogspot.com/2016/10/setting-up-village-school-library-in.html"
+        },
+        {
+          "text": "PACE",
+          "title": "",
+          "url": "https://www.uwcsea.edu.sg/pace"
+        },
+        {
+          "text": "Tabitha Foundation",
+          "title": "",
+          "url": "https://tabitha-cambodia.org/"
+        },
+        {
+          "text": "100Schools",
+          "title": "",
+          "url": "http://100schools.org/"
+        },
+        {
+          "text": "Myanmar Library Association (MLA)",
+          "title": "",
+          "url": "https://www.facebook.com/Myanmar-Library-Association-759155320812626/"
+        },
+        {
+          "text": "Third Story Children's Books",
+          "title": "",
+          "url": "https://www.facebook.com/thirdstorychildrenbooks"
+        },
+        {
+          "text": "Poetry - PINK TRIANGLE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/Fo0zScoO9iGbB9u43"
+        },
+        {
+          "text": "Fun Comics - WHITE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/BCawapA1VJAGqGfV2"
+        },
+        {
+          "text": "Cultural Stories - DARK ORANGE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/wNkfyTufSW5ezfRi1"
+        },
+        {
+          "text": "True Stories - DARK RED",
+          "title": "",
+          "url": "https://photos.app.goo.gl/PCuxNgnXqzAAEj872"
+        },
+        {
+          "text": "General Stories - LT ORANGE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/rXzdmSQAq9RL27Ti1"
+        },
+        {
+          "text": "General Knowledge - BLUE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/ASVAB8ZgyASiPo5q2"
+        },
+        {
+          "text": "Fun Learning - LT GREEN",
+          "title": "",
+          "url": "https://photos.app.goo.gl/JkOCrqvReiNw4bGq2"
+        },
+        {
+          "text": "Health - YELLOW",
+          "title": "",
+          "url": "https://photos.app.goo.gl/QfreigD81Kw97TkJ3"
+        },
+        {
+          "text": "Teacher Reference - YELLOW TRIANGLE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/0ZT2w2SBPn8FHwlv2"
+        },
+        {
+          "text": "Group Readers - PURPLE",
+          "title": "",
+          "url": "https://photos.app.goo.gl/cdFTjxNXw3cKJvn53"
+        },
+        {
+          "text": "Third Story Children's Books Project",
+          "title": "",
+          "url": "https://thirdstoryproject.blogspot.com/"
+        },
+        {
+          "text": "See a video interview with her in 2015 here",
+          "title": "",
+          "url": "https://www.youtube.com/watch?v=wndNBf6zoxQ"
+        },
+        {
+          "text": "See photos here.",
+          "title": "",
+          "url": "https://goo.gl/photos/RipcLUaoJ4FH7i6H9"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1506303166517\" id=\"item-59c85b15e9bfdfecd27776b5\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300596796_80\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300596796_79\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-390d4f56c821bfed0551\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p><em>Note:  <a href=\"http://silcsing.blogspot.com/2016/10/setting-up-village-school-library-in.html\" target=\"_blank\">A version of this</a> was posted October 16, 2016, on the Singapore international school librarian network's blog.</em></p><p>If you were asked to help set up a new school library in a new primary school building in a farming village outside Mandalay, and you wouldn't be able to visit the site until the day before the new school's grand opening, how would you tackle it?  That was the challenge proposed to me in June 2016 by a parent service/charity group at the school where I was working, United World College of Southeast Asia in Singapore.<br/><br/><a href=\"https://www.uwcsea.edu.sg/pace\" target=\"_blank\">PACE</a>, which stands for Parents' Action for Community and Service, has built several schools in Cambodia together with the <a href=\"https://tabitha-cambodia.org/\" target=\"_blank\">Tabitha Foundation</a> over the past decade.  In 2016 they teamed up with John Stevens and the <a href=\"http://100schools.org/\" target=\"_blank\">100Schools</a> organization in Myanmar to build their first school there, in Shar Pin village.  And it is the first school built by 100Schools to have a library included.<br/><br/>Before:</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1506302574688_20746\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_78\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300596796_77\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300596796_76\" style=\"max-width:1600px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300596796_75\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300596796_74\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"shar pin before 2016-10-02 14.55.19.jpg\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg\" data-image-dimensions=\"1600x1200\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1200\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303162421-RUCIFH3OGAQGK602G9HV/shar+pin+before+2016-10-02+14.55.19.jpg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1600\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1506302574688_135884\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>After (the library is the far-most left room of the new building):</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1506302574688_37114\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_92\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300596796_91\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300596796_90\" style=\"max-width:1600px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300596796_89\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300596796_88\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Shar Pin finished building IMG_7811.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG\" data-image-dimensions=\"1600x1200\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1200\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506303216197-HU4SA0NZ0WD5Z8Q0RLRK/Shar+Pin+finished+building+IMG_7811.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1600\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1506302574688_40692\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Luckily at the East campus there is a Burmese parent, with whom I'd done a couple of middle-school service trips to Myanmar.  Thet is not only bilingual, but highly organized, efficient, and creative.  She liaised with the <a href=\"https://www.facebook.com/Myanmar-Library-Association-759155320812626/\" target=\"_blank\">Myanmar Library Association (MLA)</a> to get us lists of recommended books to buy as well as book donations for the school.  She also got in touch with the <a href=\"https://www.facebook.com/thirdstorychildrenbooks\" target=\"_blank\">Third Story Children's Books</a> project, which publishes stories in ethnic languages for children in Myanmar.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1506333590323_20089\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_101\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300596796_100\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300596796_99\" style=\"max-width:1200px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300596796_98\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300596796_97\" style=\"\n                position: relative;\n                \n                  padding-bottom:133.33334350585938%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Shar pin collection chart IMG_7397(1).JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG\" data-image-dimensions=\"1200x1600\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1600\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506333710506-7DGEHV2TTSISWVKJY49S/Shar+pin+collection+chart+IMG_7397%281%29.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1200\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1506333590323_47214\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Thanks to Thet's language and organization skills, over 400 children's books in Burmese were purchased or donated -- which we picked up once we arrived in Myanmar.  Thet and Thida, another Burmese speaker in our group, were able to sort the various books into 11 basic categories -- and the rest of us labeled them.</p><p><a href=\"https://photos.app.goo.gl/Fo0zScoO9iGbB9u43\" target=\"_blank\">Poetry - PINK TRIANGLE</a><br/><a href=\"https://photos.app.goo.gl/BCawapA1VJAGqGfV2\" target=\"_blank\">Fun Comics - WHITE</a><br/><a href=\"https://photos.app.goo.gl/wNkfyTufSW5ezfRi1\" target=\"_blank\">Cultural Stories - DARK ORANGE</a><br/><a href=\"https://photos.app.goo.gl/PCuxNgnXqzAAEj872\" target=\"_blank\">True Stories - DARK RED</a><br/><a href=\"https://photos.app.goo.gl/rXzdmSQAq9RL27Ti1\" target=\"_blank\">General Stories - LT ORANGE</a><br/><a href=\"https://photos.app.goo.gl/ASVAB8ZgyASiPo5q2\" target=\"_blank\">General Knowledge - BLUE</a><br/><a href=\"https://photos.app.goo.gl/JkOCrqvReiNw4bGq2\" target=\"_blank\">Fun Learning - LT GREEN</a><br/>Environment - DARK GREEN<br/><a href=\"https://photos.app.goo.gl/QfreigD81Kw97TkJ3\" target=\"_blank\">Health - YELLOW</a><br/><a href=\"https://photos.app.goo.gl/0ZT2w2SBPn8FHwlv2\" target=\"_blank\">Teacher Reference - YELLOW TRIANGLE</a><br/><a href=\"https://photos.app.goo.gl/cdFTjxNXw3cKJvn53\" target=\"_blank\">Group Readers - PURPLE</a></p><p>Previously in Singapore, Thet and I had brainstormed what orientation the students and teachers would need, in order to ensure proper use and maintenance of the library.  We came up with a series of posters, illustrated by my talented library staff, that would serve to both decorate the library and establish the library culture for students and teachers.</p>\n</div>\n</div></div><div class=\"sqs-block embed-block sqs-block-embed\" data-block-json='{\"hSize\":null,\"floatDir\":null,\"html\":\"&lt;iframe src=\\\"https://docs.google.com/presentation/d/e/2PACX-1vQC6aM--Dblg4M7pbgMz93RNjHYT2Bbq4ng3opnkeSidRR6ptXjMZWJJQ7a_aK9XXAaSOkbIR8Zo71v/embed?start=false&amp;loop=false&amp;delayms=3000\\\" frameborder=\\\"0\\\" width=\\\"100%\\\" height=\\\"460\\\" allowfullscreen=\\\"true\\\" mozallowfullscreen=\\\"true\\\" webkitallowfullscreen=\\\"true\\\"&gt;&lt;/iframe&gt;\",\"resolvedBy\":\"manual\",\"resolved\":true}' data-block-type=\"22\" id=\"block-yui_3_17_2_1_1506302574688_56406\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_67\" style=\"visibility: visible; opacity: 1; height: auto;\"><iframe allowfullscreen=\"true\" data-embed=\"true\" frameborder=\"0\" height=\"460\" mozallowfullscreen=\"true\" src=\"https://docs.google.com/presentation/d/e/2PACX-1vQC6aM--Dblg4M7pbgMz93RNjHYT2Bbq4ng3opnkeSidRR6ptXjMZWJJQ7a_aK9XXAaSOkbIR8Zo71v/embed?start=false&amp;loop=false&amp;delayms=3000&amp;wmode=opaque\" webkitallowfullscreen=\"true\" width=\"100%\"></iframe></div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1506302574688_128377\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_110\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300596796_109\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300596796_108\" style=\"max-width:527px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300596796_107\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300596796_106\" style=\"\n                position: relative;\n                \n                  padding-bottom:126.75521087646484%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Myanmar passing out shelfmarkers IMG_7810 copy.jpeg\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg\" data-image-dimensions=\"527x668\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"668\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1506306807148-8LSI1D2O2ZXUYMT1I4E0/Myanmar+passing+out+shelfmarkers+IMG_7810+copy.jpeg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"527\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1506302574688_70605\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>We also created about 80 laminated shelf-markers -- using simple animal logos and different colored paper.  The children were told that when they came to the library each time, they should pick an animal and a color to keep track of where they found books.  To help them remember where in the \"village of books\" (i.e., the library) each book \"lived\" -- so they could help it get back to its right place. <br/><br/>With Thet's help, I also did a talk about book care on opening day where I asked the children to consider how books are like people.  (They can be old or young, tall or small, speak different languages, have a front, a back, a spine, etc.  And they need to be treated with care and respect, especially when it comes to turning pages.)</p><p>Through Thet's connections, we also met up with a wonderful young Burmese teacher and storyteller, Tess (aka Tin Ma Ma Htet), who works as a professional development coordinator for the Phaung Daw Oo School and the Monastic Education Development Group in Mandalay --and with the <a href=\"https://thirdstoryproject.blogspot.com/\" target=\"_blank\">Third Story Children's Books Project</a>.</p><p>Small world connection:  Tess has also been involved with the teacher training project our Dover colleagues have done in Burma.  (<a href=\"https://www.youtube.com/watch?v=wndNBf6zoxQ\" target=\"_blank\">See a video interview with her in 2015 here</a>.)</p><p>Tess entertained the Shar Pin students with storytelling on Sunday, while the rest of us were setting up the library, and we trust that she will continue to visit Shar Pin to see that the books in the library are being fully utilized.<br/><br/>The school's official opening was Monday, October 3, 2016 -- and here are some basic shots of what the library finally looked like.  </p>\n</div>\n</div></div><div class=\"sqs-block embed-block sqs-block-embed\" data-block-json='{\"hSize\":null,\"floatDir\":null,\"html\":\"&lt;iframe src=\\\"https://docs.google.com/presentation/d/e/2PACX-1vTFuK8CeBCwBsi45Odu1SLAOdhDzR5oa8xWm7bbpYpwTWuvmtCIKTUuY4ih2ikpCuiYBN9VT6w6G_KZ/embed?start=false&amp;loop=false&amp;delayms=3000\\\" frameborder=\\\"0\\\" width=\\\"960\\\" height=\\\"480\\\" allowfullscreen=\\\"true\\\" mozallowfullscreen=\\\"true\\\" webkitallowfullscreen=\\\"true\\\"&gt;&lt;/iframe&gt;\",\"resolvedBy\":\"manual\",\"resolved\":true}' data-block-type=\"22\" id=\"block-yui_3_17_2_13_1506302574688_10671\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300596796_71\" style=\"visibility: visible; opacity: 1; height: auto;\"><iframe allowfullscreen=\"true\" data-embed=\"true\" frameborder=\"0\" height=\"480\" mozallowfullscreen=\"true\" src=\"https://docs.google.com/presentation/d/e/2PACX-1vTFuK8CeBCwBsi45Odu1SLAOdhDzR5oa8xWm7bbpYpwTWuvmtCIKTUuY4ih2ikpCuiYBN9VT6w6G_KZ/embed?start=false&amp;loop=false&amp;delayms=3000&amp;wmode=opaque\" webkitallowfullscreen=\"true\" width=\"960\"></iframe></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_13_1506302574688_10737\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p> </p><p>The PACE team was amazing -- and it was such an honor to work with them.  The cost of the whole 5-classroom school?  US$72k.  The library room itself?  US$7k.  US$3k went to the library design and materials.  I can't wait to do another.<br/><br/>Extra:  Thet took me a local civic library in Mandalay -- the Brahmaso Library.  It's a lending library with a reading room attached.  Closed stacks.  Card catalog.  But also with a digital terminal to content provided by UK universities and the British Council.  <a href=\"https://goo.gl/photos/RipcLUaoJ4FH7i6H9\" target=\"_blank\">See photos here.</a></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Note:  A version of this was posted October 16, 2016, on the Singapore international school librarian network's blog.If you were asked to help set up a new school library in a new primary school building in a farming village outside Mandalay, and you wouldn't be able to visit the site until the day before the new school's grand opening, how would you tackle it?  That was the challenge proposed to me in June 2016 by a parent service/charity group at the school where I was working, United World College of Southeast Asia in Singapore.PACE, which stands for Parents' Action for Community and Service, has built several schools in Cambodia together with the Tabitha Foundation over the past decade.  In 2016 they teamed up with John Stevens and the 100Schools organization in Myanmar to build their first school there, in Shar Pin village.  And it is the first school built by 100Schools to have a library included.Before:\n\nAfter (the library is the far-most left room of the new building):\n\nLuckily at the East campus there is a Burmese parent, with whom I'd done a couple of middle-school service trips to Myanmar.  Thet is not only bilingual, but highly organized, efficient, and creative.  She liaised with the Myanmar Library Association (MLA) to get us lists of recommended books to buy as well as book donations for the school.  She also got in touch with the Third Story Children's Books project, which publishes stories in ethnic languages for children in Myanmar.\n\nThanks to Thet's language and organization skills, over 400 children's books in Burmese were purchased or donated -- which we picked up once we arrived in Myanmar.  Thet and Thida, another Burmese speaker in our group, were able to sort the various books into 11 basic categories -- and the rest of us labeled them.Poetry - PINK TRIANGLEFun Comics - WHITECultural Stories - DARK ORANGETrue Stories - DARK REDGeneral Stories - LT ORANGEGeneral Knowledge - BLUEFun Learning - LT GREENEnvironment - DARK GREENHealth - YELLOWTeacher Reference - YELLOW TRIANGLEGroup Readers - PURPLEPreviously in Singapore, Thet and I had brainstormed what orientation the students and teachers would need, in order to ensure proper use and maintenance of the library.  We came up with a series of posters, illustrated by my talented library staff, that would serve to both decorate the library and establish the library culture for students and teachers.\n\nWe also created about 80 laminated shelf-markers -- using simple animal logos and different colored paper.  The children were told that when they came to the library each time, they should pick an animal and a color to keep track of where they found books.  To help them remember where in the \"village of books\" (i.e., the library) each book \"lived\" -- so they could help it get back to its right place. With Thet's help, I also did a talk about book care on opening day where I asked the children to consider how books are like people.  (They can be old or young, tall or small, speak different languages, have a front, a back, a spine, etc.  And they need to be treated with care and respect, especially when it comes to turning pages.)Through Thet's connections, we also met up with a wonderful young Burmese teacher and storyteller, Tess (aka Tin Ma Ma Htet), who works as a professional development coordinator for the Phaung Daw Oo School and the Monastic Education Development Group in Mandalay --and with the Third Story Children's Books Project.Small world connection:  Tess has also been involved with the teacher training project our Dover colleagues have done in Burma.  (See a video interview with her in 2015 here.)Tess entertained the Shar Pin students with storytelling on Sunday, while the rest of us were setting up the library, and we trust that she will continue to visit Shar Pin to see that the books in the library are being fully utilized.The school's official opening was Monday, October 3, 2016 -- and here are some basic shots of what the library finally looked like.  \n\n The PACE team was amazing -- and it was such an honor to work with them.  The cost of the whole 5-classroom school?  US$72k.  The library room itself?  US$7k.  US$3k went to the library design and materials.  I can't wait to do another.Extra:  Thet took me a local civic library in Mandalay -- the Brahmaso Library.  It's a lending library with a reading room attached.  Closed stacks.  Card catalog.  But also with a digital terminal to content provided by UK universities and the British Council.  See photos here.",
+    "text": "Note:  A version of this was posted October 16, 2016, on the Singapore international school librarian network's blog.If you were asked to help set up a new school library in a new primary school building in a farming village outside Mandalay, and you wouldn't be able to visit the site until the day before the new school's grand opening, how would you tackle it?  That was the challenge proposed to me in June 2016 by a parent service/charity group at the school where I was working, United World College of Southeast Asia in Singapore.PACE, which stands for Parents' Action for Community and Service, has built several schools in Cambodia together with the Tabitha Foundation over the past decade.  In 2016 they teamed up with John Stevens and the 100Schools organization in Myanmar to build their first school there, in Shar Pin village.  And it is the first school built by 100Schools to have a library included.Before:\n\nAfter (the library is the far-most left room of the new building):\n\nLuckily at the East campus there is a Burmese parent, with whom I'd done a couple of middle-school service trips to Myanmar.  Thet is not only bilingual, but highly organized, efficient, and creative.  She liaised with the Myanmar Library Association (MLA) to get us lists of recommended books to buy as well as book donations for the school.  She also got in touch with the Third Story Children's Books project, which publishes stories in ethnic languages for children in Myanmar.\n\nThanks to Thet's language and organization skills, over 400 children's books in Burmese were purchased or donated -- which we picked up once we arrived in Myanmar.  Thet and Thida, another Burmese speaker in our group, were able to sort the various books into 11 basic categories -- and the rest of us labeled them.Poetry - PINK TRIANGLEFun Comics - WHITECultural Stories - DARK ORANGETrue Stories - DARK REDGeneral Stories - LT ORANGEGeneral Knowledge - BLUEFun Learning - LT GREENEnvironment - DARK GREENHealth - YELLOWTeacher Reference - YELLOW TRIANGLEGroup Readers - PURPLEPreviously in Singapore, Thet and I had brainstormed what orientation the students and teachers would need, in order to ensure proper use and maintenance of the library.  We came up with a series of posters, illustrated by my talented library staff, that would serve to both decorate the library and establish the library culture for students and teachers.\n\nWe also created about 80 laminated shelf-markers -- using simple animal logos and different colored paper.  The children were told that when they came to the library each time, they should pick an animal and a color to keep track of where they found books.  To help them remember where in the \"village of books\" (i.e., the library) each book \"lived\" -- so they could help it get back to its right place. With Thet's help, I also did a talk about book care on opening day where I asked the children to consider how books are like people.  (They can be old or young, tall or small, speak different languages, have a front, a back, a spine, etc.  And they need to be treated with care and respect, especially when it comes to turning pages.)Through Thet's connections, we also met up with a wonderful young Burmese teacher and storyteller, Tess (aka Tin Ma Ma Htet), who works as a professional development coordinator for the Phaung Daw Oo School and the Monastic Education Development Group in Mandalay --and with the Third Story Children's Books Project.Small world connection:  Tess has also been involved with the teacher training project our Dover colleagues have done in Burma.  (See a video interview with her in 2015 here.)Tess entertained the Shar Pin students with storytelling on Sunday, while the rest of us were setting up the library, and we trust that she will continue to visit Shar Pin to see that the books in the library are being fully utilized.The school's official opening was Monday, October 3, 2016 -- and here are some basic shots of what the library finally looked like.  \n\n The PACE team was amazing -- and it was such an honor to work with them.  The cost of the whole 5-classroom school?  US$72k.  The library room itself?  US$7k.  US$3k went to the library design and materials.  I can't wait to do another.Extra:  Thet took me a local civic library in Mandalay -- the Brahmaso Library.  It's a lending library with a reading room attached.  Closed stacks.  Card catalog.  But also with a digital terminal to content provided by UK universities and the British Council.  See photos here.",
+    "word_count": 762
+  },
+  "excerpt": "Note:  A version of this was posted October 16, 2016, on the Singapore international school librarian network's blog.If you were asked to help set up a new school library in a new primary school building in a farming village outside Mandalay, and you wouldn't be able to visit the site until the d...",
+  "id": "2017-9-25-setting-up-a-village-school-library-in-myanmar",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "Service learning",
+      "School libraries"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2017-09-25T00:00:00",
+  "slug": "setting-up-a-village-school-library-in-myanmar",
+  "title": "Setting up a village school library in Myanmar",
+  "url": "https://www.thelibrarianedge.com/libedge/2017/9/25/setting-up-a-village-school-library-in-myanmar"
+}

@@ -1,0 +1,113 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:19:47.786566",
+    "scraped_at": "2025-08-04T11:12:22.655665",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 302,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 71,
+        "warnings": 0
+      },
+      "success_rate": 7100.0,
+      "summary": {
+        "automatic_fixes_applied": 302,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 71,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "IMG_1667.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 2016,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "",
+          "title": "",
+          "url": "http://katejoltemple.com/news/2017/11/9/room-on-our-rock-our-new-book"
+        },
+        {
+          "text": "Brian Bilston",
+          "title": "",
+          "url": "https://brianbilston.com/2016/03/23/refugees/"
+        },
+        {
+          "text": "see Philip's video here)",
+          "title": "",
+          "url": "https://www.youtube.com/watch?v=ZTkFIhfowIc&feature=youtu.be"
+        },
+        {
+          "text": "someone else illustrated here",
+          "title": "",
+          "url": "http://www.signature-reads.com/2017/11/poetry-of-resistance-brian-bilston-refugees/"
+        },
+        {
+          "text": "palindrome poems",
+          "title": "",
+          "url": "http://poetrysociety.org.uk/"
+        },
+        {
+          "text": "“The Lost Generation”",
+          "title": "",
+          "url": "https://youtu.be/z92HQkRmhlc"
+        },
+        {
+          "text": "here",
+          "title": "",
+          "url": "https://www.bookdepository.com/Room-on-Our-Rock-Kate-Temple-Rose-Terri-Baynton/9781742764108"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1529285130425\" id=\"item-5b2706d670a6ad7fc92466c2\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302339272_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302339272_72\"><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1529283501261_46446\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302339272_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302339272_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302339272_69\" style=\"max-width:2500px;\">\n<a class=\"sqs-block-image-link\" href=\"http://katejoltemple.com/news/2017/11/9/room-on-our-rock-our-new-book\" id=\"yui_3_17_2_1_1754302339272_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302339272_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302339272_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:80.63999938964844%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_1667.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG\" data-image-dimensions=\"2500x2016\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"2016\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1529285463219-3YLV39ZWEU9OWOGS9RNT/IMG_1667.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-8986b5fbec6243091823\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p><a href=\"https://brianbilston.com/2016/03/23/refugees/\" target=\"_blank\">Brian Bilston</a> became popular on the internet (especially Twitter) when he published <strong>a poem about refugees</strong> (which my colleague Philip Williams animated for a display in our libraries (<a href=\"https://www.youtube.com/watch?v=ZTkFIhfowIc&amp;feature=youtu.be\" target=\"_blank\">see Philip's video here)</a> and <a href=\"http://www.signature-reads.com/2017/11/poetry-of-resistance-brian-bilston-refugees/\" target=\"_blank\">someone else illustrated here</a>).</p><p>What’s unusual about it is that it is meant to be read first one way and then in reverse.  These are also known as <a href=\"http://poetrysociety.org.uk/\">palindrome poems</a> (for another example, see this well-known video of one called <a href=\"https://youtu.be/z92HQkRmhlc\" target=\"_blank\">“The Lost Generation”</a>).</p><p>Barb Reid just showed me a 2018 Australian picture book which does the same thing - on the same topic of refugees.  Luckily it's available on Book Depository <a href=\"https://www.bookdepository.com/Room-on-Our-Rock-Kate-Temple-Rose-Terri-Baynton/9781742764108\" target=\"_blank\">here</a>.  Wish we had known about it earlier as it would be a great choice for our Bangkok Book Awards -- as the Singapore Red Dots have got it on theirs.  (Maybe next year for us...)</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Brian Bilston became popular on the internet (especially Twitter) when he published a poem about refugees (which my colleague Philip Williams animated for a display in our libraries (see Philip's video here) and someone else illustrated here).What’s unusual about it is that it is meant to be read first one way and then in reverse.  These are also known as palindrome poems (for another example, see this well-known video of one called “The Lost Generation”).Barb Reid just showed me a 2018 Australian picture book which does the same thing - on the same topic of refugees.  Luckily it's available on Book Depository here.  Wish we had known about it earlier as it would be a great choice for our Bangkok Book Awards -- as the Singapore Red Dots have got it on theirs.  (Maybe next year for us...)",
+    "text": "Brian Bilston became popular on the internet (especially Twitter) when he published a poem about refugees (which my colleague Philip Williams animated for a display in our libraries (see Philip's video here) and someone else illustrated here).What’s unusual about it is that it is meant to be read first one way and then in reverse.  These are also known as palindrome poems (for another example, see this well-known video of one called “The Lost Generation”).Barb Reid just showed me a 2018 Australian picture book which does the same thing - on the same topic of refugees.  Luckily it's available on Book Depository here.  Wish we had known about it earlier as it would be a great choice for our Bangkok Book Awards -- as the Singapore Red Dots have got it on theirs.  (Maybe next year for us...)",
+    "word_count": 138
+  },
+  "excerpt": "Brian Bilston became popular on the internet (especially Twitter) when he published a poem about refugees (which my colleague Philip Williams animated for a display in our libraries (see Philip's video here) and someone else illustrated here).",
+  "id": "2018-6-18-refugees-and-palindrome-poetry-in-a-picture-book",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-06-18T00:00:00",
+  "slug": "refugees-and-palindrome-poetry-in-a-picture-book",
+  "title": "Refugees and Palindrome Poetry.... in a picture book....",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/6/18/refugees-and-palindrome-poetry-in-a-picture-book"
+}

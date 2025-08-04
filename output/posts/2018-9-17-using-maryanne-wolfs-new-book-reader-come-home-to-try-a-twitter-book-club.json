@@ -1,0 +1,92 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:21:03.626065",
+    "scraped_at": "2025-08-04T11:20:33.452498",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 309,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 73,
+        "warnings": 0
+      },
+      "success_rate": 7300.0,
+      "summary": {
+        "automatic_fixes_applied": 309,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 73,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Maryanne Wolf Reader Come Home Twitter Book Club.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": 704,
+          "width": 944
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "“Skim Reading is the New Normal”",
+          "title": "",
+          "url": "https://www.theguardian.com/commentisfree/2018/aug/25/skim-reading-new-normal-maryanne-wolf"
+        },
+        {
+          "text": "“Reader, Come Home: the reading brain in a digital world\"",
+          "title": "",
+          "url": "https://books.google.co.th/books?id=Hlg_DwAAQBAJ&printsec=frontcover"
+        },
+        {
+          "text": "Philip Williams",
+          "title": "",
+          "url": "https://thelibraryelement.com/"
+        },
+        {
+          "text": "“Proust and the Squid”",
+          "title": "",
+          "url": "https://books.google.co.th/books?id=p9omDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false"
+        },
+        {
+          "text": "searching the #ReaderComeRead tag",
+          "title": "",
+          "url": "https://twitter.com/search?f=tweets&vertical=default&q=%23readercomeread&src=typd&lang=en"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1537157800314\" id=\"item-5b9f26c34fa51a64520920f4\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302830079_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302830079_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-20fa53a5693c01859aae\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">When I found out (via her Guardian article, <a href=\"https://www.theguardian.com/commentisfree/2018/aug/25/skim-reading-new-normal-maryanne-wolf\" target=\"_blank\">“Skim Reading is the New Normal”</a>) that <strong>Maryanne Wolf</strong> had a new book out — <a href=\"https://books.google.co.th/books?id=Hlg_DwAAQBAJ&amp;printsec=frontcover\" target=\"_blank\">“Reader, Come Home: the reading brain in a digital world\"</a> — I immediately suggested to my colleague <a href=\"https://thelibraryelement.com/\" target=\"_blank\">Philip Williams</a> that we read it in tandem, to bounce ideas off each other.  I consider her 2007 book — <a href=\"https://books.google.co.th/books?id=p9omDwAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\">“Proust and the Squid”</a> — a seminal text on the history of reading and such an insight into how we (have to) invest time and effort to learn to read.</p><p style=\"white-space: pre-wrap;\">Philip proposed we set up a Twitter book club (or “slow chat”) to discuss Wolf’s new book with a broader group (as he enjoyed last year’s Twitter book club on the children’s classic, “The Dark is Rising”).  </p><p style=\"white-space: pre-wrap;\">So this month we have been discussing “Reader, Come Home” on Twitter with other librarians.  See our comments by <a href=\"https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23readercomeread&amp;src=typd&amp;lang=en\" target=\"_blank\">searching the #ReaderComeRead tag</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537156742738_27394\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302830079_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-fade-in individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302830079_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302830079_69\" style=\"max-width:944px;\">\n<a class=\"sqs-block-image-link\" href=\"https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23readercomeread&amp;src=typd&amp;lang=en\" id=\"yui_3_17_2_1_1754302830079_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302830079_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302830079_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:74.5762710571289%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Maryanne Wolf Reader Come Home Twitter Book Club.jpg\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg\" data-image-dimensions=\"944x704\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"704\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537157847427-ITOYESGHBN8B1MY8IMQV/Maryanne+Wolf+Reader+Come+Home+Twitter+Book+Club.jpg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"944\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div></div></div></div>",
+    "markdown": "When I found out (via her Guardian article, “Skim Reading is the New Normal”) that Maryanne Wolf had a new book out — “Reader, Come Home: the reading brain in a digital world\" — I immediately suggested to my colleague Philip Williams that we read it in tandem, to bounce ideas off each other.  I consider her 2007 book — “Proust and the Squid” — a seminal text on the history of reading and such an insight into how we (have to) invest time and effort to learn to read.Philip proposed we set up a Twitter book club (or “slow chat”) to discuss Wolf’s new book with a broader group (as he enjoyed last year’s Twitter book club on the children’s classic, “The Dark is Rising”).  So this month we have been discussing “Reader, Come Home” on Twitter with other librarians.  See our comments by searching the #ReaderComeRead tag.",
+    "text": "When I found out (via her Guardian article, “Skim Reading is the New Normal”) that Maryanne Wolf had a new book out — “Reader, Come Home: the reading brain in a digital world\" — I immediately suggested to my colleague Philip Williams that we read it in tandem, to bounce ideas off each other.  I consider her 2007 book — “Proust and the Squid” — a seminal text on the history of reading and such an insight into how we (have to) invest time and effort to learn to read.Philip proposed we set up a Twitter book club (or “slow chat”) to discuss Wolf’s new book with a broader group (as he enjoyed last year’s Twitter book club on the children’s classic, “The Dark is Rising”).  So this month we have been discussing “Reader, Come Home” on Twitter with other librarians.  See our comments by searching the #ReaderComeRead tag.",
+    "word_count": 149
+  },
+  "excerpt": "When I found out (via her Guardian article, “Skim Reading is the New Normal”) that Maryanne Wolf had a new book out — “Reader, Come Home: the reading brain in a digital world\" — I immediately suggested to my colleague Philip Williams that we read it in tandem, to bounce ideas off each other.",
+  "id": "2018-9-17-using-maryanne-wolfs-new-book-reader-come-home-to-try-a-twitter-book-club",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-09-17T00:00:00",
+  "slug": "using-maryanne-wolfs-new-book-reader-come-home-to-try-a-twitter-book-club",
+  "title": "Using Maryanne Wolf's new book \"Reader, Come Home\" to try a Twitter book club",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/9/17/using-maryanne-wolfs-new-book-reader-come-home-to-try-a-twitter-book-club"
+}

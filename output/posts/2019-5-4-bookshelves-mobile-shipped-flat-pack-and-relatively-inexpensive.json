@@ -1,0 +1,274 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:27:55.207004",
+    "scraped_at": "2025-08-04T11:27:24.660907",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 352,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 84,
+        "warnings": 0
+      },
+      "success_rate": 8400.0,
+      "summary": {
+        "automatic_fixes_applied": 352,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 84,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "IMG_8063.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 3264,
+          "width": 2448
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8175.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1875,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8064.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8066.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8065.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8067.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8072.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8074.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8064.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8066.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8065.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8067.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8072.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8074.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 80,
+          "width": 60
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-05-04 15.05.53.png",
+        "caption": "",
+        "dimensions": {
+          "height": 605,
+          "width": 924
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 592,
+          "width": 596
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-05-04 15.26.14.png",
+        "caption": "",
+        "dimensions": {
+          "height": 707,
+          "width": 706
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Reseller Shop login Password = order2006",
+        "caption": "",
+        "dimensions": {
+          "height": 520,
+          "width": 257
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "Werkhaus",
+          "title": "",
+          "url": "https://www.werkhaus.de/shop/shop_content.php?coID=123"
+        },
+        {
+          "text": "their Instagram feed",
+          "title": "",
+          "url": "https://www.instagram.com/werkhaus_de/?hl=en"
+        },
+        {
+          "text": "customized book display units",
+          "title": "",
+          "url": "https://www.werkhaus.de/en/displays/gallery-customized/"
+        },
+        {
+          "text": "",
+          "title": "",
+          "url": "https://www.werkhaus.de/reseller/?cat=c399_Standarddisplays-standarddisplays.html"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1556956374765\" id=\"item-5ccd3ef18165f5845ba91898\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754303241246_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754303241246_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-8f5e22ffcc4ad7d8691e\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">I’m dying to order these bookshelves — or even some furniture — from <a href=\"https://www.werkhaus.de/shop/shop_content.php?coID=123\" target=\"_blank\">Werkhaus</a>, a German company who had displays at the Bologna Children’s Book Fair in April.  Not necessarily for my library, but for classrooms and communal areas around school.  </p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_287940\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_68\" style=\"max-width:2448px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:133.33334350585938%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_8063.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"3264\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956530514-GTFFJZ9KZG0WNH18S7AG/IMG_8063.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2448\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1556939417644_288227\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">They say they can ship the shelves (flat-packed) anywhere — and the prices are reasonable (180 EUR / US$200 / 6,500 THB / S$280) for the model MB 8005 shown below).</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_257356\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_85\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_84\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_83\" style=\"max-width:2500px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.werkhaus.de/shop/shop_content.php?coID=123\" id=\"yui_3_17_2_1_1754303241246_82\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_8175.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1875\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956136781-SQ4QVSTU1AH8ATONT200/IMG_8175.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"active-alignment\":\"center\",\"aspectRatio\":null,\"auto-crop\":true,\"autoplay\":true,\"autoplay-duration\":2,\"blockAnimation\":\"none\",\"collectionId\":\"5ccd449953450a747bb96b5b\",\"controls\":true,\"design\":\"slideshow\",\"meta-position\":\"bottom\",\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnail-strip-height\":80,\"thumbnail-strip-margin\":20,\"thumbnails\":true,\"vSize\":null,\"transientGalleryId\":\"5ccd449953450a747bb96b5b\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1556939417644_262446\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_347\">\n<div class=\"sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-has-controls sqs-gallery-has-thumbnails sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754303241246_128\">\n<div class=\"sqs-gallery sqs-gallery-design-stacked\" id=\"yui_3_17_2_1_1754303241246_148\" style=\"height: 933.333px;\">\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_222\" style=\"opacity: 0; z-index: 888; overflow: hidden; visibility: hidden; pointer-events: none;\">\n<noscript><img alt=\"IMG_8064.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\"/></noscript><img alt=\"IMG_8064.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd44c2085229f44bedc22a\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754303241246_346\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded sqs-active-slide\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_226\" style=\"opacity: 1; z-index: 889; overflow: hidden; visibility: visible; pointer-events: auto;\">\n<noscript><img alt=\"IMG_8066.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\"/></noscript><img alt=\"IMG_8066.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd44b924a6946263e0e3ff\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754303241246_878\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_230\" style=\"opacity: 0; z-index: 888; overflow: hidden;\">\n<noscript><img alt=\"IMG_8065.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\"/></noscript><img alt=\"IMG_8065.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd44be0d9297770ea9b78e\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_234\" style=\"opacity: 0; z-index: 888; overflow: hidden;\">\n<noscript><img alt=\"IMG_8067.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\"/></noscript><img alt=\"IMG_8067.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd44ade4966b5894adffb3\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_238\" style=\"opacity: 0; z-index: 888; overflow: hidden;\">\n<noscript><img alt=\"IMG_8072.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\"/></noscript><img alt=\"IMG_8072.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd44a424a6946263e0e3d5\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fill sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754303241246_242\" style=\"opacity: 0; z-index: 888; overflow: hidden;\">\n<noscript><img alt=\"IMG_8074.JPG\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\"/></noscript><img alt=\"IMG_8074.JPG\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd4499ee6eb0583457ce52\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"0.8\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=750w\" style=\"font-size: 0px; left: 0px; top: -0.166667px; width: 700px; height: 933.333px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n</div>\n<div class=\"sqs-gallery-meta-container\">\n<div class=\"sqs-gallery-controls show-hover-effect\">\n<a aria-label=\"Previous Slide\" class=\"previous\" role=\"button\" tabindex=\"0\"></a>\n<a aria-label=\"Next Slide\" class=\"next\" role=\"button\" tabindex=\"0\"></a>\n</div>\n</div> <!-- END .sqs-gallery-meta-container -->\n</div>\n<div class=\"sqs-gallery-thumbnails sqs-gallery-design-strip\" id=\"yui_3_17_2_1_1754303241246_390\" style=\"height: 80px; margin-top: 15px; margin-bottom: -5px; padding-top: 5px; padding-bottom: 5px;\">\n<div class=\"sqs-wrapper\" style=\"left: 170px; width: 720px;\"><img alt=\"IMG_8064.JPG\" aria-current=\"true\" aria-label=\"Slide 1\" class=\"sqs-gallery-design-strip-slide loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_438\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956365049-N99EGPW4T30HW0UB662V/IMG_8064.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/><img alt=\"IMG_8066.JPG\" aria-current=\"false\" aria-label=\"Slide 2\" class=\"sqs-gallery-design-strip-slide loaded sqs-active-slide\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_439\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956353264-CNO45U8J37QE9A2IRIED/IMG_8066.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/><img alt=\"IMG_8065.JPG\" aria-current=\"false\" aria-label=\"Slide 3\" class=\"sqs-gallery-design-strip-slide loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_440\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956362908-6Q4K1LFPXPIWOAQKYWIG/IMG_8065.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/><img alt=\"IMG_8067.JPG\" aria-current=\"false\" aria-label=\"Slide 4\" class=\"sqs-gallery-design-strip-slide loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_441\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956348628-FANMBPTYV0AIH12IQUJI/IMG_8067.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/><img alt=\"IMG_8072.JPG\" aria-current=\"false\" aria-label=\"Slide 5\" class=\"sqs-gallery-design-strip-slide loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_442\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956345345-B2JCZ57Z7T69YZ178O6V/IMG_8072.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/><img alt=\"IMG_8074.JPG\" aria-current=\"false\" aria-label=\"Slide 6\" class=\"sqs-gallery-design-strip-slide loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-image-resolution=\"100w\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\" data-type=\"image\" decoding=\"async\" elementtiming=\"system-gallery-thumbnail\" height=\"80\" id=\"yui_3_17_2_1_1754303241246_443\" loading=\"lazy\" role=\"button\" sizes=\"60px\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956333154-0TS8R0TJHR6FK5FGYZOW/IMG_8074.JPG?format=2500w 2500w\" style=\"display:block\" tabindex=\"0\" width=\"60\"/></div></div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1556939417644_257643\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">I would strongly encourage you to <a href=\"https://www.werkhaus.de/shop/shop_content.php?coID=123\" target=\"_blank\">download their online catalogs</a> and have a look.   Or just go to <a href=\"https://www.instagram.com/werkhaus_de/?hl=en\" target=\"_blank\">their Instagram feed</a>.</p><p class=\"\" style=\"white-space:pre-wrap;\">Something is sure to appeal.  For example, see these <a href=\"https://www.werkhaus.de/en/displays/gallery-customized/\" target=\"_blank\">customized book display units</a>:</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_324793\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_94\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_93\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_92\" style=\"max-width:924px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_91\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_90\" style=\"\n                position: relative;\n                \n                  padding-bottom:65.47618865966797%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2019-05-04 15.05.53.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png\" data-image-dimensions=\"924x605\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"605\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957183734-7TRXZ61PWEEYYHRYVD2A/Screenshot+2019-05-04+15.05.53.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"924\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1556939417644_333630\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Going beyond bookcases, perhaps you have a little summer house which could use some nice outdoor furniture…..</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_353929\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_103\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_102\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_101\" style=\"max-width:596px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_100\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_99\" style=\"\n                position: relative;\n                \n                  padding-bottom:99.328857421875%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png\" data-image-dimensions=\"596x592\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"592\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556957863435-X8QXWG4XT45NMOEI46Y0/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"596\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_388446\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_112\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_111\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_110\" style=\"max-width:706px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_109\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_108\" style=\"\n                position: relative;\n                \n                  padding-bottom:100.14164733886719%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2019-05-04 15.26.14.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png\" data-image-dimensions=\"706x707\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"707\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556958400934-LB31ASUJK3RG6ANUALYY/Screenshot+2019-05-04+15.26.14.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"706\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_305043\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303241246_122\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303241246_121\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303241246_120\" style=\"max-width:257px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.werkhaus.de/reseller/?cat=c399_Standarddisplays-standarddisplays.html\" id=\"yui_3_17_2_1_1754303241246_119\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303241246_118\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303241246_117\" style=\"\n                position: relative;\n                \n                  padding-bottom:202.33462524414062%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Reseller Shop login Password = order2006\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png\" data-image-dimensions=\"257x520\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"520\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556956895140-8OUODSOVOTGANAH3BIDF/Screenshot+2019-05-04+14.59.26.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"257\"/>\n</div>\n</div>\n</a>\n<figcaption class=\"image-caption-wrapper\">\n<div class=\"image-caption\"><p class=\"\"><a href=\"https://www.werkhaus.de/reseller/?cat=c399_Standarddisplays-standarddisplays.html\" target=\"_blank\">Reseller Shop login</a><br/>Password = order2006</p></div>\n</figcaption>\n</figure>\n</div>\n</div></div></div></div></div>",
+    "markdown": "I’m dying to order these bookshelves — or even some furniture — from Werkhaus, a German company who had displays at the Bologna Children’s Book Fair in April.  Not necessarily for my library, but for classrooms and communal areas around school.  \n\nThey say they can ship the shelves (flat-packed) anywhere — and the prices are reasonable (180 EUR / US$200 / 6,500 THB / S$280) for the model MB 8005 shown below).\n\nI would strongly encourage you to download their online catalogs and have a look.   Or just go to their Instagram feed.Something is sure to appeal.  For example, see these customized book display units:\n\nGoing beyond bookcases, perhaps you have a little summer house which could use some nice outdoor furniture…..\n\nReseller Shop loginPassword = order2006",
+    "text": "I’m dying to order these bookshelves — or even some furniture — from Werkhaus, a German company who had displays at the Bologna Children’s Book Fair in April.  Not necessarily for my library, but for classrooms and communal areas around school.  \n\nThey say they can ship the shelves (flat-packed) anywhere — and the prices are reasonable (180 EUR / US$200 / 6,500 THB / S$280) for the model MB 8005 shown below).\n\nI would strongly encourage you to download their online catalogs and have a look.   Or just go to their Instagram feed.Something is sure to appeal.  For example, see these customized book display units:\n\nGoing beyond bookcases, perhaps you have a little summer house which could use some nice outdoor furniture…..\n\nReseller Shop loginPassword = order2006",
+    "word_count": 127
+  },
+  "excerpt": "I’m dying to order these bookshelves — or even some furniture — from Werkhaus, a German company who had displays at the Bologna Children’s Book Fair in April.  Not necessarily for my library, but for classrooms and communal areas around school.",
+  "id": "2019-5-4-bookshelves-mobile-shipped-flat-pack-and-relatively-inexpensive",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2019-05-04T00:00:00",
+  "slug": "bookshelves-mobile-shipped-flat-pack-and-relatively-inexpensive",
+  "title": "Sturdy, clean-cut, constructable bookshelves on wheels -- made with German precision",
+  "url": "https://www.thelibrarianedge.com/microblog/2019/5/4/bookshelves-mobile-shipped-flat-pack-and-relatively-inexpensive"
+}

@@ -1,0 +1,93 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:22:18.029088",
+    "scraped_at": "2025-08-04T11:21:47.875660",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 316,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 75,
+        "warnings": 0
+      },
+      "success_rate": 7500.0,
+      "summary": {
+        "automatic_fixes_applied": 316,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 75,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screen Shot 2018-10-25 at 9.01.02 AM.png",
+        "caption": "",
+        "dimensions": {
+          "height": 339,
+          "width": 971
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screen Shot 2018-10-25 at 8.59.48 AM.png",
+        "caption": "",
+        "dimensions": {
+          "height": 992,
+          "width": 1533
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "zbib.org",
+          "title": "",
+          "url": "http://zbib.org"
+        },
+        {
+          "text": "Zotero",
+          "title": "",
+          "url": "http://zotero.org"
+        },
+        {
+          "text": "https://www.zotero.org/blog/google-docs-integration/",
+          "title": "",
+          "url": "https://www.zotero.org/blog/google-docs-integration/"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1537439763717\" id=\"item-5ba3771188251bd3cdb5e403\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302904516_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302904516_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-ac167d4d4a001b8b5cfe\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">School accounts for EasyBib disappeared over the summer.  So what am I recommending to students who need a style beyond basic MLA — and are addicted to the ability to let a bibliographic tool try to read as much metadata from a URL as possible?</p><p style=\"white-space: pre-wrap;\"><strong>ZoteroBib</strong> — or <a href=\"http://zbib.org\" target=\"_blank\">zbib.org</a> — a new “junior” version of the heavy-lifting <a href=\"http://zotero.org\" target=\"_blank\">Zotero</a> was released in May 2018.  Still open source, non-profit (no ads!), originating out of the US university environment, like Zotero.  This version is browser-based, meaning, unlike Zotero, you don’t have to download the application and sync between your machine and your browser.  </p><p style=\"white-space: pre-wrap;\">With ZoteroBib, your bibliography is stored in your browser’s local storage, though you can copy/paste to export it, or save a “Link to this version” which will remain available for 6 months. </p>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537438210539_30453\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">NB:  Students doing the IB Diploma program should know that the IBO requires “Date Accessed” in your bibliography (for online items that could change over time, like webpages).  But MLA 8 does not officially require “Date Accessed”.  So what referencing style in ZoteroBib should you select, if regular MLA 8 doesn’t do everything you need?  Solution: select the modified MLA 8 style called <strong>“University of York - Modern Language Association 8th edition”</strong> (see slides for an example).  This will include “Date Accessed” in your entries. </p><p style=\"white-space: pre-wrap;\">NB: ZoteroBib does not allow you to import citations that have been exported from databases like JSTOR or EBSCO.  But it does let you enter a DOI (Digital Object Identifier) of an article to get citations into your bibliography (see slides for an example). </p>\n</div>\n</div></div><div class=\"sqs-block horizontalrule-block sqs-block-horizontalrule\" data-block-type=\"47\" id=\"block-yui_3_17_2_1_1540431572490_4702\"><div class=\"sqs-block-content\"><hr/></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1540431572490_5101\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\"><strong>UPDATE Oct. 25, 2018: </strong> If people do use the full Zotero (meaning installed on your machine), then it’s exciting to see the <strong>new integration with Google Docs</strong>.  Read more on their blog: <a href=\"https://www.zotero.org/blog/google-docs-integration/\" target=\"_blank\">https://www.zotero.org/blog/google-docs-integration/</a> </p><p style=\"white-space: pre-wrap;\">I started to test it out — and it is very good.  But you have to get students to do the whole Zotero installation.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1540431572490_8118\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302904516_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302904516_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302904516_68\" style=\"max-width:971px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302904516_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302904516_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:34.91246032714844%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screen Shot 2018-10-25 at 9.01.02 AM.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png\" data-image-dimensions=\"971x339\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"339\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432891643-RKY7ON733FKS7D9354NY/Screen+Shot+2018-10-25+at+9.01.02+AM.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"971\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1540431572490_9762\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302904516_84\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302904516_83\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302904516_82\" style=\"max-width:1533px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302904516_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302904516_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:64.709716796875%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screen Shot 2018-10-25 at 8.59.48 AM.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png\" data-image-dimensions=\"1533x992\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"992\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1540432913086-JS0HULRYPUMMUYBC6KLM/Screen+Shot+2018-10-25+at+8.59.48+AM.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1533\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1540431572490_8394\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\"><br/><br/></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "School accounts for EasyBib disappeared over the summer.  So what am I recommending to students who need a style beyond basic MLA — and are addicted to the ability to let a bibliographic tool try to read as much metadata from a URL as possible?ZoteroBib — or zbib.org — a new “junior” version of the heavy-lifting Zotero was released in May 2018.  Still open source, non-profit (no ads!), originating out of the US university environment, like Zotero.  This version is browser-based, meaning, unlike Zotero, you don’t have to download the application and sync between your machine and your browser.  With ZoteroBib, your bibliography is stored in your browser’s local storage, though you can copy/paste to export it, or save a “Link to this version” which will remain available for 6 months. \n\nNB:  Students doing the IB Diploma program should know that the IBO requires “Date Accessed” in your bibliography (for online items that could change over time, like webpages).  But MLA 8 does not officially require “Date Accessed”.  So what referencing style in ZoteroBib should you select, if regular MLA 8 doesn’t do everything you need?  Solution: select the modified MLA 8 style called “University of York - Modern Language Association 8th edition” (see slides for an example).  This will include “Date Accessed” in your entries. NB: ZoteroBib does not allow you to import citations that have been exported from databases like JSTOR or EBSCO.  But it does let you enter a DOI (Digital Object Identifier) of an article to get citations into your bibliography (see slides for an example). \n\nUPDATE Oct. 25, 2018:  If people do use the full Zotero (meaning installed on your machine), then it’s exciting to see the new integration with Google Docs.  Read more on their blog: https://www.zotero.org/blog/google-docs-integration/ I started to test it out — and it is very good.  But you have to get students to do the whole Zotero installation.",
+    "text": "School accounts for EasyBib disappeared over the summer.  So what am I recommending to students who need a style beyond basic MLA — and are addicted to the ability to let a bibliographic tool try to read as much metadata from a URL as possible?ZoteroBib — or zbib.org — a new “junior” version of the heavy-lifting Zotero was released in May 2018.  Still open source, non-profit (no ads!), originating out of the US university environment, like Zotero.  This version is browser-based, meaning, unlike Zotero, you don’t have to download the application and sync between your machine and your browser.  With ZoteroBib, your bibliography is stored in your browser’s local storage, though you can copy/paste to export it, or save a “Link to this version” which will remain available for 6 months. \n\nNB:  Students doing the IB Diploma program should know that the IBO requires “Date Accessed” in your bibliography (for online items that could change over time, like webpages).  But MLA 8 does not officially require “Date Accessed”.  So what referencing style in ZoteroBib should you select, if regular MLA 8 doesn’t do everything you need?  Solution: select the modified MLA 8 style called “University of York - Modern Language Association 8th edition” (see slides for an example).  This will include “Date Accessed” in your entries. NB: ZoteroBib does not allow you to import citations that have been exported from databases like JSTOR or EBSCO.  But it does let you enter a DOI (Digital Object Identifier) of an article to get citations into your bibliography (see slides for an example). \n\nUPDATE Oct. 25, 2018:  If people do use the full Zotero (meaning installed on your machine), then it’s exciting to see the new integration with Google Docs.  Read more on their blog: https://www.zotero.org/blog/google-docs-integration/ I started to test it out — and it is very good.  But you have to get students to do the whole Zotero installation.",
+    "word_count": 317
+  },
+  "excerpt": "School accounts for EasyBib disappeared over the summer.  So what am I recommending to students who need a style beyond basic MLA — and are addicted to the ability to let a bibliographic tool try to read as much metadata from a URL as possible?ZoteroBib — or zbib.",
+  "id": "2018-9-20-hello-zoterobib",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-09-20T00:00:00",
+  "slug": "hello-zoterobib",
+  "title": "Good-bye, EasyBib -- Hello, ZoteroBib!",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/9/20/hello-zoterobib"
+}

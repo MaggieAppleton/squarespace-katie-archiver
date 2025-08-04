@@ -1,0 +1,100 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:41:20.561297",
+    "scraped_at": "2025-08-04T10:40:50.389701",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 240,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 53,
+        "warnings": 0
+      },
+      "success_rate": 5300.0,
+      "summary": {
+        "automatic_fixes_applied": 240,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 53,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "School Librarian Connection - Prague 2016",
+          "title": "",
+          "url": "http://www.schoollibrarianconnection.com/prague-2016.html"
+        },
+        {
+          "text": "Dianne McKenzie",
+          "title": "",
+          "url": "http://librarygrits.blogspot.sg/"
+        },
+        {
+          "text": "17 United Nations Sustainable Development Goals",
+          "title": "",
+          "url": "http://www.un.org/sustainabledevelopment/sustainable-development-goals/"
+        },
+        {
+          "text": "SLIDES",
+          "title": "",
+          "url": "https://docs.google.com/presentation/d/1C2fxolSHgrVsxhAMvKbwtMOpCKLFk1Qa2a2XFmGftIg/edit?usp=sharing"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1476511463963\" id=\"item-5801ae5e893fc0f456c23580\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-border-radii='{\"topLeft\":{\"unit\":\"px\",\"value\":0.0},\"topRight\":{\"unit\":\"px\",\"value\":0.0},\"bottomLeft\":{\"unit\":\"px\",\"value\":0.0},\"bottomRight\":{\"unit\":\"px\",\"value\":0.0}}' id=\"block-c2801823c0387a9e88bf\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">A phrase I have wanted to expand upon for years -- so it sat in my \"to-blog-about\" folder until last month when I needed a presentation topic for the <a href=\"http://www.schoollibrarianconnection.com/prague-2016.html\" target=\"_blank\">School Librarian Connection - Prague 2016</a> conference I was helping <a href=\"http://librarygrits.blogspot.sg/\" target=\"_blank\">Dianne McKenzie</a> organize.</p><p class=\"\" style=\"white-space:pre-wrap;\">My descriptive blurb eventually went like this:  <em>\"An exploration of different ways school libraries support these three key values and provide a platform for 'intimations of excellence' and meaningful connections for our students.  How our spaces, resources and presence act as 'intellectual middleware' to amplify learning.\"</em></p><p class=\"\" style=\"white-space:pre-wrap;\">Howard Gardner gets the inspiration credit, thanks to his two books -- \"The Disciplined Mind\" in 1999, in which he argued that students could study just three things (Darwin for truth, Mozart for beauty, and the Holocaust for (the absence of) good -- and its 2011 re-write for the digital age, \"Truth, Beauty, and Goodness Reframed: educating for the virtues in an age of Truthiness and Twitter,\" in which he shifted to more general divergent/convergent characteristics (convergent on truth, divergent on beauty, and a combination for goodness -- divergent with respect to cultures and customs, while convergent on ethics).</p><p class=\"\" style=\"white-space:pre-wrap;\">Couldn't we apply one of those three tags to everything in our library?  Yes -- as an interesting tag -- or perhaps to highlight related books in an ongoing display area. (I'm not someone who is anxious to create new sections, e.g., just for the IB Theory of Knowledge books.  Dewey is far easier for organization.)</p><p class=\"\" style=\"white-space:pre-wrap;\">We are sitting on mounds of treasure.  That is our eternal problem.  (Cue the next slide:  Smaug in Tolkien's 1836 illustration -- though we librarians never want to be associated with guardian dragons.)  But how to share it?  How to let people know about the mountains of absolutely fantastic stuff we are sitting on top of?  And by stuff, I mean not just what the curriculum requires or what the student already knows they're interested in.  (Cue the slide on the intersection of desirability (students' interest), feasibility (curriculum constraints), and viability (what resources we can offer).)  What about the stuff the students don't yet know they could fall in love with?</p><p class=\"\" style=\"white-space:pre-wrap;\">I'm particularly interested in how we leverage potentially interesting materials.  (Cue the slide on Michael Wesch and meaningful connections....)  Which brings us to the concept of 'intellectual middleware' -- or cognitive augmentation.  Which is anything that helps make those connections.  That supports intellectual access.  Levers -- something small that helps you move something big.</p><p class=\"\" style=\"white-space:pre-wrap;\">Subject headings are the most old-fashioned but still useful.  Controlled vocabulary.  Human ideas, not just keywords.  Yet we have to help our users know about them.  Whether through resource lists, links, etc.  What ideas are relevant to them?</p><p class=\"\" style=\"white-space:pre-wrap;\">One thing our school is now pushing on several fronts is the set of <a href=\"http://www.un.org/sustainabledevelopment/sustainable-development-goals/\" target=\"_blank\">17 United Nations Sustainable Development Goals</a>. Our students are being encouraged to make those connections, whether in the classroom or in the service learning situations.  So in the library we are starting to use that same filter.</p><p class=\"\" style=\"white-space:pre-wrap;\">I finished the presentation with an overview of the differences between federated search (e.g., via an OPAC like Destiny) and a discovery layer (e.g., via EBSCO).  Because that's what we're talking about -- how people discover what we have.</p><p class=\"\" style=\"white-space:pre-wrap;\">I had initially been introduced to the possibility of using EBSCO with Destiny at the Taipei American School and was thrilled to learn the International School of Prague had done the same thing.  UWCSEA is in the process of implementing the EBSCO Discovery Layer with our Destiny, so watch for another blog post on that front.</p><p class=\"\" style=\"white-space:pre-wrap;\">See <a href=\"https://docs.google.com/presentation/d/1C2fxolSHgrVsxhAMvKbwtMOpCKLFk1Qa2a2XFmGftIg/edit?usp=sharing\" target=\"_blank\">SLIDES</a> here.</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "A phrase I have wanted to expand upon for years -- so it sat in my \"to-blog-about\" folder until last month when I needed a presentation topic for the School Librarian Connection - Prague 2016 conference I was helping Dianne McKenzie organize.My descriptive blurb eventually went like this:  \"An exploration of different ways school libraries support these three key values and provide a platform for 'intimations of excellence' and meaningful connections for our students.  How our spaces, resources and presence act as 'intellectual middleware' to amplify learning.\"Howard Gardner gets the inspiration credit, thanks to his two books -- \"The Disciplined Mind\" in 1999, in which he argued that students could study just three things (Darwin for truth, Mozart for beauty, and the Holocaust for (the absence of) good -- and its 2011 re-write for the digital age, \"Truth, Beauty, and Goodness Reframed: educating for the virtues in an age of Truthiness and Twitter,\" in which he shifted to more general divergent/convergent characteristics (convergent on truth, divergent on beauty, and a combination for goodness -- divergent with respect to cultures and customs, while convergent on ethics).Couldn't we apply one of those three tags to everything in our library?  Yes -- as an interesting tag -- or perhaps to highlight related books in an ongoing display area. (I'm not someone who is anxious to create new sections, e.g., just for the IB Theory of Knowledge books.  Dewey is far easier for organization.)We are sitting on mounds of treasure.  That is our eternal problem.  (Cue the next slide:  Smaug in Tolkien's 1836 illustration -- though we librarians never want to be associated with guardian dragons.)  But how to share it?  How to let people know about the mountains of absolutely fantastic stuff we are sitting on top of?  And by stuff, I mean not just what the curriculum requires or what the student already knows they're interested in.  (Cue the slide on the intersection of desirability (students' interest), feasibility (curriculum constraints), and viability (what resources we can offer).)  What about the stuff the students don't yet know they could fall in love with?I'm particularly interested in how we leverage potentially interesting materials.  (Cue the slide on Michael Wesch and meaningful connections....)  Which brings us to the concept of 'intellectual middleware' -- or cognitive augmentation.  Which is anything that helps make those connections.  That supports intellectual access.  Levers -- something small that helps you move something big.Subject headings are the most old-fashioned but still useful.  Controlled vocabulary.  Human ideas, not just keywords.  Yet we have to help our users know about them.  Whether through resource lists, links, etc.  What ideas are relevant to them?One thing our school is now pushing on several fronts is the set of 17 United Nations Sustainable Development Goals. Our students are being encouraged to make those connections, whether in the classroom or in the service learning situations.  So in the library we are starting to use that same filter.I finished the presentation with an overview of the differences between federated search (e.g., via an OPAC like Destiny) and a discovery layer (e.g., via EBSCO).  Because that's what we're talking about -- how people discover what we have.I had initially been introduced to the possibility of using EBSCO with Destiny at the Taipei American School and was thrilled to learn the International School of Prague had done the same thing.  UWCSEA is in the process of implementing the EBSCO Discovery Layer with our Destiny, so watch for another blog post on that front.See SLIDES here.",
+    "text": "A phrase I have wanted to expand upon for years -- so it sat in my \"to-blog-about\" folder until last month when I needed a presentation topic for the School Librarian Connection - Prague 2016 conference I was helping Dianne McKenzie organize.My descriptive blurb eventually went like this:  \"An exploration of different ways school libraries support these three key values and provide a platform for 'intimations of excellence' and meaningful connections for our students.  How our spaces, resources and presence act as 'intellectual middleware' to amplify learning.\"Howard Gardner gets the inspiration credit, thanks to his two books -- \"The Disciplined Mind\" in 1999, in which he argued that students could study just three things (Darwin for truth, Mozart for beauty, and the Holocaust for (the absence of) good -- and its 2011 re-write for the digital age, \"Truth, Beauty, and Goodness Reframed: educating for the virtues in an age of Truthiness and Twitter,\" in which he shifted to more general divergent/convergent characteristics (convergent on truth, divergent on beauty, and a combination for goodness -- divergent with respect to cultures and customs, while convergent on ethics).Couldn't we apply one of those three tags to everything in our library?  Yes -- as an interesting tag -- or perhaps to highlight related books in an ongoing display area. (I'm not someone who is anxious to create new sections, e.g., just for the IB Theory of Knowledge books.  Dewey is far easier for organization.)We are sitting on mounds of treasure.  That is our eternal problem.  (Cue the next slide:  Smaug in Tolkien's 1836 illustration -- though we librarians never want to be associated with guardian dragons.)  But how to share it?  How to let people know about the mountains of absolutely fantastic stuff we are sitting on top of?  And by stuff, I mean not just what the curriculum requires or what the student already knows they're interested in.  (Cue the slide on the intersection of desirability (students' interest), feasibility (curriculum constraints), and viability (what resources we can offer).)  What about the stuff the students don't yet know they could fall in love with?I'm particularly interested in how we leverage potentially interesting materials.  (Cue the slide on Michael Wesch and meaningful connections....)  Which brings us to the concept of 'intellectual middleware' -- or cognitive augmentation.  Which is anything that helps make those connections.  That supports intellectual access.  Levers -- something small that helps you move something big.Subject headings are the most old-fashioned but still useful.  Controlled vocabulary.  Human ideas, not just keywords.  Yet we have to help our users know about them.  Whether through resource lists, links, etc.  What ideas are relevant to them?One thing our school is now pushing on several fronts is the set of 17 United Nations Sustainable Development Goals. Our students are being encouraged to make those connections, whether in the classroom or in the service learning situations.  So in the library we are starting to use that same filter.I finished the presentation with an overview of the differences between federated search (e.g., via an OPAC like Destiny) and a discovery layer (e.g., via EBSCO).  Because that's what we're talking about -- how people discover what we have.I had initially been introduced to the possibility of using EBSCO with Destiny at the Taipei American School and was thrilled to learn the International School of Prague had done the same thing.  UWCSEA is in the process of implementing the EBSCO Discovery Layer with our Destiny, so watch for another blog post on that front.See SLIDES here.",
+    "word_count": 585
+  },
+  "excerpt": "A phrase I have wanted to expand upon for years -- so it sat in my \"to-blog-about\" folder until last month when I needed a presentation topic for the School Librarian Connection - Prague 2016 conference I was helping Dianne McKenzie organize.",
+  "id": "2016-10-15-truth-beauty-and-goodness-in-the-library",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "School libraries"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2016-10-15T00:00:00",
+  "slug": "truth-beauty-and-goodness-in-the-library",
+  "title": "Truth, Beauty, and Goodness in the Library",
+  "url": "https://www.thelibrarianedge.com/libedge/2016/10/15/truth-beauty-and-goodness-in-the-library"
+}

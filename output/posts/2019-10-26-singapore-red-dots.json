@@ -1,0 +1,681 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:45:08.772393",
+    "scraped_at": "2025-08-04T10:44:37.715155",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 264,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 59,
+        "warnings": 0
+      },
+      "success_rate": 5900.0,
+      "summary": {
+        "automatic_fixes_applied": 264,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 59,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "red dot logo.png",
+        "caption": "",
+        "dimensions": {
+          "height": 320,
+          "width": 2000
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png",
+        "title": ""
+      },
+      {
+        "alt_text": "V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731 (1).png",
+        "caption": "",
+        "dimensions": {
+          "height": 731,
+          "width": 1024
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.15.31.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054103542-KFC2C9AH6ABQS6SZENAI/Screenshot+2019-10-24+07.15.31.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.16.13.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087601-HM0CW5EOVT5RAVHOTCH6/Screenshot+2019-10-24+07.16.13.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.16.01.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097830-EY0JYP381OKCJOLMR1A0/Screenshot+2019-10-24+07.16.01.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.15.53.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097502-XYKDL025J5OD170NP83M/Screenshot+2019-10-24+07.15.53.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.16.22.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087249-VZS0RPDHCLJQY8WD4GU4/Screenshot+2019-10-24+07.16.22.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.21.14.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054366356-3IB94ISNIDHDRP36BAWZ/Screenshot+2019-10-24+07.21.14.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.21.42.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054351707-9YMK6UHWESXDTEQ0HU0O/Screenshot+2019-10-24+07.21.42.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.21.34.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054360087-Q0CYP96NKU00REKTG5LM/Screenshot+2019-10-24+07.21.34.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.21.23.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054362122-4T8Z9JBGUQ9O1G4JGJZA/Screenshot+2019-10-24+07.21.23.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.21.51.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054350081-IKN21MPBQM78UAXJAL3V/Screenshot+2019-10-24+07.21.51.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.06.58.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573206-5K92HUZ97L6NR23TQIEN/Screenshot+2019-10-25+07.06.58.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.07.20.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561764-O7NR2JQ0X9LOE9MHPC4T/Screenshot+2019-10-25+07.07.20.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.06.45.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573519-UQ5MZ5V6562W6KJEVFYB/Screenshot+2019-10-25+07.06.45.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.06.25.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054578908-NX051UI61YMGHHRHK63S/Screenshot+2019-10-25+07.06.25.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.07.28.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561497-B6XKBES7ZN8T04QMLKY9/Screenshot+2019-10-25+07.07.28.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.05.48.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055661480-493X2QWGMQ02H3P1QYP9/Screenshot+2019-10-24+07.05.48.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.05.38.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055663474-6NAEBSTGDYP674UO2Z9V/Screenshot+2019-10-24+07.05.38.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.05.55.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055652829-4U3OUBDT67MK7R99GUYF/Screenshot+2019-10-24+07.05.55.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.05.30.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055667692-VRSCM04YTRF8D4LNKYD8/Screenshot+2019-10-24+07.05.30.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-24 07.06.04.png",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055650779-468FKEFX73EXPBGTXSE9/Screenshot+2019-10-24+07.06.04.png?format=750w",
+        "title": ""
+      },
+      {
+        "alt_text": "secrets singapore.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055802472-02O7BNHWYOK6Z524W2DP/secrets+singapore.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "LKY boy named harry.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055803090-9Q0KXV6QT368TJYK5QUZ/LKY+boy+named+harry.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "Charlie Chan.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055804329-AMBIKPKYNJ6MOLVVTSUC/Charlie+Chan.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "earth dragon fire hare.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120108-MDUI07UOYMR5ELA9DEZJ/earth+dragon+fire+hare.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "tall story.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056119843-Z4786IX3YK1Z11NIZ5WE/tall+story.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "rising water.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120424-4MWGO1XHORM43XK6V3MG/rising+water.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-10-25 07.53.51.png",
+        "caption": "",
+        "dimensions": {
+          "height": 502,
+          "width": 1001
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8180.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1875,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_8122.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1657,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "year of the weeds.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368973-UMX6JLUIVC0Q42JYSXSQ/year+of+the+weeds.jpg?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "blue gold.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368970-2UU05F2STPM63BQ7D3UW/blue+gold.jpg?format=300w",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "the Global Literature in Libraries Initiative blog",
+          "title": "",
+          "url": "https://glli-us.org/2019/10/26/singapore-red-dots/"
+        },
+        {
+          "text": "foreign workforce being enticed to relocate there",
+          "title": "",
+          "url": "https://www.eca-international.com/news/january-2019/singapore-remains-the-most-liveable-location-for-a"
+        },
+        {
+          "text": "ISLN",
+          "title": "",
+          "url": "https://www.isln.org.sg/"
+        },
+        {
+          "text": "",
+          "title": "",
+          "url": "https://www.reddotawards.com/"
+        },
+        {
+          "text": "Panda Awards",
+          "title": "",
+          "url": "https://libguides.isb.bj.edu.cn/c.php?g=830908&p=5931780"
+        },
+        {
+          "text": "Sakura Medal",
+          "title": "",
+          "url": "https://sites.google.com/view/sakura-medal/home"
+        },
+        {
+          "text": "\"Red dot\"",
+          "title": "",
+          "url": "https://en.wikipedia.org/wiki/Little_red_dot"
+        },
+        {
+          "text": "Early Years -- all shortlists",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?&order=a&shelf=red-dot-early-shortlists-all&user_id=2704855&view=table"
+        },
+        {
+          "text": "Younger Readers -- all shortlists",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=s%2BjJoGN7MhiImWZ0%2B76CefbuXAG%2F7fx9M6o09KSHxeG0m0jx0FHHigA64i73yNnt9s8as9CWSKf5j4YDG8K3wA%3D%3D&shelf=red-dot-younger-shortlists-all&user_id=2704855"
+        },
+        {
+          "text": "Older Readers -- all shortlists",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=pj0Q%2BlvJXAKCUQfJaeHDU186MRLdHnlcbVBcDp8kPiblaftggYnqLwO4C4Og64fiFOApoH1wLHGcahEX0pueDQ%3D%3D&order=a&shelf=red-dot-older-shortlists-all&user_id=2704855&view=table"
+        },
+        {
+          "text": "Mature Readers -- all shortlists",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=0EW6LhlakbuZIIW2yQ9Gy%2FQ%2Bd6EN2lQiSs8Y3Qd4NsmTEVG0wxonlhjJifwABQJ6v%2BRvE620AQ%2B79VXESseW4g%3D%3D&order=a&shelf=red-dot-mature-shortlists-all&user_id=2704855&view=table"
+        },
+        {
+          "text": "the evolution of the award",
+          "title": "",
+          "url": "http://www.thelibrarianedge.com/libedge/2013/10/looking-back-evolution-of-red-book.html?rq=%22red%20dot%22"
+        },
+        {
+          "text": "always discovering books we love, even if they don't make the shortlist.",
+          "title": "",
+          "url": "http://www.thelibrarianedge.com/libedge/2014/11/on-reading-and-balance-in-four-8-book.html?rq=\"red%20dot\""
+        },
+        {
+          "text": "the difficulty in ensuring the diversity of our shortlists",
+          "title": "",
+          "url": "http://www.thelibrarianedge.com/libedge/2018/1/5/prizing-balance"
+        },
+        {
+          "text": "#NotOurDiversity problem",
+          "title": "",
+          "url": "https://intlnadine.org/2018/05/06/notourdiversity/"
+        },
+        {
+          "text": "in lamenting the lack of \"mirrors\"",
+          "title": "",
+          "url": "https://intlnadine.org/2019/10/20/enough-windows-where-are-the-mirrors/"
+        },
+        {
+          "text": "the picture book version of \"Three Cups of Tea\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/3304291-listen-to-the-wind"
+        },
+        {
+          "text": "\"Three Cups of Deceit.\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/11151351-three-cups-of-deceit?from_search=true"
+        },
+        {
+          "text": "list in Goodreads shows the ones",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=ge%2B1XRfYzKFeAeTDo4NddpSiMQspaAatYZX9JTFSNHSGnDQMpPI5M9aiYJmv9QbilIN3uUYTsnersE%2FSjhdGVQ%3D%3D&shelf=glli-singapore&user_id=2704855&view=table"
+        },
+        {
+          "text": "\"Secrets of Singapore,\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/28420474-secrets-of-singapore"
+        },
+        {
+          "text": "\"A Boy Named Harry: The Childhood of Lee Kuan Yew\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/22962529-a-boy-named-harry"
+        },
+        {
+          "text": "\"The Art of Charlie Chan Hock Chye\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/16157721-the-art-of-charlie-chan-hock-chye"
+        },
+        {
+          "text": "\"Earth Dragon, Fire Hare,\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/13613391-earth-dragon-fire-hare"
+        },
+        {
+          "text": "\"Tall Story,\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/7412951-tall-story"
+        },
+        {
+          "text": "\"Rising Water.\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/40944415-rising-water"
+        },
+        {
+          "text": "Tiffany Tsao put it",
+          "title": "",
+          "url": "https://koreanliteraturenow.com/essay/musings/tiffany-tsao-musings-changing-literary-default-english-or-english-lit-lovers-who"
+        },
+        {
+          "text": "these past Red Dot choices",
+          "title": "",
+          "url": "https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=ge%2B1XRfYzKFeAeTDo4NddpSiMQspaAatYZX9JTFSNHSGnDQMpPI5M9aiYJmv9QbilIN3uUYTsnersE%2FSjhdGVQ%3D%3D&shelf=glli-translations&user_id=2704855&view=table"
+        },
+        {
+          "text": "Global Literature in Libraries Initiative",
+          "title": "",
+          "url": "https://glli-us.org/"
+        },
+        {
+          "text": "LibraryThing catalog of children's and YA literature",
+          "title": "",
+          "url": "https://www.librarycat.org/lib/glli"
+        },
+        {
+          "text": "IBBY (the International Board on Books for Young People)",
+          "title": "",
+          "url": "http://www.ibby.org"
+        },
+        {
+          "text": "Asian Festival of Children's Content (AFCC)",
+          "title": "",
+          "url": "https://afcc.com.sg/"
+        },
+        {
+          "text": "an IBBY branch",
+          "title": "",
+          "url": "http://www.ibby.org/ibby-worldwide/national-sections/national-sections/thailand/"
+        },
+        {
+          "text": "IBBY Honour Books",
+          "title": "",
+          "url": "http://www.ibby.org/awards-activities/awards/ibby-honour-list/"
+        },
+        {
+          "text": "IBBY Booklist on Young People with Disabilities",
+          "title": "",
+          "url": "http://www.ibby.org/awards-activities/activities/ibby-collection-of-books-for-young-people-with-disabilities/http://www.ibby.org/awards-activities/activities/ibby-collection-of-books-for-young-people-with-disabilities/"
+        },
+        {
+          "text": "Bookbird",
+          "title": "",
+          "url": "https://muse.jhu.edu/journal/409"
+        },
+        {
+          "text": "Kathy Short (think: Worlds of Words)",
+          "title": "",
+          "url": "https://wowlit.org/"
+        },
+        {
+          "text": "\"The Dangers of Reading Globally.\"",
+          "title": "",
+          "url": "https://repository.arizona.edu/bitstream/handle/10150/632442/The_Dangers_of_Reading_Globally%2C_final_draft.pdf?sequence=1&isAllowed=y"
+        },
+        {
+          "text": "Biennial congresses",
+          "title": "",
+          "url": "http://www.ibby.org/ibby-worldwide/congresses/http://www.ibby.org/ibby-worldwide/congresses/"
+        },
+        {
+          "text": "Bologna Children's Book Fair",
+          "title": "",
+          "url": "http://www.bookfair.bolognafiere.it/en/home/878.html"
+        },
+        {
+          "text": "Shanghai Children's Book Fair",
+          "title": "",
+          "url": "http://www.ccbookfair.com/en"
+        },
+        {
+          "text": "Astrid Lindgren Memorial Award",
+          "title": "",
+          "url": "http://www.alma.se/en/"
+        },
+        {
+          "text": "\"Bart Moeyaert,\"",
+          "title": "",
+          "url": "https://www.bartmoeyaert.com/"
+        },
+        {
+          "text": "Golden Dragon Awards",
+          "title": "",
+          "url": "https://www.hkgoldendragonawards.org/"
+        },
+        {
+          "text": "Morning Calm Medal",
+          "title": "",
+          "url": "https://morningcalmmedal.wordpress.com/about/"
+        },
+        {
+          "text": "Bangkok Book Awards",
+          "title": "",
+          "url": "https://bangkokbookawards.com/"
+        },
+        {
+          "text": "Neev Book Awards",
+          "title": "",
+          "url": "https://www.neevliteraturefestival.org/book-awards/"
+        },
+        {
+          "text": "\"Year of the Weeds\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/42376668-year-of-the-weeds"
+        },
+        {
+          "text": "\"Blue Gold\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/18706575-blue-gold"
+        },
+        {
+          "text": "Book Depository,",
+          "title": "",
+          "url": "https://bookdepository.com"
+        },
+        {
+          "text": "it is listed on the Amazon India website",
+          "title": "",
+          "url": "https://www.amazon.in/Year-Weeds-Siddhartha-Sarma/dp/9387103110/ref=sr_1_1?keywords=year+of+the+weeds&qid=1572009743&sr=8-1"
+        },
+        {
+          "text": "\"The London Jungle Book\"",
+          "title": "",
+          "url": "https://www.goodreads.com/book/show/231322.The_London_Jungle_Book"
+        },
+        {
+          "text": "Dr. Edith Ackermann so eloquently expressed it",
+          "title": "",
+          "url": "http://www.thelibrarianedge.com/libedge/2014/08/frameworks-for-play-inquiry-research.html"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1572053798925\" id=\"item-5db3a24d2ca7a63a6d3952de\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300673951_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300673951_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-2bc81f2f295bc53223c6\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<blockquote><p class=\"\" style=\"white-space:pre-wrap;\">This piece was originally published on <a href=\"https://glli-us.org/2019/10/26/singapore-red-dots/\" target=\"_blank\">the Global Literature in Libraries Initiative blog</a> — and is cross-posted here.</p></blockquote><p class=\"\" style=\"white-space:pre-wrap;\">Collections of global literature for young people can be found all over Singapore — in the libraries of the 50+ international schools that serve the expatriate population of the city-state. </p><p class=\"\" style=\"white-space:pre-wrap;\">Singapore is a privileged “bubble” in Southeast Asia in so many ways (economically, culturally, educationally, etc.) — and international schools are a bubble within that bubble, given that Singaporeans are not allowed to attend them without special dispensation from the government, which prefers to educate their own citizens but needs attractive schooling options for the elite <a href=\"https://www.eca-international.com/news/january-2019/singapore-remains-the-most-liveable-location-for-a\" target=\"_blank\">foreign workforce being enticed to relocate there</a>. (Out of a population of 5.64m in 2018, 3.99m are citizens or permanent residents, while 1.64m are non-resident or expatriate — roughly 30%.)</p><p class=\"\" style=\"white-space:pre-wrap;\">The teacher-librarians in the international schools (which offer national curricula and/or International Baccalaureate programmes -- PYP, MYP, &amp; DP), are a highly connected professional group via <a href=\"https://www.isln.org.sg/\" target=\"_blank\">ISLN</a> (the International Schools Library Network) — and they represent a good mix of nationalities themselves, as well as expat experiences.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1572053802350_5347\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300673951_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300673951_69\" style=\"max-width:2000px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.reddotawards.com/\" id=\"yui_3_17_2_1_1754300673951_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300673951_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300673951_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:16%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"red dot logo.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png\" data-image-dimensions=\"2000x320\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"320\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053875200-YMRC7H37AM0I94US3BYR/red+dot+logo.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2000\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572053802350_5625\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Ten years ago ISLN started the <a href=\"https://www.reddotawards.com/\" target=\"_blank\">Red Dot book awards</a> — shortlists of recently published books from around the world worth promoting in their schools -- which means books worth buying multiple copies of and worth readers discussing.   It was modeled on similar awards run by similar teacher-librarian networks in other countries (e.g., the <a href=\"https://libguides.isb.bj.edu.cn/c.php?g=830908&amp;p=5931780\" target=\"_blank\">Panda Awards</a> in China and the<a href=\"https://sites.google.com/view/sakura-medal/home\" target=\"_blank\"> Sakura Medal</a> in Japan).  </p><p class=\"\" style=\"white-space:pre-wrap;\">NB: <a href=\"https://en.wikipedia.org/wiki/Little_red_dot\" target=\"_blank\">\"Red dot\" </a>is a proud epithet in Singapore, appropriated from a disparaging comment made years ago by the leader of a neighboring country.  The island may be just a little red dot on the map, but the 54-year-old nation now exudes power and potential.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1572053802350_7616\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_86\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300673951_85\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300673951_84\" style=\"max-width:1024px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.reddotawards.com/\" id=\"yui_3_17_2_1_1754300673951_83\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300673951_82\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300673951_81\" style=\"\n                position: relative;\n                \n                  padding-bottom:71.38671875%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731 (1).png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png\" data-image-dimensions=\"1024x731\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"731\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572053979229-DTPZ3FNI365QA7SWVYJZ/V2Finished-Red-Dot-2019-2020-JIGSAW-1024x731+%281%29.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1024\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572053802350_7893\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">For the <a href=\"https://www.reddotawards.com/\" target=\"_blank\">Red Dot book awards</a>, eight titles (published or translated within the past four years) are selected in four age categories and students are encouraged to read as many as possible and then to vote for their favorite, with category winners announced for each school and for Singapore as a whole.  The voting is just for fun -- there is no prize for the winning titles or authors.  The real prize is the students actually reading the shortlists. (You can browse ten years of the book selections by clicking through the slideshows below.)</p><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?&amp;order=a&amp;shelf=red-dot-early-shortlists-all&amp;user_id=2704855&amp;view=table\" target=\"_blank\">Early Years -- all shortlists</a> -- on Goodreads</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"transparentBackground\":false,\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspectRatio\":null,\"auto-crop\":false,\"autoplay\":false,\"blockAnimation\":\"none\",\"collectionId\":\"5db3a43c4f74010ee4bd8ddc\",\"controls\":true,\"design\":\"slideshow\",\"meta-position\":\"bottom\",\"show-meta\":false,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnails\":false,\"vSize\":null,\"transientGalleryId\":\"5db3a43c4f74010ee4bd8ddc\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572053802350_10299\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_303\">\n<div class=\"sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-has-controls sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_119\">\n<div class=\"sqs-gallery sqs-gallery-design-stacked\" id=\"yui_3_17_2_1_1754300673951_139\" style=\"height: 441.223px;\">\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide sqs-active-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_195\" style=\"opacity: 1; z-index: 889; visibility: visible; pointer-events: auto;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.15.31.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054103542-KFC2C9AH6ABQS6SZENAI/Screenshot+2019-10-24+07.15.31.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.15.31.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054103542-KFC2C9AH6ABQS6SZENAI/Screenshot+2019-10-24+07.15.31.png\" data-image-dimensions=\"756x507\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a4522ca7a63a6d397343\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.6\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054103542-KFC2C9AH6ABQS6SZENAI/Screenshot+2019-10-24+07.15.31.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754300673951_302\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054103542-KFC2C9AH6ABQS6SZENAI/Screenshot+2019-10-24+07.15.31.png?format=750w\" style=\"font-size: 0px; left: 21.2071px; top: 0px; width: 657.586px; height: 441px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_199\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.16.13.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087601-HM0CW5EOVT5RAVHOTCH6/Screenshot+2019-10-24+07.16.13.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.16.13.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087601-HM0CW5EOVT5RAVHOTCH6/Screenshot+2019-10-24+07.16.13.png\" data-image-dimensions=\"752x474\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a43d5d3ce536b68b89c1\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.6\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087601-HM0CW5EOVT5RAVHOTCH6/Screenshot+2019-10-24+07.16.13.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087601-HM0CW5EOVT5RAVHOTCH6/Screenshot+2019-10-24+07.16.13.png?format=750w\" style=\"font-size: 0px; left: 0.177215px; top: 0px; width: 699.646px; height: 441px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_203\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.16.01.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097830-EY0JYP381OKCJOLMR1A0/Screenshot+2019-10-24+07.16.01.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.16.01.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097830-EY0JYP381OKCJOLMR1A0/Screenshot+2019-10-24+07.16.01.png\" data-image-dimensions=\"754x483\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a4470e6ba42da95b6784\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.6\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097830-EY0JYP381OKCJOLMR1A0/Screenshot+2019-10-24+07.16.01.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097830-EY0JYP381OKCJOLMR1A0/Screenshot+2019-10-24+07.16.01.png?format=750w\" style=\"font-size: 0px; left: 5.78261px; top: 0px; width: 688.435px; height: 441px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_207\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.15.53.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097502-XYKDL025J5OD170NP83M/Screenshot+2019-10-24+07.15.53.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.15.53.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097502-XYKDL025J5OD170NP83M/Screenshot+2019-10-24+07.15.53.png\" data-image-dimensions=\"759x492\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a448118b996830dd2356\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.6\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097502-XYKDL025J5OD170NP83M/Screenshot+2019-10-24+07.15.53.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054097502-XYKDL025J5OD170NP83M/Screenshot+2019-10-24+07.15.53.png?format=750w\" style=\"font-size: 0px; left: 9.83841px; top: 0px; width: 680.323px; height: 441px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_211\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.16.22.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087249-VZS0RPDHCLJQY8WD4GU4/Screenshot+2019-10-24+07.16.22.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.16.22.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087249-VZS0RPDHCLJQY8WD4GU4/Screenshot+2019-10-24+07.16.22.png\" data-image-dimensions=\"751x475\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a43d519e397b8fc7a230\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.6\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087249-VZS0RPDHCLJQY8WD4GU4/Screenshot+2019-10-24+07.16.22.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054087249-VZS0RPDHCLJQY8WD4GU4/Screenshot+2019-10-24+07.16.22.png?format=750w\" style=\"font-size: 0px; left: 1.37789px; top: 0px; width: 697.244px; height: 441px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n</div>\n<div class=\"sqs-gallery-meta-container\">\n<div class=\"sqs-gallery-controls show-hover-effect\">\n<a aria-label=\"Previous Slide\" class=\"previous\" role=\"button\" tabindex=\"0\"></a>\n<a aria-label=\"Next Slide\" class=\"next\" role=\"button\" tabindex=\"0\"></a>\n</div>\n</div> <!-- END .sqs-gallery-meta-container -->\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572053802350_10372\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=s%2BjJoGN7MhiImWZ0%2B76CefbuXAG%2F7fx9M6o09KSHxeG0m0jx0FHHigA64i73yNnt9s8as9CWSKf5j4YDG8K3wA%3D%3D&amp;shelf=red-dot-younger-shortlists-all&amp;user_id=2704855\" target=\"_blank\">Younger Readers -- all shortlists</a> -- on Goodreads</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"transparentBackground\":false,\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspectRatio\":null,\"auto-crop\":false,\"autoplay\":false,\"blockAnimation\":\"none\",\"collectionId\":\"5db3a5436255474d7f203228\",\"controls\":true,\"design\":\"slideshow\",\"meta-position\":\"bottom\",\"show-meta\":false,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnails\":false,\"vSize\":null,\"transientGalleryId\":\"5db3a5436255474d7f203228\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572053802350_29861\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_508\">\n<div class=\"sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-has-controls sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_322\">\n<div class=\"sqs-gallery sqs-gallery-design-stacked\" id=\"yui_3_17_2_1_1754300673951_342\" style=\"height: 458.621px;\">\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide sqs-active-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_395\" style=\"opacity: 1; z-index: 889; visibility: visible; pointer-events: auto;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.21.14.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054366356-3IB94ISNIDHDRP36BAWZ/Screenshot+2019-10-24+07.21.14.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.21.14.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054366356-3IB94ISNIDHDRP36BAWZ/Screenshot+2019-10-24+07.21.14.png\" data-image-dimensions=\"754x499\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a558c081ef635019cc1f\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054366356-3IB94ISNIDHDRP36BAWZ/Screenshot+2019-10-24+07.21.14.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754300673951_507\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054366356-3IB94ISNIDHDRP36BAWZ/Screenshot+2019-10-24+07.21.14.png?format=750w\" style=\"font-size: 0px; left: 3.22044px; top: 0px; width: 693.559px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_399\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.21.42.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054351707-9YMK6UHWESXDTEQ0HU0O/Screenshot+2019-10-24+07.21.42.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.21.42.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054351707-9YMK6UHWESXDTEQ0HU0O/Screenshot+2019-10-24+07.21.42.png\" data-image-dimensions=\"750x493\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a5442ca7a63a6d398139\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054351707-9YMK6UHWESXDTEQ0HU0O/Screenshot+2019-10-24+07.21.42.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054351707-9YMK6UHWESXDTEQ0HU0O/Screenshot+2019-10-24+07.21.42.png?format=750w\" style=\"font-size: 0px; left: 0.862069px; top: 0px; width: 698.276px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_403\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.21.34.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054360087-Q0CYP96NKU00REKTG5LM/Screenshot+2019-10-24+07.21.34.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.21.34.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054360087-Q0CYP96NKU00REKTG5LM/Screenshot+2019-10-24+07.21.34.png\" data-image-dimensions=\"752x499\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a54e118b996830dd3330\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054360087-Q0CYP96NKU00REKTG5LM/Screenshot+2019-10-24+07.21.34.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054360087-Q0CYP96NKU00REKTG5LM/Screenshot+2019-10-24+07.21.34.png?format=750w\" style=\"font-size: 0px; left: 4.14028px; top: 0px; width: 691.719px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_407\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.21.23.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054362122-4T8Z9JBGUQ9O1G4JGJZA/Screenshot+2019-10-24+07.21.23.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.21.23.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054362122-4T8Z9JBGUQ9O1G4JGJZA/Screenshot+2019-10-24+07.21.23.png\" data-image-dimensions=\"754x494\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a550c853f67fa160f4b7\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054362122-4T8Z9JBGUQ9O1G4JGJZA/Screenshot+2019-10-24+07.21.23.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054362122-4T8Z9JBGUQ9O1G4JGJZA/Screenshot+2019-10-24+07.21.23.png?format=750w\" style=\"font-size: 0px; left: 0px; top: 0.189655px; width: 700px; height: 458.621px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_411\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.21.51.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054350081-IKN21MPBQM78UAXJAL3V/Screenshot+2019-10-24+07.21.51.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.21.51.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054350081-IKN21MPBQM78UAXJAL3V/Screenshot+2019-10-24+07.21.51.png\" data-image-dimensions=\"752x498\" data-image-focal-point=\"1.0,0.9916237113402062\" data-image-id=\"5db3a544519e397b8fc7b079\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054350081-IKN21MPBQM78UAXJAL3V/Screenshot+2019-10-24+07.21.51.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054350081-IKN21MPBQM78UAXJAL3V/Screenshot+2019-10-24+07.21.51.png?format=750w\" style=\"font-size: 0px; left: 3.44578px; top: 0px; width: 693.108px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n</div>\n<div class=\"sqs-gallery-meta-container\">\n<div class=\"sqs-gallery-controls show-hover-effect\">\n<a aria-label=\"Previous Slide\" class=\"previous\" role=\"button\" tabindex=\"0\"></a>\n<a aria-label=\"Next Slide\" class=\"next\" role=\"button\" tabindex=\"0\"></a>\n</div>\n</div> <!-- END .sqs-gallery-meta-container -->\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572053802350_29932\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=pj0Q%2BlvJXAKCUQfJaeHDU186MRLdHnlcbVBcDp8kPiblaftggYnqLwO4C4Og64fiFOApoH1wLHGcahEX0pueDQ%3D%3D&amp;order=a&amp;shelf=red-dot-older-shortlists-all&amp;user_id=2704855&amp;view=table\" target=\"_blank\">Older Readers -- all shortlists</a> -- on Goodreads</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"transparentBackground\":false,\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspectRatio\":null,\"auto-crop\":false,\"autoplay\":false,\"blockAnimation\":\"none\",\"collectionId\":\"5db3a616628b613d4178942d\",\"controls\":true,\"design\":\"slideshow\",\"meta-position\":\"bottom\",\"show-meta\":false,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnails\":false,\"vSize\":null,\"transientGalleryId\":\"5db3a616628b613d4178942d\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572053802350_34520\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_713\">\n<div class=\"sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-has-controls sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_527\">\n<div class=\"sqs-gallery sqs-gallery-design-stacked\" id=\"yui_3_17_2_1_1754300673951_547\" style=\"height: 453.877px;\">\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide sqs-active-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_600\" style=\"opacity: 1; z-index: 889; visibility: visible; pointer-events: auto;\">\n<noscript><img alt=\"Screenshot 2019-10-25 07.06.58.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573206-5K92HUZ97L6NR23TQIEN/Screenshot+2019-10-25+07.06.58.png\"/></noscript><img alt=\"Screenshot 2019-10-25 07.06.58.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573206-5K92HUZ97L6NR23TQIEN/Screenshot+2019-10-25+07.06.58.png\" data-image-dimensions=\"748x485\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a6226255474d7f203e22\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573206-5K92HUZ97L6NR23TQIEN/Screenshot+2019-10-25+07.06.58.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754300673951_712\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573206-5K92HUZ97L6NR23TQIEN/Screenshot+2019-10-25+07.06.58.png?format=750w\" style=\"font-size: 0px; left: 0px; top: 0.0614973px; width: 700px; height: 453.877px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_604\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-25 07.07.20.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561764-O7NR2JQ0X9LOE9MHPC4T/Screenshot+2019-10-25+07.07.20.png\"/></noscript><img alt=\"Screenshot 2019-10-25 07.07.20.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561764-O7NR2JQ0X9LOE9MHPC4T/Screenshot+2019-10-25+07.07.20.png\" data-image-dimensions=\"746x500\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a617c853f67fa1610051\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561764-O7NR2JQ0X9LOE9MHPC4T/Screenshot+2019-10-25+07.07.20.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561764-O7NR2JQ0X9LOE9MHPC4T/Screenshot+2019-10-25+07.07.20.png?format=750w\" style=\"font-size: 0px; left: 11.316px; top: 0px; width: 677.368px; height: 454px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_608\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-25 07.06.45.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573519-UQ5MZ5V6562W6KJEVFYB/Screenshot+2019-10-25+07.06.45.png\"/></noscript><img alt=\"Screenshot 2019-10-25 07.06.45.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573519-UQ5MZ5V6562W6KJEVFYB/Screenshot+2019-10-25+07.06.45.png\" data-image-dimensions=\"759x500\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a62268f78b50ea128ad2\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573519-UQ5MZ5V6562W6KJEVFYB/Screenshot+2019-10-25+07.06.45.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054573519-UQ5MZ5V6562W6KJEVFYB/Screenshot+2019-10-25+07.06.45.png?format=750w\" style=\"font-size: 0px; left: 5.414px; top: 0px; width: 689.172px; height: 454px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_612\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-25 07.06.25.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054578908-NX051UI61YMGHHRHK63S/Screenshot+2019-10-25+07.06.25.png\"/></noscript><img alt=\"Screenshot 2019-10-25 07.06.25.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054578908-NX051UI61YMGHHRHK63S/Screenshot+2019-10-25+07.06.25.png\" data-image-dimensions=\"752x498\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a62d4f74010ee4bdaefa\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054578908-NX051UI61YMGHHRHK63S/Screenshot+2019-10-25+07.06.25.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054578908-NX051UI61YMGHHRHK63S/Screenshot+2019-10-25+07.06.25.png?format=750w\" style=\"font-size: 0px; left: 7.22088px; top: 0px; width: 685.558px; height: 454px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_616\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-25 07.07.28.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561497-B6XKBES7ZN8T04QMLKY9/Screenshot+2019-10-25+07.07.28.png\"/></noscript><img alt=\"Screenshot 2019-10-25 07.07.28.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561497-B6XKBES7ZN8T04QMLKY9/Screenshot+2019-10-25+07.07.28.png\" data-image-dimensions=\"746x497\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3a6164f74010ee4bdad3d\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561497-B6XKBES7ZN8T04QMLKY9/Screenshot+2019-10-25+07.07.28.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572054561497-B6XKBES7ZN8T04QMLKY9/Screenshot+2019-10-25+07.07.28.png?format=750w\" style=\"font-size: 0px; left: 9.27163px; top: 0px; width: 681.457px; height: 454px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n</div>\n<div class=\"sqs-gallery-meta-container\">\n<div class=\"sqs-gallery-controls show-hover-effect\">\n<a aria-label=\"Previous Slide\" class=\"previous\" role=\"button\" tabindex=\"0\"></a>\n<a aria-label=\"Next Slide\" class=\"next\" role=\"button\" tabindex=\"0\"></a>\n</div>\n</div> <!-- END .sqs-gallery-meta-container -->\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572053802350_34591\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=0EW6LhlakbuZIIW2yQ9Gy%2FQ%2Bd6EN2lQiSs8Y3Qd4NsmTEVG0wxonlhjJifwABQJ6v%2BRvE620AQ%2B79VXESseW4g%3D%3D&amp;order=a&amp;shelf=red-dot-mature-shortlists-all&amp;user_id=2704855&amp;view=table\" target=\"_blank\">Mature Readers -- all shortlists</a> -- on Goodreads</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"transparentBackground\":false,\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspectRatio\":null,\"auto-crop\":false,\"autoplay\":false,\"blockAnimation\":\"none\",\"collectionId\":\"5db3aa59118b996830dd8994\",\"controls\":true,\"design\":\"slideshow\",\"meta-position\":\"bottom\",\"show-meta\":false,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnails\":false,\"vSize\":null,\"transientGalleryId\":\"5db3aa59118b996830dd8994\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572055460584_28665\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_918\">\n<div class=\"sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-has-controls sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_732\">\n<div class=\"sqs-gallery sqs-gallery-design-stacked\" id=\"yui_3_17_2_1_1754300673951_752\" style=\"height: 458.621px;\">\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide sqs-active-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_805\" style=\"opacity: 1; z-index: 889; visibility: visible; pointer-events: auto;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.05.48.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055661480-493X2QWGMQ02H3P1QYP9/Screenshot+2019-10-24+07.05.48.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.05.48.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055661480-493X2QWGMQ02H3P1QYP9/Screenshot+2019-10-24+07.05.48.png\" data-image-dimensions=\"754x494\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aa6368f78b50ea12da02\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055661480-493X2QWGMQ02H3P1QYP9/Screenshot+2019-10-24+07.05.48.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" id=\"yui_3_17_2_1_1754300673951_917\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055661480-493X2QWGMQ02H3P1QYP9/Screenshot+2019-10-24+07.05.48.png?format=750w\" style=\"font-size: 0px; left: 0px; top: 0.189655px; width: 700px; height: 458.621px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_809\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.05.38.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055663474-6NAEBSTGDYP674UO2Z9V/Screenshot+2019-10-24+07.05.38.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.05.38.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055663474-6NAEBSTGDYP674UO2Z9V/Screenshot+2019-10-24+07.05.38.png\" data-image-dimensions=\"748x494\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aa650bf50303d1b29c34\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055663474-6NAEBSTGDYP674UO2Z9V/Screenshot+2019-10-24+07.05.38.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055663474-6NAEBSTGDYP674UO2Z9V/Screenshot+2019-10-24+07.05.38.png?format=750w\" style=\"font-size: 0px; left: 2.49798px; top: 0px; width: 695.004px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_813\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.05.55.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055652829-4U3OUBDT67MK7R99GUYF/Screenshot+2019-10-24+07.05.55.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.05.55.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055652829-4U3OUBDT67MK7R99GUYF/Screenshot+2019-10-24+07.05.55.png\" data-image-dimensions=\"742x497\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aa5ac853f67fa1614814\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055652829-4U3OUBDT67MK7R99GUYF/Screenshot+2019-10-24+07.05.55.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055652829-4U3OUBDT67MK7R99GUYF/Screenshot+2019-10-24+07.05.55.png?format=750w\" style=\"font-size: 0px; left: 7.3662px; top: 0px; width: 685.268px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_817\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.05.30.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055667692-VRSCM04YTRF8D4LNKYD8/Screenshot+2019-10-24+07.05.30.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.05.30.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055667692-VRSCM04YTRF8D4LNKYD8/Screenshot+2019-10-24+07.05.30.png\" data-image-dimensions=\"750x505\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aa6e4f74010ee4bdf7e2\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055667692-VRSCM04YTRF8D4LNKYD8/Screenshot+2019-10-24+07.05.30.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055667692-VRSCM04YTRF8D4LNKYD8/Screenshot+2019-10-24+07.05.30.png?format=750w\" style=\"font-size: 0px; left: 9.15842px; top: 0px; width: 681.683px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n<div class=\"slide content-fit sqs-gallery-design-stacked-slide loaded\" data-click-through-url=\"\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_821\" style=\"opacity: 0; z-index: 888;\">\n<noscript><img alt=\"Screenshot 2019-10-24 07.06.04.png\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055650779-468FKEFX73EXPBGTXSE9/Screenshot+2019-10-24+07.06.04.png\"/></noscript><img alt=\"Screenshot 2019-10-24 07.06.04.png\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055650779-468FKEFX73EXPBGTXSE9/Screenshot+2019-10-24+07.06.04.png\" data-image-dimensions=\"741x504\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aa5a2ca7a63a6d39d4dd\" data-image-resolution=\"750w\" data-load=\"false\" data-parent-ratio=\"1.5\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055650779-468FKEFX73EXPBGTXSE9/Screenshot+2019-10-24+07.06.04.png\" data-type=\"image\" elementtiming=\"system-gallery-block-slideshow\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055650779-468FKEFX73EXPBGTXSE9/Screenshot+2019-10-24+07.06.04.png?format=750w\" style=\"font-size: 0px; left: 12.5804px; top: 0px; width: 674.839px; height: 459px; position: relative;\"/>\n<div class=\"color-overlay\"></div>\n</div>\n</div>\n<div class=\"sqs-gallery-meta-container\">\n<div class=\"sqs-gallery-controls show-hover-effect\">\n<a aria-label=\"Previous Slide\" class=\"previous\" role=\"button\" tabindex=\"0\"></a>\n<a aria-label=\"Next Slide\" class=\"next\" role=\"button\" tabindex=\"0\"></a>\n</div>\n</div> <!-- END .sqs-gallery-meta-container -->\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_28736\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">For the ISLN teacher-librarians who participate in this annual exercise, the personal reward is found in the group process of choosing titles for the shortlists. I've blogged before about <a href=\"http://www.thelibrarianedge.com/libedge/2013/10/looking-back-evolution-of-red-book.html?rq=%22red%20dot%22\" target=\"_blank\">the evolution of the award</a> -- and about the wide reading we go through looking for the right ingredients to make up a balanced basket of offerings, <a href='http://www.thelibrarianedge.com/libedge/2014/11/on-reading-and-balance-in-four-8-book.html?rq=\"red%20dot\"' target=\"_blank\">always discovering books we love, even if they don't make the shortlist.</a> </p><p class=\"\" style=\"white-space:pre-wrap;\">I've also written about <a href=\"http://www.thelibrarianedge.com/libedge/2018/1/5/prizing-balance\" target=\"_blank\">the difficulty in ensuring the diversity of our shortlists</a>, remembering <strong>diversity is relative</strong>.  So many of the lists of \"best diverse books\" for children are not very diverse from an international point of view.   Nadine Bailey (another former ISLN member, now working in Beijing) calls it the  <a href=\"https://intlnadine.org/2018/05/06/notourdiversity/\" target=\"_blank\">#NotOurDiversity problem</a>. She speaks for all of us international school teacher-librarians<a href=\"https://intlnadine.org/2019/10/20/enough-windows-where-are-the-mirrors/\" target=\"_blank\"> in lamenting the lack of \"mirrors\"</a> for our third-culture kids and diaspora clientele.</p><p class=\"\" style=\"white-space:pre-wrap;\">(Have we made mistakes? Yes, I cringe as I see <a href=\"https://www.goodreads.com/book/show/3304291-listen-to-the-wind\" target=\"_blank\">the picture book version of \"Three Cups of Tea\"</a> by Greg Mortenson on the first year's list -- as he is now known for his <a href=\"https://www.goodreads.com/book/show/11151351-three-cups-of-deceit?from_search=true\" target=\"_blank\">\"Three Cups of Deceit.\"</a>)</p><p class=\"\" style=\"white-space:pre-wrap;\">Ideally Singapore books would be included every year, but it doesn't always happen, given the fact that the baskets need to balance not only geographically but also in terms of genre, theme, setting, style, etc.   This <a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=ge%2B1XRfYzKFeAeTDo4NddpSiMQspaAatYZX9JTFSNHSGnDQMpPI5M9aiYJmv9QbilIN3uUYTsnersE%2FSjhdGVQ%3D%3D&amp;shelf=glli-singapore&amp;user_id=2704855&amp;view=table\" target=\"_blank\">list in Goodreads shows the ones</a> that have made the shortlists, including <a href=\"https://www.goodreads.com/book/show/28420474-secrets-of-singapore\" target=\"_blank\">\"Secrets of Singapore,\"</a> a fascinating compendium of information by a mother/daughter team; a picture book biography of the founding father of Singapore (<a href=\"https://www.goodreads.com/book/show/22962529-a-boy-named-harry\" target=\"_blank\">\"A Boy Named Harry: The Childhood of Lee Kuan Yew\"</a>); and the superlative faux history about an artist growing up in Malaya/Singapore, <a href=\"https://www.goodreads.com/book/show/16157721-the-art-of-charlie-chan-hock-chye\" target=\"_blank\">\"The Art of Charlie Chan Hock Chye\"</a> by a Malaysian graphic artist.</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspect-ratio\":\"square\",\"aspectRatio\":null,\"auto-crop\":true,\"blockAnimation\":\"none\",\"collectionId\":\"5db3aaf8519e397b8fc812ac\",\"design\":\"grid\",\"lightbox\":false,\"padding\":0,\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"square-thumbs\":false,\"thumbnails-per-row\":3,\"vSize\":null,\"transientGalleryId\":\"5db3aaf8519e397b8fc812ac\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572055460584_47285\"><div class=\"sqs-block-content\">\n<div class=\"sqs-gallery-container sqs-gallery-block-grid sqs-gallery-aspect-ratio-square sqs-gallery-thumbnails-per-row-3 sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_937\">\n<div class=\"sqs-gallery sqs-gallery-design-grid\" id=\"yui_3_17_2_1_1754300673951_954\">\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_986\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"secrets singapore.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055802472-02O7BNHWYOK6Z524W2DP/secrets+singapore.jpg\"/></noscript><img alt=\"secrets singapore.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055802472-02O7BNHWYOK6Z524W2DP/secrets+singapore.jpg\" data-image-dimensions=\"309x475\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aaf8519e397b8fc812b0\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055802472-02O7BNHWYOK6Z524W2DP/secrets+singapore.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055802472-02O7BNHWYOK6Z524W2DP/secrets+singapore.jpg?format=300w\" style=\"left: 40.7137px; top: 0px; width: 151.573px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_987\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"LKY boy named harry.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055803090-9Q0KXV6QT368TJYK5QUZ/LKY+boy+named+harry.jpg\"/></noscript><img alt=\"LKY boy named harry.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055803090-9Q0KXV6QT368TJYK5QUZ/LKY+boy+named+harry.jpg\" data-image-dimensions=\"318x394\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aaf8c081ef63501a2822\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055803090-9Q0KXV6QT368TJYK5QUZ/LKY+boy+named+harry.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055803090-9Q0KXV6QT368TJYK5QUZ/LKY+boy+named+harry.jpg?format=300w\" style=\"left: 22.4721px; top: 0px; width: 188.056px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_988\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"Charlie Chan.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055804329-AMBIKPKYNJ6MOLVVTSUC/Charlie+Chan.jpg\"/></noscript><img alt=\"Charlie Chan.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055804329-AMBIKPKYNJ6MOLVVTSUC/Charlie+Chan.jpg\" data-image-dimensions=\"309x475\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3aafbc081ef63501a2870\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055804329-AMBIKPKYNJ6MOLVVTSUC/Charlie+Chan.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572055804329-AMBIKPKYNJ6MOLVVTSUC/Charlie+Chan.jpg?format=300w\" style=\"left: 40.7137px; top: 0px; width: 151.573px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_58429\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Books relating to the region are also highly desirable, e.g., <a href=\"https://www.goodreads.com/book/show/13613391-earth-dragon-fire-hare\" target=\"_blank\">\"Earth Dragon, Fire Hare,\"</a> a middle school novel by a New Zealand author about Malaya in 1948 featuring a Kiwi soldier and a Chinese Malay freedom fighter; <a href=\"https://www.goodreads.com/book/show/7412951-tall-story\" target=\"_blank\">\"Tall Story,\"</a> a (literally) fantastic story straddling the Philippines and the UK; and a gripping non-fiction account of the 2018 Thai cave rescue, <a href=\"https://www.goodreads.com/book/show/40944415-rising-water\" target=\"_blank\">\"Rising Water.\"</a></p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspect-ratio\":\"square\",\"aspectRatio\":null,\"auto-crop\":true,\"blockAnimation\":\"none\",\"collectionId\":\"5db3ac364f74010ee4be15c7\",\"design\":\"grid\",\"lightbox\":false,\"padding\":0,\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"square-thumbs\":false,\"thumbnails-per-row\":3,\"vSize\":null,\"transientGalleryId\":\"5db3ac364f74010ee4be15c7\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572055460584_77729\"><div class=\"sqs-block-content\">\n<div class=\"sqs-gallery-container sqs-gallery-block-grid sqs-gallery-aspect-ratio-square sqs-gallery-thumbnails-per-row-3 sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_1051\">\n<div class=\"sqs-gallery sqs-gallery-design-grid\" id=\"yui_3_17_2_1_1754300673951_1068\">\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_1100\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"earth dragon fire hare.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120108-MDUI07UOYMR5ELA9DEZJ/earth+dragon+fire+hare.jpg\"/></noscript><img alt=\"earth dragon fire hare.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120108-MDUI07UOYMR5ELA9DEZJ/earth+dragon+fire+hare.jpg\" data-image-dimensions=\"303x475\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3ac37c853f67fa1616800\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120108-MDUI07UOYMR5ELA9DEZJ/earth+dragon+fire+hare.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120108-MDUI07UOYMR5ELA9DEZJ/earth+dragon+fire+hare.jpg?format=300w\" style=\"left: 42.1853px; top: 0px; width: 148.629px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_1101\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"tall story.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056119843-Z4786IX3YK1Z11NIZ5WE/tall+story.jpg\"/></noscript><img alt=\"tall story.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056119843-Z4786IX3YK1Z11NIZ5WE/tall+story.jpg\" data-image-dimensions=\"300x441\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3ac375d3ce536b68c1274\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056119843-Z4786IX3YK1Z11NIZ5WE/tall+story.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056119843-Z4786IX3YK1Z11NIZ5WE/tall+story.jpg?format=300w\" style=\"left: 37.2483px; top: 0px; width: 158.503px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_1102\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"rising water.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120424-4MWGO1XHORM43XK6V3MG/rising+water.jpg\"/></noscript><img alt=\"rising water.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120424-4MWGO1XHORM43XK6V3MG/rising+water.jpg\" data-image-dimensions=\"318x432\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3ac38118b996830ddabca\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120424-4MWGO1XHORM43XK6V3MG/rising+water.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056120424-4MWGO1XHORM43XK6V3MG/rising+water.jpg?format=300w\" style=\"left: 30.7431px; top: 0px; width: 171.514px; height: 233px; position: relative;\"/>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_77800\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><strong>Translations</strong> are the most important kind of “diversity” or “disruption” needed for the Anglo-centric collections in our schools.  As <a href=\"https://koreanliteraturenow.com/essay/musings/tiffany-tsao-musings-changing-literary-default-english-or-english-lit-lovers-who\">Tiffany Tsao put it</a>, 'power carves the channels that determine how Culture with a capital C flows among countries and their inhabitants.’ And the residual power of the historical British and American empires in Asia is evident in countries like Singapore (though it theoretically recognizes three other official languages — Mandarin, Malay, and Tamil).  </p><p class=\"\" style=\"white-space:pre-wrap;\">We always welcome works in translations, as evidenced by <a href=\"https://www.goodreads.com/review/list/2704855-isln-int-l-school-library-network-singapore?authenticity_token=ge%2B1XRfYzKFeAeTDo4NddpSiMQspaAatYZX9JTFSNHSGnDQMpPI5M9aiYJmv9QbilIN3uUYTsnersE%2FSjhdGVQ%3D%3D&amp;shelf=glli-translations&amp;user_id=2704855&amp;view=table\" target=\"_blank\">these past Red Dot choices</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1572055460584_98645\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_95\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300673951_94\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300673951_93\" style=\"max-width:1001px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300673951_92\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300673951_91\" style=\"\n                position: relative;\n                \n                  padding-bottom:50.14985275268555%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2019-10-25 07.53.51.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png\" data-image-dimensions=\"1001x502\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"502\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056205617-33H71XTIP6O3W286P2OD/Screenshot+2019-10-25+07.53.51.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1001\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_98922\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">That's why this <a href=\"https://glli-us.org/\" target=\"_blank\">Global Literature in Libraries Initiative</a> is so valuable, highlighting authors and works in different languages for us to read.  I particularly appreciate their <a href=\"https://www.librarycat.org/lib/glli\" target=\"_blank\">LibraryThing catalog of children's and YA literature</a> (originals and translations) for Chinese, Japanese, Korean, German, Polish, and Spanish (so far).</p><p class=\"\" style=\"white-space:pre-wrap;\">Having said that, <a href=\"http://www.ibby.org\" target=\"_blank\">IBBY (the International Board on Books for Young People)</a> is the most important source of information about global literature for children and young adults -- and it's always been a mystery to me why Singapore isn't a member (though I almost forgive them because of their annual <a href=\"https://afcc.com.sg/\" target=\"_blank\">Asian Festival of Children's Content (AFCC)</a> which does so much to promote regional authors and illustrators).  I moved to Thailand two years ago and was thrilled to be back in a country with <a href=\"http://www.ibby.org/ibby-worldwide/national-sections/national-sections/thailand/\" target=\"_blank\">an IBBY branch</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1572055460584_100533\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_104\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300673951_103\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300673951_102\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300673951_101\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300673951_100\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_8180.JPG\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1875\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056256786-QI2SU1DR6MJBLEBM9QRJ/IMG_8180.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_100810\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"http://www.ibby.org/awards-activities/awards/ibby-honour-list/\" target=\"_blank\">IBBY Honour Books</a></p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"http://www.ibby.org/awards-activities/activities/ibby-collection-of-books-for-young-people-with-disabilities/http://www.ibby.org/awards-activities/activities/ibby-collection-of-books-for-young-people-with-disabilities/\" target=\"_blank\">IBBY Booklist on Young People with Disabilities</a></p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://muse.jhu.edu/journal/409\">Bookbird</a> journal (via Project Muse) - e.g., read this article by professor <a href=\"https://wowlit.org/\" target=\"_blank\">Kathy Short (think: Worlds of Words)</a> based on a keynote she gave at the 2018 IBBY Congress in Athens: <a href=\"https://repository.arizona.edu/bitstream/handle/10150/632442/The_Dangers_of_Reading_Globally%2C_final_draft.pdf?sequence=1&amp;isAllowed=y\" target=\"_blank\">\"The Dangers of Reading Globally.\"</a></p></li><li><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"http://www.ibby.org/ibby-worldwide/congresses/http://www.ibby.org/ibby-worldwide/congresses/\" target=\"_blank\">Biennial congresses</a> - the next one is in <strong>Moscow, 5-7 Sep 2020</strong>, and the one after that is <strong>Malaysia, 5-8 Sep 2022</strong> (and I expect all our active Asian teacher-librarian networks to be fully contributing)</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\">The <a href=\"http://www.bookfair.bolognafiere.it/en/home/878.html\" target=\"_blank\">Bologna Children's Book Fair</a>, where every April countries converge in Italy to exhibit and exchange publishing rights, is strongly connected to IBBY -- and is a wonderful place to physically browse the best of children's books internationally.  Next month is its sister event, the <a href=\"http://www.ccbookfair.com/en\" target=\"_blank\">Shanghai Children's Book Fair</a>, and I'm hoping some fellow teacher-librarians will be attending and passing on books to watch out for in translation.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1572055460584_102455\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300673951_113\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300673951_112\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300673951_111\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300673951_110\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300673951_109\" style=\"\n                position: relative;\n                \n                  padding-bottom:66.27999877929688%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_8122.JPG\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG\" data-image-dimensions=\"2500x1657\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1657\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056303332-VECIV56PHTZZYE7FU0EV/IMG_8122.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_102732\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">I was lucky enough to be at the <a href=\"http://www.bookfair.bolognafiere.it/en/home/878.html\" target=\"_blank\">Bologna Children's Book Fair</a> this past April when the winner of the <a href=\"http://www.alma.se/en/\" target=\"_blank\">Astrid Lindgren Memorial Award</a> was announced.  When the crowd around me heard the name <a href=\"https://www.bartmoeyaert.com/\" target=\"_blank\">\"Bart Moeyaert,\"</a> it burst into wild cheers and clapping. But my colleague Philip Williams and I just looked at each other in embarrassment and said, \"Who?\"  A quick search on our phones for books to immediately order revealed the disappointing news that no English translations of his work are still in print (though I trust the re-publishing wheels have started turning since then).  <strong>Knowing about good authors and books is only half the battle.</strong></p><p class=\"\" style=\"white-space:pre-wrap;\">In seeking books to put on a Red Dot shortlist, we have often come up against the problem of <strong>availability</strong>, e.g., does a translation exist?, is the book still in print?, and/or is it easy for our schools to order the book and get it delivered to Singapore?</p><p class=\"\" style=\"white-space:pre-wrap;\">Awards, no matter how small (like the Red Dot), create ripples of awareness.  That's why we teacher-librarians watch each others' awards closely, looking for titles to read and potentially add to our own collections or shortlists, e.g.,</p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">the <a href=\"https://libguides.isb.bj.edu.cn/c.php?g=830908&amp;p=5931780\" target=\"_blank\">Panda Awards</a> in China</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">the<a href=\"https://sites.google.com/view/sakura-medal/home\" target=\"_blank\"> Sakura Medal</a> in Japan</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">the <a href=\"https://www.hkgoldendragonawards.org/\" target=\"_blank\">Golden Dragon Awards</a> in Hong Kong</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">the <a href=\"https://morningcalmmedal.wordpress.com/about/\" target=\"_blank\">Morning Calm Medal</a> in Korea</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">the <a href=\"https://bangkokbookawards.com/\" target=\"_blank\">Bangkok Book Awards</a> in Thailand</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\">But it's frustrating if you can't easily get your hands on books from other countries.</p><p class=\"\" style=\"white-space:pre-wrap;\">For example, Nadine Bailey and I are both judges for the <a href=\"https://www.neevliteraturefestival.org/book-awards/\" target=\"_blank\">Neev Book Awards</a>, a relatively new award looking for \"high-quality children's literature from India\" leading to \"a fuller understanding of India, Indian lives, and Indian stories.\"  This year the winning title in the Neev YA category is <a href=\"https://www.goodreads.com/book/show/42376668-year-of-the-weeds\" target=\"_blank\">\"Year of the Weeds\"</a> -- a book we passionately recommend -- and one which pairs perfectly with a former Red Dot title from Canada, <a href=\"https://www.goodreads.com/book/show/18706575-blue-gold\" target=\"_blank\">\"Blue Gold\"</a> -- as both highlight the human costs of mining metals to feed our appetites for the latest technology.</p>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspect-ratio\":\"square\",\"aspectRatio\":null,\"auto-crop\":true,\"blockAnimation\":\"none\",\"collectionId\":\"5db3ad305d3ce536b68c22fe\",\"design\":\"grid\",\"lightbox\":false,\"padding\":0,\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"square-thumbs\":false,\"thumbnails-per-row\":2,\"vSize\":null,\"transientGalleryId\":\"5db3ad305d3ce536b68c22fe\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1572055460584_126621\"><div class=\"sqs-block-content\">\n<div class=\"sqs-gallery-container sqs-gallery-block-grid sqs-gallery-aspect-ratio-square sqs-gallery-thumbnails-per-row-2 sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300673951_1153\">\n<div class=\"sqs-gallery sqs-gallery-design-grid\" id=\"yui_3_17_2_1_1754300673951_1170\">\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_1201\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"year of the weeds.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368973-UMX6JLUIVC0Q42JYSXSQ/year+of+the+weeds.jpg\"/></noscript><img alt=\"year of the weeds.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368973-UMX6JLUIVC0Q42JYSXSQ/year+of+the+weeds.jpg\" data-image-dimensions=\"307x475\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3ad30c853f67fa161788d\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368973-UMX6JLUIVC0Q42JYSXSQ/year+of+the+weeds.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368973-UMX6JLUIVC0Q42JYSXSQ/year+of+the+weeds.jpg?format=300w\" style=\"left: 61.8947px; top: 0px; width: 226.211px; height: 350px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754300673951_1202\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fit\" role=\"presentation\">\n<noscript><img alt=\"blue gold.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368970-2UU05F2STPM63BQ7D3UW/blue+gold.jpg\"/></noscript><img alt=\"blue gold.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368970-2UU05F2STPM63BQ7D3UW/blue+gold.jpg\" data-image-dimensions=\"250x400\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5db3ad306255474d7f20bed0\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368970-2UU05F2STPM63BQ7D3UW/blue+gold.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1572056368970-2UU05F2STPM63BQ7D3UW/blue+gold.jpg?format=300w\" style=\"left: 65.625px; top: 0px; width: 218.75px; height: 350px; position: relative;\"/>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1572055460584_126692\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">While the Canadian novel is readily available via sites like Amazon.com or <a href=\"https://bookdepository.com\" target=\"_blank\">Book Depository,</a> the Indian one is not (yet).  Yes, <a href=\"https://www.amazon.in/Year-Weeds-Siddhartha-Sarma/dp/9387103110/ref=sr_1_1?keywords=year+of+the+weeds&amp;qid=1572009743&amp;sr=8-1\" target=\"_blank\">it is listed on the Amazon India website</a>, but people outside of India can't use that (without a credit card registered to an address in India).  </p><p class=\"\" style=\"white-space:pre-wrap;\">I know both Nadine and I will be advocating for \"Year of the Weeds\" to our colleagues on the Bangkok Book Awards and Panda Awards committees (the local ones we now serve on, having cut our teeth in Singapore on the Red Dot Book Awards).  Getting copies will be tricky, but we're working on ways to help others get a chance to read this brilliantly humorous novel that offers an insightful critique of the abuses of democracy and capitalism through the lens of the Gond tribe, an indigenous people of India. (If you aren't familiar with the Gond, please seek out <a href=\"https://www.goodreads.com/book/show/231322.The_London_Jungle_Book\" target=\"_blank\">\"The London Jungle Book\"</a> -- as you will never forget the arresting images and metaphors the author/illustrator employs to explain his culture in that picture book memoir.)</p><p class=\"\" style=\"white-space:pre-wrap;\">Following and participating in awards like the Red Dots is invaluable for those of us entrusted with expanding the arena of possible <strong>discovery</strong> for young people.  As <a href=\"http://www.thelibrarianedge.com/libedge/2014/08/frameworks-for-play-inquiry-research.html\" target=\"_blank\">Dr. Edith Ackermann so eloquently expressed it</a>, <strong>\"We have a responsibility to introduce children to things they don't yet know they will love.\" </strong> </p><p class=\"\" style=\"white-space:pre-wrap;\">I view these annual award exercises as <em>formative</em> assessments, where the \"canon\" taught in our schools (or stored in our book cupboards) is the equivalent of <em>summative</em> assessments.  We librarians can help those canons evolve by continuously exploring world literature in order to provide new, refreshing, mind-expanding reading material  -- for our students and our teachers.</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "This piece was originally published on the Global Literature in Libraries Initiative blog — and is cross-posted here.Collections of global literature for young people can be found all over Singapore — in the libraries of the 50+ international schools that serve the expatriate population of the city-state. Singapore is a privileged “bubble” in Southeast Asia in so many ways (economically, culturally, educationally, etc.) — and international schools are a bubble within that bubble, given that Singaporeans are not allowed to attend them without special dispensation from the government, which prefers to educate their own citizens but needs attractive schooling options for the elite foreign workforce being enticed to relocate there. (Out of a population of 5.64m in 2018, 3.99m are citizens or permanent residents, while 1.64m are non-resident or expatriate — roughly 30%.)The teacher-librarians in the international schools (which offer national curricula and/or International Baccalaureate programmes -- PYP, MYP, & DP), are a highly connected professional group via ISLN (the International Schools Library Network) — and they represent a good mix of nationalities themselves, as well as expat experiences.\n\nTen years ago ISLN started the Red Dot book awards — shortlists of recently published books from around the world worth promoting in their schools -- which means books worth buying multiple copies of and worth readers discussing.   It was modeled on similar awards run by similar teacher-librarian networks in other countries (e.g., the Panda Awards in China and the Sakura Medal in Japan).  NB: \"Red dot\" is a proud epithet in Singapore, appropriated from a disparaging comment made years ago by the leader of a neighboring country.  The island may be just a little red dot on the map, but the 54-year-old nation now exudes power and potential.\n\nFor the Red Dot book awards, eight titles (published or translated within the past four years) are selected in four age categories and students are encouraged to read as many as possible and then to vote for their favorite, with category winners announced for each school and for Singapore as a whole.  The voting is just for fun -- there is no prize for the winning titles or authors.  The real prize is the students actually reading the shortlists. (You can browse ten years of the book selections by clicking through the slideshows below.)Early Years -- all shortlists -- on Goodreads\n\nYounger Readers -- all shortlists -- on Goodreads\n\nOlder Readers -- all shortlists -- on Goodreads\n\nMature Readers -- all shortlists -- on Goodreads\n\nFor the ISLN teacher-librarians who participate in this annual exercise, the personal reward is found in the group process of choosing titles for the shortlists. I've blogged before about the evolution of the award -- and about the wide reading we go through looking for the right ingredients to make up a balanced basket of offerings, always discovering books we love, even if they don't make the shortlist. I've also written about the difficulty in ensuring the diversity of our shortlists, remembering diversity is relative.  So many of the lists of \"best diverse books\" for children are not very diverse from an international point of view.   Nadine Bailey (another former ISLN member, now working in Beijing) calls it the  #NotOurDiversity problem. She speaks for all of us international school teacher-librarians in lamenting the lack of \"mirrors\" for our third-culture kids and diaspora clientele.(Have we made mistakes? Yes, I cringe as I see the picture book version of \"Three Cups of Tea\" by Greg Mortenson on the first year's list -- as he is now known for his \"Three Cups of Deceit.\")Ideally Singapore books would be included every year, but it doesn't always happen, given the fact that the baskets need to balance not only geographically but also in terms of genre, theme, setting, style, etc.   This list in Goodreads shows the ones that have made the shortlists, including \"Secrets of Singapore,\" a fascinating compendium of information by a mother/daughter team; a picture book biography of the founding father of Singapore (\"A Boy Named Harry: The Childhood of Lee Kuan Yew\"); and the superlative faux history about an artist growing up in Malaya/Singapore, \"The Art of Charlie Chan Hock Chye\" by a Malaysian graphic artist.\n\nBooks relating to the region are also highly desirable, e.g., \"Earth Dragon, Fire Hare,\" a middle school novel by a New Zealand author about Malaya in 1948 featuring a Kiwi soldier and a Chinese Malay freedom fighter; \"Tall Story,\" a (literally) fantastic story straddling the Philippines and the UK; and a gripping non-fiction account of the 2018 Thai cave rescue, \"Rising Water.\"\n\nTranslations are the most important kind of “diversity” or “disruption” needed for the Anglo-centric collections in our schools.  As Tiffany Tsao put it, 'power carves the channels that determine how Culture with a capital C flows among countries and their inhabitants.’ And the residual power of the historical British and American empires in Asia is evident in countries like Singapore (though it theoretically recognizes three other official languages — Mandarin, Malay, and Tamil).  We always welcome works in translations, as evidenced by these past Red Dot choices.\n\nThat's why this Global Literature in Libraries Initiative is so valuable, highlighting authors and works in different languages for us to read.  I particularly appreciate their LibraryThing catalog of children's and YA literature (originals and translations) for Chinese, Japanese, Korean, German, Polish, and Spanish (so far).Having said that, IBBY (the International Board on Books for Young People) is the most important source of information about global literature for children and young adults -- and it's always been a mystery to me why Singapore isn't a member (though I almost forgive them because of their annual Asian Festival of Children's Content (AFCC) which does so much to promote regional authors and illustrators).  I moved to Thailand two years ago and was thrilled to be back in a country with an IBBY branch.\n\nIBBY Honour BooksIBBY Booklist on Young People with DisabilitiesBookbird journal (via Project Muse) - e.g., read this article by professor Kathy Short (think: Worlds of Words) based on a keynote she gave at the 2018 IBBY Congress in Athens: \"The Dangers of Reading Globally.\"Biennial congresses - the next one is in Moscow, 5-7 Sep 2020, and the one after that is Malaysia, 5-8 Sep 2022 (and I expect all our active Asian teacher-librarian networks to be fully contributing)The Bologna Children's Book Fair, where every April countries converge in Italy to exhibit and exchange publishing rights, is strongly connected to IBBY -- and is a wonderful place to physically browse the best of children's books internationally.  Next month is its sister event, the Shanghai Children's Book Fair, and I'm hoping some fellow teacher-librarians will be attending and passing on books to watch out for in translation.\n\nI was lucky enough to be at the Bologna Children's Book Fair this past April when the winner of the Astrid Lindgren Memorial Award was announced.  When the crowd around me heard the name \"Bart Moeyaert,\" it burst into wild cheers and clapping. But my colleague Philip Williams and I just looked at each other in embarrassment and said, \"Who?\"  A quick search on our phones for books to immediately order revealed the disappointing news that no English translations of his work are still in print (though I trust the re-publishing wheels have started turning since then).  Knowing about good authors and books is only half the battle.In seeking books to put on a Red Dot shortlist, we have often come up against the problem of availability, e.g., does a translation exist?, is the book still in print?, and/or is it easy for our schools to order the book and get it delivered to Singapore?Awards, no matter how small (like the Red Dot), create ripples of awareness.  That's why we teacher-librarians watch each others' awards closely, looking for titles to read and potentially add to our own collections or shortlists, e.g.,the Panda Awards in Chinathe Sakura Medal in Japanthe Golden Dragon Awards in Hong Kongthe Morning Calm Medal in Koreathe Bangkok Book Awards in ThailandBut it's frustrating if you can't easily get your hands on books from other countries.For example, Nadine Bailey and I are both judges for the Neev Book Awards, a relatively new award looking for \"high-quality children's literature from India\" leading to \"a fuller understanding of India, Indian lives, and Indian stories.\"  This year the winning title in the Neev YA category is \"Year of the Weeds\" -- a book we passionately recommend -- and one which pairs perfectly with a former Red Dot title from Canada, \"Blue Gold\" -- as both highlight the human costs of mining metals to feed our appetites for the latest technology.\n\nWhile the Canadian novel is readily available via sites like Amazon.com or Book Depository, the Indian one is not (yet).  Yes, it is listed on the Amazon India website, but people outside of India can't use that (without a credit card registered to an address in India).  I know both Nadine and I will be advocating for \"Year of the Weeds\" to our colleagues on the Bangkok Book Awards and Panda Awards committees (the local ones we now serve on, having cut our teeth in Singapore on the Red Dot Book Awards).  Getting copies will be tricky, but we're working on ways to help others get a chance to read this brilliantly humorous novel that offers an insightful critique of the abuses of democracy and capitalism through the lens of the Gond tribe, an indigenous people of India. (If you aren't familiar with the Gond, please seek out \"The London Jungle Book\" -- as you will never forget the arresting images and metaphors the author/illustrator employs to explain his culture in that picture book memoir.)Following and participating in awards like the Red Dots is invaluable for those of us entrusted with expanding the arena of possible discovery for young people.  As Dr. Edith Ackermann so eloquently expressed it, \"We have a responsibility to introduce children to things they don't yet know they will love.\"  I view these annual award exercises as formative assessments, where the \"canon\" taught in our schools (or stored in our book cupboards) is the equivalent of summative assessments.  We librarians can help those canons evolve by continuously exploring world literature in order to provide new, refreshing, mind-expanding reading material  -- for our students and our teachers.",
+    "text": "This piece was originally published on the Global Literature in Libraries Initiative blog — and is cross-posted here.Collections of global literature for young people can be found all over Singapore — in the libraries of the 50+ international schools that serve the expatriate population of the city-state. Singapore is a privileged “bubble” in Southeast Asia in so many ways (economically, culturally, educationally, etc.) — and international schools are a bubble within that bubble, given that Singaporeans are not allowed to attend them without special dispensation from the government, which prefers to educate their own citizens but needs attractive schooling options for the elite foreign workforce being enticed to relocate there. (Out of a population of 5.64m in 2018, 3.99m are citizens or permanent residents, while 1.64m are non-resident or expatriate — roughly 30%.)The teacher-librarians in the international schools (which offer national curricula and/or International Baccalaureate programmes -- PYP, MYP, & DP), are a highly connected professional group via ISLN (the International Schools Library Network) — and they represent a good mix of nationalities themselves, as well as expat experiences.\n\nTen years ago ISLN started the Red Dot book awards — shortlists of recently published books from around the world worth promoting in their schools -- which means books worth buying multiple copies of and worth readers discussing.   It was modeled on similar awards run by similar teacher-librarian networks in other countries (e.g., the Panda Awards in China and the Sakura Medal in Japan).  NB: \"Red dot\" is a proud epithet in Singapore, appropriated from a disparaging comment made years ago by the leader of a neighboring country.  The island may be just a little red dot on the map, but the 54-year-old nation now exudes power and potential.\n\nFor the Red Dot book awards, eight titles (published or translated within the past four years) are selected in four age categories and students are encouraged to read as many as possible and then to vote for their favorite, with category winners announced for each school and for Singapore as a whole.  The voting is just for fun -- there is no prize for the winning titles or authors.  The real prize is the students actually reading the shortlists. (You can browse ten years of the book selections by clicking through the slideshows below.)Early Years -- all shortlists -- on Goodreads\n\nYounger Readers -- all shortlists -- on Goodreads\n\nOlder Readers -- all shortlists -- on Goodreads\n\nMature Readers -- all shortlists -- on Goodreads\n\nFor the ISLN teacher-librarians who participate in this annual exercise, the personal reward is found in the group process of choosing titles for the shortlists. I've blogged before about the evolution of the award -- and about the wide reading we go through looking for the right ingredients to make up a balanced basket of offerings, always discovering books we love, even if they don't make the shortlist. I've also written about the difficulty in ensuring the diversity of our shortlists, remembering diversity is relative.  So many of the lists of \"best diverse books\" for children are not very diverse from an international point of view.   Nadine Bailey (another former ISLN member, now working in Beijing) calls it the  #NotOurDiversity problem. She speaks for all of us international school teacher-librarians in lamenting the lack of \"mirrors\" for our third-culture kids and diaspora clientele.(Have we made mistakes? Yes, I cringe as I see the picture book version of \"Three Cups of Tea\" by Greg Mortenson on the first year's list -- as he is now known for his \"Three Cups of Deceit.\")Ideally Singapore books would be included every year, but it doesn't always happen, given the fact that the baskets need to balance not only geographically but also in terms of genre, theme, setting, style, etc.   This list in Goodreads shows the ones that have made the shortlists, including \"Secrets of Singapore,\" a fascinating compendium of information by a mother/daughter team; a picture book biography of the founding father of Singapore (\"A Boy Named Harry: The Childhood of Lee Kuan Yew\"); and the superlative faux history about an artist growing up in Malaya/Singapore, \"The Art of Charlie Chan Hock Chye\" by a Malaysian graphic artist.\n\nBooks relating to the region are also highly desirable, e.g., \"Earth Dragon, Fire Hare,\" a middle school novel by a New Zealand author about Malaya in 1948 featuring a Kiwi soldier and a Chinese Malay freedom fighter; \"Tall Story,\" a (literally) fantastic story straddling the Philippines and the UK; and a gripping non-fiction account of the 2018 Thai cave rescue, \"Rising Water.\"\n\nTranslations are the most important kind of “diversity” or “disruption” needed for the Anglo-centric collections in our schools.  As Tiffany Tsao put it, 'power carves the channels that determine how Culture with a capital C flows among countries and their inhabitants.’ And the residual power of the historical British and American empires in Asia is evident in countries like Singapore (though it theoretically recognizes three other official languages — Mandarin, Malay, and Tamil).  We always welcome works in translations, as evidenced by these past Red Dot choices.\n\nThat's why this Global Literature in Libraries Initiative is so valuable, highlighting authors and works in different languages for us to read.  I particularly appreciate their LibraryThing catalog of children's and YA literature (originals and translations) for Chinese, Japanese, Korean, German, Polish, and Spanish (so far).Having said that, IBBY (the International Board on Books for Young People) is the most important source of information about global literature for children and young adults -- and it's always been a mystery to me why Singapore isn't a member (though I almost forgive them because of their annual Asian Festival of Children's Content (AFCC) which does so much to promote regional authors and illustrators).  I moved to Thailand two years ago and was thrilled to be back in a country with an IBBY branch.\n\nIBBY Honour BooksIBBY Booklist on Young People with DisabilitiesBookbird journal (via Project Muse) - e.g., read this article by professor Kathy Short (think: Worlds of Words) based on a keynote she gave at the 2018 IBBY Congress in Athens: \"The Dangers of Reading Globally.\"Biennial congresses - the next one is in Moscow, 5-7 Sep 2020, and the one after that is Malaysia, 5-8 Sep 2022 (and I expect all our active Asian teacher-librarian networks to be fully contributing)The Bologna Children's Book Fair, where every April countries converge in Italy to exhibit and exchange publishing rights, is strongly connected to IBBY -- and is a wonderful place to physically browse the best of children's books internationally.  Next month is its sister event, the Shanghai Children's Book Fair, and I'm hoping some fellow teacher-librarians will be attending and passing on books to watch out for in translation.\n\nI was lucky enough to be at the Bologna Children's Book Fair this past April when the winner of the Astrid Lindgren Memorial Award was announced.  When the crowd around me heard the name \"Bart Moeyaert,\" it burst into wild cheers and clapping. But my colleague Philip Williams and I just looked at each other in embarrassment and said, \"Who?\"  A quick search on our phones for books to immediately order revealed the disappointing news that no English translations of his work are still in print (though I trust the re-publishing wheels have started turning since then).  Knowing about good authors and books is only half the battle.In seeking books to put on a Red Dot shortlist, we have often come up against the problem of availability, e.g., does a translation exist?, is the book still in print?, and/or is it easy for our schools to order the book and get it delivered to Singapore?Awards, no matter how small (like the Red Dot), create ripples of awareness.  That's why we teacher-librarians watch each others' awards closely, looking for titles to read and potentially add to our own collections or shortlists, e.g.,the Panda Awards in Chinathe Sakura Medal in Japanthe Golden Dragon Awards in Hong Kongthe Morning Calm Medal in Koreathe Bangkok Book Awards in ThailandBut it's frustrating if you can't easily get your hands on books from other countries.For example, Nadine Bailey and I are both judges for the Neev Book Awards, a relatively new award looking for \"high-quality children's literature from India\" leading to \"a fuller understanding of India, Indian lives, and Indian stories.\"  This year the winning title in the Neev YA category is \"Year of the Weeds\" -- a book we passionately recommend -- and one which pairs perfectly with a former Red Dot title from Canada, \"Blue Gold\" -- as both highlight the human costs of mining metals to feed our appetites for the latest technology.\n\nWhile the Canadian novel is readily available via sites like Amazon.com or Book Depository, the Indian one is not (yet).  Yes, it is listed on the Amazon India website, but people outside of India can't use that (without a credit card registered to an address in India).  I know both Nadine and I will be advocating for \"Year of the Weeds\" to our colleagues on the Bangkok Book Awards and Panda Awards committees (the local ones we now serve on, having cut our teeth in Singapore on the Red Dot Book Awards).  Getting copies will be tricky, but we're working on ways to help others get a chance to read this brilliantly humorous novel that offers an insightful critique of the abuses of democracy and capitalism through the lens of the Gond tribe, an indigenous people of India. (If you aren't familiar with the Gond, please seek out \"The London Jungle Book\" -- as you will never forget the arresting images and metaphors the author/illustrator employs to explain his culture in that picture book memoir.)Following and participating in awards like the Red Dots is invaluable for those of us entrusted with expanding the arena of possible discovery for young people.  As Dr. Edith Ackermann so eloquently expressed it, \"We have a responsibility to introduce children to things they don't yet know they will love.\"  I view these annual award exercises as formative assessments, where the \"canon\" taught in our schools (or stored in our book cupboards) is the equivalent of summative assessments.  We librarians can help those canons evolve by continuously exploring world literature in order to provide new, refreshing, mind-expanding reading material  -- for our students and our teachers.",
+    "word_count": 1722
+  },
+  "excerpt": "This piece was originally published on the Global Literature in Libraries Initiative blog — and is cross-posted here.Collections of global literature for young people can be found all over Singapore — in the libraries of the 50+ international schools that serve the expatriate population of the ci...",
+  "id": "2019-10-26-singapore-red-dots",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "Children's/YA literature"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2019-10-26T00:00:00",
+  "slug": "singapore-red-dots",
+  "title": "The Singapore Red Dot Awards — an annual exercise in curating a basket of recent books for children in international schools",
+  "url": "https://www.thelibrarianedge.com/libedge/2019/10/26/singapore-red-dots"
+}

@@ -1,0 +1,108 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:36:22.165463",
+    "scraped_at": "2025-08-04T10:35:51.946202",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 209,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 45,
+        "warnings": 0
+      },
+      "success_rate": 4500.0,
+      "summary": {
+        "automatic_fixes_applied": 209,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 45,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 1536,
+          "width": 2048
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg",
+        "title": ""
+      },
+      {
+        "alt_text": "POSTER - MS HS Summer Shelfie 2015 (1).png",
+        "caption": "",
+        "dimensions": {
+          "height": 2048,
+          "width": 1447
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 2048,
+          "width": 1447
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "bit.ly/shelfies2015",
+          "title": "",
+          "url": "http://bit.ly/shelfies2015"
+        },
+        {
+          "text": "bit.ly/shelfiesphotos",
+          "title": "",
+          "url": "http://bit.ly/shelfiesphotos"
+        },
+        {
+          "text": "bit.ly/bookfaces2015",
+          "title": "",
+          "url": "http://bit.ly/bookfaces2015"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1434179623599\" id=\"item-557bd77fe4b0db0dbabdce50\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300148502_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300148502_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-cd8ca83cf7c5748902cb\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>For the past two years I have solved the problem of summer reading lists by crowd-sourcing recommendations from our community via \"Summer Shelfies.\" </p><p>We set up a photo booth area in the library (with help from the Art Dept. and Dave Caleb, one of our digital literacy coaches who is a serious photographer) -- for backlit flashes against a white backdrop -- the kind of lighting that makes all of us look like models.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_5_1434177783234_10794\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300148502_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300148502_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300148502_68\" style=\"max-width:2048px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300148502_67\">\n<div class=\"sqs-image-shape-container-element\" id=\"yui_3_17_2_1_1754300148502_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1536\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184137605-7YGHNIT4T4WBX7ZDZHKC/image-asset.jpeg?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"2048\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_5_1434177783234_11010\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Individuals or whole classes line up with a book in hand and get captured on film.  I then post the results to a Google+ Photo Album.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_5_1434177783234_12111\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300148502_83\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300148502_82\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300148502_81\" style=\"max-width:1447px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300148502_80\">\n<div class=\"sqs-image-shape-container-element\" id=\"yui_3_17_2_1_1754300148502_79\" style=\"\n                position: relative;\n                \n                  padding-bottom:141.53421020507812%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"POSTER - MS HS Summer Shelfie 2015 (1).png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png\" data-image-dimensions=\"1447x2048\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"2048\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184198919-5HB4CTH7SMUQIB7WBD8P/POSTER+-+MS+HS+Summer+Shelfie+2015+%281%29.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"1447\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_5_1434177783234_12327\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Click here to see this year's results so far: <a href=\"http://bit.ly/shelfies2015\" target=\"_blank\"> bit.ly/shelfies2015</a> -- and last year's:  <a href=\"http://bit.ly/shelfiesphotos\" target=\"_blank\">bit.ly/shelfiesphotos</a></p><p>This year we asked for another possibility -- a #bookface creation.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_5_1434177783234_15553\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300148502_91\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300148502_90\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300148502_89\" style=\"max-width:1447px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300148502_88\">\n<div class=\"sqs-image-shape-container-element\" id=\"yui_3_17_2_1_1754300148502_87\" style=\"\n                position: relative;\n                \n                  padding-bottom:141.53421020507812%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png\" data-image-dimensions=\"1447x2048\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"2048\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1434184339107-FYM71TSW4LWS4MDCG3VU/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%\" width=\"1447\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_5_1434177783234_15769\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>The results can be seen here:  <a href=\"http://bit.ly/bookfaces2015\" target=\"_blank\">bit.ly/bookfaces2015</a></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "For the past two years I have solved the problem of summer reading lists by crowd-sourcing recommendations from our community via \"Summer Shelfies.\" We set up a photo booth area in the library (with help from the Art Dept. and Dave Caleb, one of our digital literacy coaches who is a serious photographer) -- for backlit flashes against a white backdrop -- the kind of lighting that makes all of us look like models.\n\nIndividuals or whole classes line up with a book in hand and get captured on film.  I then post the results to a Google+ Photo Album.\n\nClick here to see this year's results so far:  bit.ly/shelfies2015 -- and last year's:  bit.ly/shelfiesphotosThis year we asked for another possibility -- a #bookface creation.\n\nThe results can be seen here:  bit.ly/bookfaces2015",
+    "text": "For the past two years I have solved the problem of summer reading lists by crowd-sourcing recommendations from our community via \"Summer Shelfies.\" We set up a photo booth area in the library (with help from the Art Dept. and Dave Caleb, one of our digital literacy coaches who is a serious photographer) -- for backlit flashes against a white backdrop -- the kind of lighting that makes all of us look like models.\n\nIndividuals or whole classes line up with a book in hand and get captured on film.  I then post the results to a Google+ Photo Album.\n\nClick here to see this year's results so far:  bit.ly/shelfies2015 -- and last year's:  bit.ly/shelfiesphotosThis year we asked for another possibility -- a #bookface creation.\n\nThe results can be seen here:  bit.ly/bookfaces2015",
+    "word_count": 132
+  },
+  "excerpt": "For the past two years I have solved the problem of summer reading lists by crowd-sourcing recommendations from our community via \"Summer Shelfies.\" We set up a photo booth area in the library (with help from the Art Dept.",
+  "id": "2015-6-13-on-crowd-sourcing-and-creativity-and-book-covers",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "Children's/YA literature",
+      "School libraries",
+      "#summer reading"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2015-06-13T00:00:00",
+  "slug": "on-crowd-sourcing-and-creativity-and-book-covers",
+  "title": "Crowd-sourcing, cameras, and summer reading",
+  "url": "https://www.thelibrarianedge.com/libedge/2015/6/13/on-crowd-sourcing-and-creativity-and-book-covers"
+}

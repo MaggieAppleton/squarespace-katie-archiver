@@ -1,0 +1,65 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:47:37.229644",
+    "scraped_at": "2025-08-04T10:47:07.108122",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 277,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 63,
+        "warnings": 0
+      },
+      "success_rate": 6300.0,
+      "summary": {
+        "automatic_fixes_applied": 277,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 63,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "https://dynamicland.org/research-notes/social-dynamics-of-programming-together/",
+          "title": "",
+          "url": "https://dynamicland.org/research-notes/social-dynamics-of-programming-together/"
+        },
+        {
+          "text": "http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor",
+          "title": "",
+          "url": "http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526992836738\" id=\"item-5b040e531ae6cf479211dc6c\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-5ccd55464bd6d1a5d03e\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Wonder what the chances are of me being able to visit Dynamicland in Oakland, California, next month? <a href=\"https://dynamicland.org/research-notes/social-dynamics-of-programming-together/\" target=\"_blank\">https://dynamicland.org/research-notes/social-dynamics-of-programming-together/</a></p><p>I'd love to see a non-profit computational medium, where the entire building is a computer.</p><p>Listen to Bret Victor on this \"Track Changes\" podcast episode... <a href=\"http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor\" target=\"_blank\">http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor</a></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Wonder what the chances are of me being able to visit Dynamicland in Oakland, California, next month? https://dynamicland.org/research-notes/social-dynamics-of-programming-together/I'd love to see a non-profit computational medium, where the entire building is a computer.Listen to Bret Victor on this \"Track Changes\" podcast episode... http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor",
+    "text": "Wonder what the chances are of me being able to visit Dynamicland in Oakland, California, next month? https://dynamicland.org/research-notes/social-dynamics-of-programming-together/I'd love to see a non-profit computational medium, where the entire building is a computer.Listen to Bret Victor on this \"Track Changes\" podcast episode... http://trackchanges.libsyn.com/computing-is-everywhere-a-conversation-with-bretvictor",
+    "word_count": 42
+  },
+  "excerpt": "Wonder what the chances are of me being able to visit Dynamicland in Oakland, California, next month? https://dynamicland.org/research-notes/social-dynamics-of-programming-together/I'd love to see a non-profit computational medium, where the entire building is a computer.",
+  "id": "2018-5-22-dynamicland-trying-to-be-a-public-library-type-space",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "dynamicland-trying-to-be-a-public-library-type-space",
+  "title": "\"Dynamicland\" - trying to be a public-library-type space",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/dynamicland-trying-to-be-a-public-library-type-space"
+}

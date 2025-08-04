@@ -1,0 +1,83 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:20:26.352625",
+    "scraped_at": "2025-08-04T11:19:56.199337",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 306,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 72,
+        "warnings": 0
+      },
+      "success_rate": 7200.0,
+      "summary": {
+        "automatic_fixes_applied": 306,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 72,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/",
+          "title": "",
+          "url": "https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1530197846980\" id=\"item-5b34f547352f5303fcf3391b\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-c84013c144a087a28e95\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>In the annual library systems report by Marshall Breeding in the ALA magazine - <a href=\"https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/\" target=\"_blank\">https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/</a> - there is mention of an interesting open source project called FOLIO, which will be an LSP (library services platform) as opposed to an ILS (integrated library system).</p>\n</div>\n</div></div><div class=\"sqs-block quote-block sqs-block-quote\" data-block-type=\"31\" id=\"block-yui_3_17_2_1_1530197300362_15705\"><div class=\"sqs-block-content\">\n<figure>\n<blockquote data-animation-override=\"\" data-animation-role=\"quote\">\n<span>“</span>EBSCO has helped launch the FOLIO project to develop an open source LSP, in addition to the content and technology products it offers directly. The company has made major investments to fund the project and has provided direct and indirect support for its design and development.<br/><br/>The FOLIO project offers a fresh idea in library resource management, with a modular approach to functionality implemented through microservices architecture. EBSCO has provided funding and direction to Index Data, an open source development firm, to create its core infrastructure. Index Data championed the project throughout the library community, familiar with its work as a major developer of open source technology components used within a variety of environments.<br/><br/>EBSCO envisions FOLIO as a technology framework that will disrupt the current market of LSPs that are tightly bundled with their own discovery services. These bundled offerings result in a competitive environment that disadvantages EBSCO Discovery Service, despite its efforts to integrate with all the major ILSes. FOLIO’s modular design will accommodate any discovery product and EBSCO will naturally ensure that its own products are integrated.<span>”</span>\n</blockquote>\n</figure>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1530197300362_17891\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>The most depressing thing in the report was its comment on Destiny.</p>\n</div>\n</div></div><div class=\"sqs-block quote-block sqs-block-quote\" data-block-type=\"31\" id=\"block-yui_3_17_2_1_1530197300362_19661\"><div class=\"sqs-block-content\">\n<figure>\n<blockquote data-animation-override=\"\" data-animation-role=\"quote\">\n<span>“</span>Library software represents a relatively small portion of Follett’s overall business activities. The broader organization also operates college bookstores, distributes educational materials, and provides training across multiple practical professions. Baker &amp; Taylor, now a wholly owned subsidiary of Follett, contributes around $1 billion to the company annually through global sales to libraries and retail outlets. The company is privately owned by the Follett family, with estimated revenues of more than $3 billion.<br/><br/>The Destiny library management system, though a relatively small portion of the company’s business activities, ranks as the dominant product in pre-K–12 libraries in the United States.<span>”</span>\n</blockquote>\n</figure>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1530197300362_20568\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>No wonder the product isn't being developed effectively or efficiently.  It's not that important to Follett.</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "In the annual library systems report by Marshall Breeding in the ALA magazine - https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/ - there is mention of an interesting open source project called FOLIO, which will be an LSP (library services platform) as opposed to an ILS (integrated library system).\n\n“EBSCO has helped launch the FOLIO project to develop an open source LSP, in addition to the content and technology products it offers directly. The company has made major investments to fund the project and has provided direct and indirect support for its design and development.The FOLIO project offers a fresh idea in library resource management, with a modular approach to functionality implemented through microservices architecture. EBSCO has provided funding and direction to Index Data, an open source development firm, to create its core infrastructure. Index Data championed the project throughout the library community, familiar with its work as a major developer of open source technology components used within a variety of environments.EBSCO envisions FOLIO as a technology framework that will disrupt the current market of LSPs that are tightly bundled with their own discovery services. These bundled offerings result in a competitive environment that disadvantages EBSCO Discovery Service, despite its efforts to integrate with all the major ILSes. FOLIO’s modular design will accommodate any discovery product and EBSCO will naturally ensure that its own products are integrated.”\n\nThe most depressing thing in the report was its comment on Destiny.\n\n“Library software represents a relatively small portion of Follett’s overall business activities. The broader organization also operates college bookstores, distributes educational materials, and provides training across multiple practical professions. Baker & Taylor, now a wholly owned subsidiary of Follett, contributes around $1 billion to the company annually through global sales to libraries and retail outlets. The company is privately owned by the Follett family, with estimated revenues of more than $3 billion.The Destiny library management system, though a relatively small portion of the company’s business activities, ranks as the dominant product in pre-K–12 libraries in the United States.”\n\nNo wonder the product isn't being developed effectively or efficiently.  It's not that important to Follett.",
+    "text": "In the annual library systems report by Marshall Breeding in the ALA magazine - https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/ - there is mention of an interesting open source project called FOLIO, which will be an LSP (library services platform) as opposed to an ILS (integrated library system).\n\n“EBSCO has helped launch the FOLIO project to develop an open source LSP, in addition to the content and technology products it offers directly. The company has made major investments to fund the project and has provided direct and indirect support for its design and development.The FOLIO project offers a fresh idea in library resource management, with a modular approach to functionality implemented through microservices architecture. EBSCO has provided funding and direction to Index Data, an open source development firm, to create its core infrastructure. Index Data championed the project throughout the library community, familiar with its work as a major developer of open source technology components used within a variety of environments.EBSCO envisions FOLIO as a technology framework that will disrupt the current market of LSPs that are tightly bundled with their own discovery services. These bundled offerings result in a competitive environment that disadvantages EBSCO Discovery Service, despite its efforts to integrate with all the major ILSes. FOLIO’s modular design will accommodate any discovery product and EBSCO will naturally ensure that its own products are integrated.”\n\nThe most depressing thing in the report was its comment on Destiny.\n\n“Library software represents a relatively small portion of Follett’s overall business activities. The broader organization also operates college bookstores, distributes educational materials, and provides training across multiple practical professions. Baker & Taylor, now a wholly owned subsidiary of Follett, contributes around $1 billion to the company annually through global sales to libraries and retail outlets. The company is privately owned by the Follett family, with estimated revenues of more than $3 billion.The Destiny library management system, though a relatively small portion of the company’s business activities, ranks as the dominant product in pre-K–12 libraries in the United States.”\n\nNo wonder the product isn't being developed effectively or efficiently.  It's not that important to Follett.",
+    "word_count": 347
+  },
+  "excerpt": "In the annual library systems report by Marshall Breeding in the ALA magazine - https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/ - there is mention of an interesting open source project called FOLIO, which will be an LSP (library services platform) as opposed to an IL...",
+  "id": "2018-6-28-folio-something-to-wait-for",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-06-28T00:00:00",
+  "slug": "folio-something-to-wait-for",
+  "title": "FOLIO - something to wait for....",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/6/28/folio-something-to-wait-for"
+}

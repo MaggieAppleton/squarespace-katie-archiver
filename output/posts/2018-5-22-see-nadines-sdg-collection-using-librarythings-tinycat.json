@@ -1,0 +1,83 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:11:38.603239",
+    "scraped_at": "2025-08-04T11:11:08.477282",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 296,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 69,
+        "warnings": 0
+      },
+      "success_rate": 6900.0,
+      "summary": {
+        "automatic_fixes_applied": 296,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 69,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screenshot 2018-05-22 20.11.39.png",
+        "caption": "",
+        "dimensions": {
+          "height": 748,
+          "width": 1090
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "https://www.librarycat.org/lib/deschatjes",
+          "title": "",
+          "url": "https://www.librarycat.org/lib/deschatjes"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526994891154\" id=\"item-5b041717f950b75de23a36fd\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302265096_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302265096_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-24a01997802779b13b9c\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Nadine is also trying the TinyCat interface - to start an SDG-related database of children's literature -- <a href=\"https://www.librarycat.org/lib/deschatjes\" target=\"_blank\">https://www.librarycat.org/lib/deschatjes</a></p><p>The beauty of her using simple tags like SDG1, SDG2, etc. means that we should all be able to find each other's SDG books.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1526991284530_123010\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302265096_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302265096_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302265096_68\" style=\"max-width:1090px;\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302265096_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302265096_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:68.62385559082031%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2018-05-22 20.11.39.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png\" data-image-dimensions=\"1090x748\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"748\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994824897-BRAWF8309VLRXQXHZRMZ/Screenshot+2018-05-22+20.11.39.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1090\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1526991284530_123289\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p> </p><p> </p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Nadine is also trying the TinyCat interface - to start an SDG-related database of children's literature -- https://www.librarycat.org/lib/deschatjesThe beauty of her using simple tags like SDG1, SDG2, etc. means that we should all be able to find each other's SDG books.",
+    "text": "Nadine is also trying the TinyCat interface - to start an SDG-related database of children's literature -- https://www.librarycat.org/lib/deschatjesThe beauty of her using simple tags like SDG1, SDG2, etc. means that we should all be able to find each other's SDG books.",
+    "word_count": 41
+  },
+  "excerpt": "Nadine is also trying the TinyCat interface - to start an SDG-related database of children's literature -- https://www.librarycat.org/lib/deschatjesThe beauty of her using simple tags like SDG1, SDG2, etc. means that we should all be able to find each other's SDG books.",
+  "id": "2018-5-22-see-nadines-sdg-collection-using-librarythings-tinycat",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "see-nadines-sdg-collection-using-librarythings-tinycat",
+  "title": "See Nadine's SDG Collection using LibraryThing's TinyCat",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/see-nadines-sdg-collection-using-librarythings-tinycat"
+}

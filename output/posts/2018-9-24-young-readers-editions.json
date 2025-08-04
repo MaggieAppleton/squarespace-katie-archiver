@@ -1,0 +1,72 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:23:32.736778",
+    "scraped_at": "2025-08-04T11:23:02.591152",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 324,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 77,
+        "warnings": 0
+      },
+      "success_rate": 7700.0,
+      "summary": {
+        "automatic_fixes_applied": 324,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 77,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screen Shot 2018-09-24 at 8.21.39 PM.png",
+        "caption": "",
+        "dimensions": {
+          "height": 890,
+          "width": 1214
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "LibraryThing collection",
+          "title": "",
+          "url": "https://www.librarything.com/catalog.php?offset=0&previousOffset=0&view=kday_working&collection=526490&shelf=list&sort=authorunflip&sort=authorunflip"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1537794253835\" id=\"item-5ba8de95e79c705ac3ac5bb8\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302979252_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302979252_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-6f135da80a732ddc01e2\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">Do you have a favorite <strong>“young readers’ edition”</strong> of an adult book you just love — and want to share with teenagers?  Aren’t you glad there’s a teen version of “The Omnivore’s Dilemma”?  “Quiet”?  “How to Read Literature Like a Professor”?  Malala’s story?<br/><br/>I’m still waiting for someone to pull that magic on “Guns, Germs, &amp; Steel” (though I am impressed Jared Diamond allowed for a young readers’ edition of “The Third Chimpanzee”).</p><p style=\"white-space: pre-wrap;\">We’re used to this when it comes to “classics” (read: texts out of copyright — and varying degrees of abridgement and adaptation) — because anything goes when oral storytellers of mythology &amp; fairy tales, Shakespeare, and Dickens are long dead.  </p><p style=\"white-space: pre-wrap;\">I’m more interested in the examples being produced for texts still under the control of copyright by some creator — who cares.  Non-fiction and auto/biography are the dominant genres, perhaps because they are “idea-based” — and so the re-working of the language isn’t as great a loss.</p>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537793488442_82293\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">Here is a<a href=\"https://www.librarything.com/catalog.php?offset=0&amp;previousOffset=0&amp;view=kday_working&amp;collection=526490&amp;shelf=list&amp;sort=authorunflip&amp;sort=authorunflip\" target=\"_blank\"> LibraryThing collection</a> of over 60 titles available in editions, originally published for an adult audience, but re-formatted in some fashion to appeal to younger readers (and giving you ISBNs).  A few examples are down to the picture book level, but most are at the middle/high school one.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537793488442_56872\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302979252_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302979252_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302979252_69\" style=\"max-width:1214px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.librarything.com/catalog.php?offset=0&amp;previousOffset=0&amp;view=kday_working&amp;collection=526490&amp;shelf=list&amp;sort=authorunflip&amp;sort=authorunflip\" id=\"yui_3_17_2_1_1754302979252_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302979252_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302979252_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:73.31136322021484%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screen Shot 2018-09-24 at 8.21.39 PM.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png\" data-image-dimensions=\"1214x890\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"890\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537795355108-EAJ4J8KUL6VT8V8WCJ93/Screen+Shot+2018-09-24+at+8.21.39+PM.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1214\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537793488442_57160\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\"><br/></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Do you have a favorite “young readers’ edition” of an adult book you just love — and want to share with teenagers?  Aren’t you glad there’s a teen version of “The Omnivore’s Dilemma”?  “Quiet”?  “How to Read Literature Like a Professor”?  Malala’s story?I’m still waiting for someone to pull that magic on “Guns, Germs, & Steel” (though I am impressed Jared Diamond allowed for a young readers’ edition of “The Third Chimpanzee”).We’re used to this when it comes to “classics” (read: texts out of copyright — and varying degrees of abridgement and adaptation) — because anything goes when oral storytellers of mythology & fairy tales, Shakespeare, and Dickens are long dead.  I’m more interested in the examples being produced for texts still under the control of copyright by some creator — who cares.  Non-fiction and auto/biography are the dominant genres, perhaps because they are “idea-based” — and so the re-working of the language isn’t as great a loss.\n\nHere is a LibraryThing collection of over 60 titles available in editions, originally published for an adult audience, but re-formatted in some fashion to appeal to younger readers (and giving you ISBNs).  A few examples are down to the picture book level, but most are at the middle/high school one.",
+    "text": "Do you have a favorite “young readers’ edition” of an adult book you just love — and want to share with teenagers?  Aren’t you glad there’s a teen version of “The Omnivore’s Dilemma”?  “Quiet”?  “How to Read Literature Like a Professor”?  Malala’s story?I’m still waiting for someone to pull that magic on “Guns, Germs, & Steel” (though I am impressed Jared Diamond allowed for a young readers’ edition of “The Third Chimpanzee”).We’re used to this when it comes to “classics” (read: texts out of copyright — and varying degrees of abridgement and adaptation) — because anything goes when oral storytellers of mythology & fairy tales, Shakespeare, and Dickens are long dead.  I’m more interested in the examples being produced for texts still under the control of copyright by some creator — who cares.  Non-fiction and auto/biography are the dominant genres, perhaps because they are “idea-based” — and so the re-working of the language isn’t as great a loss.\n\nHere is a LibraryThing collection of over 60 titles available in editions, originally published for an adult audience, but re-formatted in some fashion to appeal to younger readers (and giving you ISBNs).  A few examples are down to the picture book level, but most are at the middle/high school one.",
+    "word_count": 208
+  },
+  "excerpt": "Do you have a favorite “young readers’ edition” of an adult book you just love — and want to share with teenagers?  Aren’t you glad there’s a teen version of “The Omnivore’s Dilemma”?  “Quiet”?  “How to Read Literature Like a Professor”?  Malala’s story?I’m still waiting for someone to pull that ...",
+  "id": "2018-9-24-young-readers-editions",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-09-24T00:00:00",
+  "slug": "young-readers-editions",
+  "title": "Young Readers’ Editions, or, increasing access to ideas....",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/9/24/young-readers-editions"
+}

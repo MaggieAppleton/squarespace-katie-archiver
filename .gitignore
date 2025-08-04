@@ -26,11 +26,6 @@ venv/
 env/
 ENV/
 
-# Generated Output Files
-output/
-logs/
-*.log
-
 # State Files
 archive_state.json
 *.state

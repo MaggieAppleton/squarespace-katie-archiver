@@ -1,0 +1,168 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:03:38.300371",
+    "scraped_at": "2025-08-04T10:48:21.293746",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 283,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 65,
+        "warnings": 0
+      },
+      "success_rate": 6500.0,
+      "summary": {
+        "automatic_fixes_applied": 283,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 65,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "Screenshot 2018-05-22 20.09.04.png",
+        "caption": "",
+        "dimensions": {
+          "height": 239,
+          "width": 718
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "micro.blog",
+          "title": "",
+          "url": "https://micro.blog/"
+        },
+        {
+          "text": "https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life",
+          "title": "",
+          "url": "https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life"
+        },
+        {
+          "text": "Scripting News",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html"
+        },
+        {
+          "text": "#",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html#a134031"
+        },
+        {
+          "text": "AOL",
+          "title": "",
+          "url": "https://en.wikipedia.org/wiki/AOL"
+        },
+        {
+          "text": "essential",
+          "title": "",
+          "url": "http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html"
+        },
+        {
+          "text": "#",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html#a133600"
+        },
+        {
+          "text": "#",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html#a133519"
+        },
+        {
+          "text": "a company",
+          "title": "",
+          "url": "http://this.how/googleAndHttp/"
+        },
+        {
+          "text": "#",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html#a133654"
+        },
+        {
+          "text": "pivoting",
+          "title": "",
+          "url": "https://www.google.com/search?q=medium+pivot+williams&rlz=1C5CHFA_enUS743US747&oq=medium+pivot+williams&aqs=chrome..69i57j69i64.30700j0j4&sourceid=chrome&ie=UTF-8"
+        },
+        {
+          "text": "#",
+          "title": "",
+          "url": "http://scripting.com/2018/05/10/133513.html#a133918"
+        },
+        {
+          "text": "Alan Jacobs",
+          "title": "",
+          "url": "http://text-patterns.thenewatlantis.com/2018/05/social-media-their-way-or-my-way.html"
+        },
+        {
+          "text": "my own turf",
+          "title": "",
+          "url": "https://blog.ayjay.org/"
+        },
+        {
+          "text": "a micro.blog site",
+          "title": "",
+          "url": "https://ayjay.micro.blog/"
+        },
+        {
+          "text": "here",
+          "title": "",
+          "url": "http://help.micro.blog/2015/why-i-created-this/"
+        },
+        {
+          "text": "support for micro-podcasts",
+          "title": "",
+          "url": "https://www.manton.org/2018/04/wavelength-for-micro-blog.html"
+        },
+        {
+          "text": "",
+          "title": "",
+          "url": "https://micro.blog/librarianedge"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1526989677495\" id=\"item-5b0401e80e2e72164dbe8702\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300897943_73\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300897943_72\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-3822f958856e91b5f07c\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Discovered <a href=\"https://micro.blog/\" target=\"_blank\">micro.blog</a> (see <a href=\"https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life\" target=\"_blank\">https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life</a>) so my short professional Facebook/Twitter posts can be logged in one place.  Why? </p><p>(Forgive this obviously NOT MICRO post to explain.  However, everything is relative, and I am starting this microblog as a storage unit for single thoughts, in contrast to my normal blog mode of compendium style posts, which I tend to feel compelled to produce but take way more time/space)....<br/><br/><a href=\"http://scripting.com/2018/05/10/133513.html\" target=\"_blank\">Scripting News</a>:  on why the Internet is going the wrong way..... </p><ul><li><blockquote><strong>Evidence </strong><a href=\"http://scripting.com/2018/05/10/133513.html#a134031\">#</a></blockquote><ul><li><blockquote>Facebook is taking the place of blogs, but doesn't permit linking, styles. Posts can't have titles or include podcasts. As a result these essential features are falling into disuse. We're returning to <a href=\"https://en.wikipedia.org/wiki/AOL\">AOL</a>. Linking, especially is <a href=\"http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html\">essential</a>. <a href=\"http://scripting.com/2018/05/10/133513.html#a133600\">#</a></blockquote></li><li><blockquote>Click a link in a web browser, it should open a web page, not try to open an app which you may not have installed. This is what Apple does with podcasts and now news.<a href=\"http://scripting.com/2018/05/10/133513.html#a133519\">#</a></blockquote></li><li><blockquote>Google is forcing websites to change to support HTTPS. Sounds innocuous until you realize how many millions of historic domains won't make the switch. It's as if a library decided to burn all books written before 2000, say. The web has been used as an archival medium, it isn't up to <a href=\"http://this.how/googleAndHttp/\">a company</a> to decide to change that, after the fact. <a href=\"http://scripting.com/2018/05/10/133513.html#a133654\">#</a></blockquote></li><li><blockquote>Medium, a blogging site, is gradually closing itself off to the world. People used it for years as the place-of-record. I objected when I saw them do this, because it was easy to foresee Medium <a href=\"https://www.google.com/search?q=medium+pivot+williams&amp;rlz=1C5CHFA_enUS743US747&amp;oq=medium+pivot+williams&amp;aqs=chrome..69i57j69i64.30700j0j4&amp;sourceid=chrome&amp;ie=UTF-8\">pivoting</a>, and they will pivot again. The final pivot will be when they go off the air entirely, as commercial blogging systems often do. <a href=\"http://scripting.com/2018/05/10/133513.html#a133918\">#</a></blockquote></li></ul></li></ul><p>Setting up one's own turf for the small stuff.....<br/>Inspired by <a href=\"http://text-patterns.thenewatlantis.com/2018/05/social-media-their-way-or-my-way.html\" target=\"_blank\">Alan Jacobs</a>:</p><blockquote>So I am considering two alternatives. One is to post everything directly to <a href=\"https://blog.ayjay.org/\">my own turf</a>, which has advantages that I have outlined here on several occasions. However, my blog runs on WordPress, and WordPress is not really designed for the kind of quick, frictionless posting that Instagram and Twitter are both designed for – and while I am a committed believer in blogging as an engine of thinking, I also believe that there’s a real place for the quicker stuff, the daily-diary stuff. So I also have acquired <a href=\"https://ayjay.micro.blog/\">a micro.blog site</a>. Manton Reece has done a <em>fantastic</em> job with micro.blog, whose origins he describes <a href=\"http://help.micro.blog/2015/why-i-created-this/\">here</a> – it’s very much part of the open-web movement that I have also celebrated here.<br/><br/>So far I have enjoyed micro.blog very much: it has some features Twitter lacks (it supports Markdown, for instance) and anything I post there I can also seamlessly cross-post to Twitter or to my own site – most of my recent tweets have originated as micro.blog posts, though you can’t tell that on Twitter. I am also quite interested in the new <a href=\"https://www.manton.org/2018/04/wavelength-for-micro-blog.html\">support for micro-podcasts</a>.<br/><br/>So while I like the simplicity of keeping everything on my own turf, micro.blog offers other kinds of simplicity that are also very attractive. So I <em>think</em> that’s the way I’ll go. Micro.blog isn’t free – Manton won’t run ads, and hosting costs money. But my posts and photos belong to me, and I can export them to WordPress any time I want; and people are unlikely to pay for the privilege of trolling, especially when they can do that for free on Twitter. So I would encourage you thoughtful people to consider signing up for a micro.blog account.</blockquote>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1526991284530_98322\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300897943_71\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300897943_70\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300897943_69\" style=\"max-width:718px;\">\n<a class=\"sqs-block-image-link\" href=\"https://micro.blog/librarianedge\" id=\"yui_3_17_2_1_1754300897943_68\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-override=\"\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300897943_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300897943_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:33.28690719604492%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2018-05-22 20.09.04.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png\" data-image-dimensions=\"718x239\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"239\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1526994559676-GR1EGSJ1TFDYQRBB960T/Screenshot+2018-05-22+20.09.04.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"718\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Discovered micro.blog (see https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life) so my short professional Facebook/Twitter posts can be logged in one place.  Why? (Forgive this obviously NOT MICRO post to explain.  However, everything is relative, and I am starting this microblog as a storage unit for single thoughts, in contrast to my normal blog mode of compendium style posts, which I tend to feel compelled to produce but take way more time/space)....Scripting News:  on why the Internet is going the wrong way..... Evidence #Facebook is taking the place of blogs, but doesn't permit linking, styles. Posts can't have titles or include podcasts. As a result these essential features are falling into disuse. We're returning to AOL. Linking, especially is essential. #Click a link in a web browser, it should open a web page, not try to open an app which you may not have installed. This is what Apple does with podcasts and now news.#Google is forcing websites to change to support HTTPS. Sounds innocuous until you realize how many millions of historic domains won't make the switch. It's as if a library decided to burn all books written before 2000, say. The web has been used as an archival medium, it isn't up to a company to decide to change that, after the fact. #Medium, a blogging site, is gradually closing itself off to the world. People used it for years as the place-of-record. I objected when I saw them do this, because it was easy to foresee Medium pivoting, and they will pivot again. The final pivot will be when they go off the air entirely, as commercial blogging systems often do. #Setting up one's own turf for the small stuff.....Inspired by Alan Jacobs:So I am considering two alternatives. One is to post everything directly to my own turf, which has advantages that I have outlined here on several occasions. However, my blog runs on WordPress, and WordPress is not really designed for the kind of quick, frictionless posting that Instagram and Twitter are both designed for – and while I am a committed believer in blogging as an engine of thinking, I also believe that there’s a real place for the quicker stuff, the daily-diary stuff. So I also have acquired a micro.blog site. Manton Reece has done a fantastic job with micro.blog, whose origins he describes here – it’s very much part of the open-web movement that I have also celebrated here.So far I have enjoyed micro.blog very much: it has some features Twitter lacks (it supports Markdown, for instance) and anything I post there I can also seamlessly cross-post to Twitter or to my own site – most of my recent tweets have originated as micro.blog posts, though you can’t tell that on Twitter. I am also quite interested in the new support for micro-podcasts.So while I like the simplicity of keeping everything on my own turf, micro.blog offers other kinds of simplicity that are also very attractive. So I think that’s the way I’ll go. Micro.blog isn’t free – Manton won’t run ads, and hosting costs money. But my posts and photos belong to me, and I can export them to WordPress any time I want; and people are unlikely to pay for the privilege of trolling, especially when they can do that for free on Twitter. So I would encourage you thoughtful people to consider signing up for a micro.blog account.",
+    "text": "Discovered micro.blog (see https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life) so my short professional Facebook/Twitter posts can be logged in one place.  Why? (Forgive this obviously NOT MICRO post to explain.  However, everything is relative, and I am starting this microblog as a storage unit for single thoughts, in contrast to my normal blog mode of compendium style posts, which I tend to feel compelled to produce but take way more time/space)....Scripting News:  on why the Internet is going the wrong way..... Evidence #Facebook is taking the place of blogs, but doesn't permit linking, styles. Posts can't have titles or include podcasts. As a result these essential features are falling into disuse. We're returning to AOL. Linking, especially is essential. #Click a link in a web browser, it should open a web page, not try to open an app which you may not have installed. This is what Apple does with podcasts and now news.#Google is forcing websites to change to support HTTPS. Sounds innocuous until you realize how many millions of historic domains won't make the switch. It's as if a library decided to burn all books written before 2000, say. The web has been used as an archival medium, it isn't up to a company to decide to change that, after the fact. #Medium, a blogging site, is gradually closing itself off to the world. People used it for years as the place-of-record. I objected when I saw them do this, because it was easy to foresee Medium pivoting, and they will pivot again. The final pivot will be when they go off the air entirely, as commercial blogging systems often do. #Setting up one's own turf for the small stuff.....Inspired by Alan Jacobs:So I am considering two alternatives. One is to post everything directly to my own turf, which has advantages that I have outlined here on several occasions. However, my blog runs on WordPress, and WordPress is not really designed for the kind of quick, frictionless posting that Instagram and Twitter are both designed for – and while I am a committed believer in blogging as an engine of thinking, I also believe that there’s a real place for the quicker stuff, the daily-diary stuff. So I also have acquired a micro.blog site. Manton Reece has done a fantastic job with micro.blog, whose origins he describes here – it’s very much part of the open-web movement that I have also celebrated here.So far I have enjoyed micro.blog very much: it has some features Twitter lacks (it supports Markdown, for instance) and anything I post there I can also seamlessly cross-post to Twitter or to my own site – most of my recent tweets have originated as micro.blog posts, though you can’t tell that on Twitter. I am also quite interested in the new support for micro-podcasts.So while I like the simplicity of keeping everything on my own turf, micro.blog offers other kinds of simplicity that are also very attractive. So I think that’s the way I’ll go. Micro.blog isn’t free – Manton won’t run ads, and hosting costs money. But my posts and photos belong to me, and I can export them to WordPress any time I want; and people are unlikely to pay for the privilege of trolling, especially when they can do that for free on Twitter. So I would encourage you thoughtful people to consider signing up for a micro.blog account.",
+    "word_count": 562
+  },
+  "excerpt": "Discovered micro.blog (see https://www.appleworld.today/blog/2018/4/26/microblog-providing-control-of-your-online-life) so my short professional Facebook/Twitter posts can be logged in one place.  Why? (Forgive this obviously NOT MICRO post to explain.",
+  "id": "2018-5-22-going-independently-micro",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-05-22T00:00:00",
+  "slug": "going-independently-micro",
+  "title": "Going independently micro....",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/5/22/going-independently-micro"
+}

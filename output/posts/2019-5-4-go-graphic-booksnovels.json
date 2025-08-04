@@ -1,0 +1,314 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:28:32.895410",
+    "scraped_at": "2025-08-04T11:28:02.257681",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 355,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 85,
+        "warnings": 0
+      },
+      "success_rate": 8500.0,
+      "summary": {
+        "automatic_fixes_applied": 355,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 85,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "IMG_4952.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 3264,
+          "width": 2448
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "yayoi.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056161-3NFRJIIWWJJXYQAIEKV3/yayoi.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "redrosa.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056968-9N0P6R156Q74L0EQDKGO/redrosa.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "choice.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952060295-XGZPML6S5JEF2YGF4W5I/choice.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "history of feminism.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952064502-DGUJKMP3SUY5QCYZSZ2S/history+of+feminism.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "abina.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952066638-YGT6PEUS49FQ9LRDXBLY/abina.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "brazen.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952069160-QODKPOG8MZ9XHFVYXWML/brazen.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "radioactive.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952146028-DQBWR0NJWNQFU6NMLGU8/radioactive.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "strongf.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952352442-5P3FOARJ4SITI8QJ0N0E/strongf.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "ichi.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606005-1XRUQT0MYAGTTRZEVMWD/ichi.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "trinity.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606231-2KXYUQ1EVBJ90ETA3W76/trinity.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "showa.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606857-34AFL9N6M7ON740MMDYT/showa.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "barefoot.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607334-SU39ZPY3E36NC6VBB1K3/barefoot.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "saints.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607575-XHVTRH8SHKXHNL786517/saints.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "boxers.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607853-0BS994BFUL0G7AVSLDRT/boxers.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "chinesehistory.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952608099-M4ZJ1HRQ6QC5ZRG14QSK/chinesehistory.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "kabul.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952769445-MGZPSEBXBF2UFLCITKL8/kabul.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "charlie.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953235261-1WHI2YZG75S1S9JER5JF/charlie.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "sita.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953686294-8CR0WQ60EDLVSE1JPSW8/sita.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "photogr.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953870890-JE0SUDW5UCWJF8J6K31H/photogr.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "kampung.gif",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953878060-TYGQNQT128RRQBVY01YA/kampung.gif?format=300w",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_7184.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1875,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2019-05-04 12.38.07.png",
+        "caption": "",
+        "dimensions": {
+          "height": 537,
+          "width": 564
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "The books are divided into Fiction, Nonfiction, and Biography/Memoir",
+          "title": "",
+          "url": "https://nist.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&l2m=Home&tm=Home"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1556941902703\" id=\"item-5ccd0382f4e1fc4e9c5f9de4\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754303278814_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754303278814_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-2777073ffbddd567463f\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">The graphic books section of our library is in a major thoroughfare — but I suspect it would still be popular even if I moved it to a back wall.  </p><p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"https://nist.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&amp;l2m=Home&amp;tm=Home\">The books are divided into Fiction, Nonfiction, and Biography/Memoir</a>, with additional labelling to indicate interest level:  (SEC) = All secondary [MS/HS] students; (YA) = Young adult; and (AD) = Adult or advanced.</p><p class=\"\" style=\"white-space:pre-wrap;\">I am particularly pleased to have so many nonfiction graphic books on history, feminism, and refugees — in addition to the typical crowd-pleasers (Tintin, Asterix, Bone, etc.).</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_91545\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303278814_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303278814_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303278814_68\" style=\"max-width:2448px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303278814_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303278814_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:133.33334350585938%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_4952.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG\" data-image-dimensions=\"2448x3264\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"3264\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948850450-LHN3W7T4006FWO30WFM3/IMG_4952.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2448\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"newWindow\":false,\"floatDir\":null,\"methodOption\":\"transient\",\"aspect-ratio\":\"square\",\"aspectRatio\":null,\"auto-crop\":true,\"autoplay\":false,\"blockAnimation\":\"none\",\"collectionId\":\"5ccd33f4fa0d6020ec623138\",\"controls\":false,\"design\":\"grid\",\"lightbox\":false,\"meta-position\":\"bottom\",\"padding\":20,\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"show-meta-on-hover\":false,\"square-thumbs\":true,\"thumbnails\":false,\"thumbnails-per-row\":4,\"vSize\":null,\"transientGalleryId\":\"5ccd33f4fa0d6020ec623138\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_1_1556951467403_7461\"><div class=\"sqs-block-content\">\n<div class=\"sqs-gallery-container sqs-gallery-block-grid sqs-gallery-aspect-ratio-square sqs-gallery-thumbnails-per-row-4 sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754303278814_100\">\n<div class=\"sqs-gallery sqs-gallery-design-grid\" id=\"yui_3_17_2_1_1754303278814_117\">\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_169\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"yayoi.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056161-3NFRJIIWWJJXYQAIEKV3/yayoi.gif\"/></noscript><img alt=\"yayoi.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056161-3NFRJIIWWJJXYQAIEKV3/yayoi.gif\" data-image-dimensions=\"200x259\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd33f5e5e5f08d2c8163bd\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056161-3NFRJIIWWJJXYQAIEKV3/yayoi.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056161-3NFRJIIWWJJXYQAIEKV3/yayoi.gif?format=300w\" style=\"left: 0px; top: -23.6px; width: 160px; height: 207.2px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_170\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"redrosa.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056968-9N0P6R156Q74L0EQDKGO/redrosa.gif\"/></noscript><img alt=\"redrosa.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056968-9N0P6R156Q74L0EQDKGO/redrosa.gif\" data-image-dimensions=\"200x286\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd33f5e4966b5894adc1b6\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056968-9N0P6R156Q74L0EQDKGO/redrosa.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952056968-9N0P6R156Q74L0EQDKGO/redrosa.gif?format=300w\" style=\"left: 0px; top: -34.4px; width: 160px; height: 228.8px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_171\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"choice.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952060295-XGZPML6S5JEF2YGF4W5I/choice.gif\"/></noscript><img alt=\"choice.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952060295-XGZPML6S5JEF2YGF4W5I/choice.gif\" data-image-dimensions=\"200x304\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd33f88165f5845ba8ef31\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952060295-XGZPML6S5JEF2YGF4W5I/choice.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952060295-XGZPML6S5JEF2YGF4W5I/choice.gif?format=300w\" style=\"left: 0px; top: -41.6px; width: 160px; height: 243.2px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_172\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"history of feminism.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952064502-DGUJKMP3SUY5QCYZSZ2S/history+of+feminism.gif\"/></noscript><img alt=\"history of feminism.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952064502-DGUJKMP3SUY5QCYZSZ2S/history+of+feminism.gif\" data-image-dimensions=\"200x300\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd33fc9e9eea00010f7ebc\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952064502-DGUJKMP3SUY5QCYZSZ2S/history+of+feminism.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952064502-DGUJKMP3SUY5QCYZSZ2S/history+of+feminism.gif?format=300w\" style=\"left: 0px; top: -40px; width: 160px; height: 240px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_173\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"abina.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952066638-YGT6PEUS49FQ9LRDXBLY/abina.gif\"/></noscript><img alt=\"abina.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952066638-YGT6PEUS49FQ9LRDXBLY/abina.gif\" data-image-dimensions=\"200x286\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd340051e58c0001e60b30\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952066638-YGT6PEUS49FQ9LRDXBLY/abina.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952066638-YGT6PEUS49FQ9LRDXBLY/abina.gif?format=300w\" style=\"left: 0px; top: -34.4px; width: 160px; height: 228.8px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_174\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"brazen.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952069160-QODKPOG8MZ9XHFVYXWML/brazen.gif\"/></noscript><img alt=\"brazen.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952069160-QODKPOG8MZ9XHFVYXWML/brazen.gif\" data-image-dimensions=\"200x285\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd340299e55f00013ed813\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952069160-QODKPOG8MZ9XHFVYXWML/brazen.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952069160-QODKPOG8MZ9XHFVYXWML/brazen.gif?format=300w\" style=\"left: 0px; top: -34px; width: 160px; height: 228px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_175\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"radioactive.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952146028-DQBWR0NJWNQFU6NMLGU8/radioactive.gif\"/></noscript><img alt=\"radioactive.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952146028-DQBWR0NJWNQFU6NMLGU8/radioactive.gif\" data-image-dimensions=\"200x281\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd3451971a1863597823e3\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952146028-DQBWR0NJWNQFU6NMLGU8/radioactive.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952146028-DQBWR0NJWNQFU6NMLGU8/radioactive.gif?format=300w\" style=\"left: 0px; top: -32.4px; width: 160px; height: 224.8px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_176\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"strongf.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952352442-5P3FOARJ4SITI8QJ0N0E/strongf.gif\"/></noscript><img alt=\"strongf.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952352442-5P3FOARJ4SITI8QJ0N0E/strongf.gif\" data-image-dimensions=\"200x299\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd351fee6eb0583457947a\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952352442-5P3FOARJ4SITI8QJ0N0E/strongf.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952352442-5P3FOARJ4SITI8QJ0N0E/strongf.gif?format=300w\" style=\"left: 0px; top: -39.6px; width: 160px; height: 239.2px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_177\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"ichi.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606005-1XRUQT0MYAGTTRZEVMWD/ichi.gif\"/></noscript><img alt=\"ichi.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606005-1XRUQT0MYAGTTRZEVMWD/ichi.gif\" data-image-dimensions=\"200x281\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361da4222f281f71686c\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606005-1XRUQT0MYAGTTRZEVMWD/ichi.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606005-1XRUQT0MYAGTTRZEVMWD/ichi.gif?format=300w\" style=\"left: 0px; top: -32.4px; width: 160px; height: 224.8px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_178\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"trinity.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606231-2KXYUQ1EVBJ90ETA3W76/trinity.gif\"/></noscript><img alt=\"trinity.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606231-2KXYUQ1EVBJ90ETA3W76/trinity.gif\" data-image-dimensions=\"200x300\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361d419202f5ac06990c\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606231-2KXYUQ1EVBJ90ETA3W76/trinity.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606231-2KXYUQ1EVBJ90ETA3W76/trinity.gif?format=300w\" style=\"left: 0px; top: -40px; width: 160px; height: 240px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_179\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"showa.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606857-34AFL9N6M7ON740MMDYT/showa.gif\"/></noscript><img alt=\"showa.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606857-34AFL9N6M7ON740MMDYT/showa.gif\" data-image-dimensions=\"200x275\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361e7817f75cd37e7403\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606857-34AFL9N6M7ON740MMDYT/showa.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952606857-34AFL9N6M7ON740MMDYT/showa.gif?format=300w\" style=\"left: 0px; top: -30px; width: 160px; height: 220px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_180\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"barefoot.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607334-SU39ZPY3E36NC6VBB1K3/barefoot.gif\"/></noscript><img alt=\"barefoot.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607334-SU39ZPY3E36NC6VBB1K3/barefoot.gif\" data-image-dimensions=\"200x285\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361e7395d800011dcca7\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607334-SU39ZPY3E36NC6VBB1K3/barefoot.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607334-SU39ZPY3E36NC6VBB1K3/barefoot.gif?format=300w\" style=\"left: 0px; top: -34px; width: 160px; height: 228px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_181\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"saints.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607575-XHVTRH8SHKXHNL786517/saints.gif\"/></noscript><img alt=\"saints.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607575-XHVTRH8SHKXHNL786517/saints.gif\" data-image-dimensions=\"200x283\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361f90e5120001e392cb\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607575-XHVTRH8SHKXHNL786517/saints.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607575-XHVTRH8SHKXHNL786517/saints.gif?format=300w\" style=\"left: 0px; top: -33.2px; width: 160px; height: 226.4px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_182\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"boxers.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607853-0BS994BFUL0G7AVSLDRT/boxers.gif\"/></noscript><img alt=\"boxers.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607853-0BS994BFUL0G7AVSLDRT/boxers.gif\" data-image-dimensions=\"200x283\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361fee6eb05834579807\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607853-0BS994BFUL0G7AVSLDRT/boxers.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952607853-0BS994BFUL0G7AVSLDRT/boxers.gif?format=300w\" style=\"left: 0px; top: -33.2px; width: 160px; height: 226.4px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_183\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"chinesehistory.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952608099-M4ZJ1HRQ6QC5ZRG14QSK/chinesehistory.gif\"/></noscript><img alt=\"chinesehistory.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952608099-M4ZJ1HRQ6QC5ZRG14QSK/chinesehistory.gif\" data-image-dimensions=\"200x247\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd361f24a6946263e0af90\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952608099-M4ZJ1HRQ6QC5ZRG14QSK/chinesehistory.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952608099-M4ZJ1HRQ6QC5ZRG14QSK/chinesehistory.gif?format=300w\" style=\"left: 0px; top: -18.8px; width: 160px; height: 197.6px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_184\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"kabul.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952769445-MGZPSEBXBF2UFLCITKL8/kabul.gif\"/></noscript><img alt=\"kabul.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952769445-MGZPSEBXBF2UFLCITKL8/kabul.gif\" data-image-dimensions=\"200x269\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd36c1652deaddf2da0782\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952769445-MGZPSEBXBF2UFLCITKL8/kabul.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556952769445-MGZPSEBXBF2UFLCITKL8/kabul.gif?format=300w\" style=\"left: 0px; top: -27.6px; width: 160px; height: 215.2px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_185\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"charlie.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953235261-1WHI2YZG75S1S9JER5JF/charlie.gif\"/></noscript><img alt=\"charlie.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953235261-1WHI2YZG75S1S9JER5JF/charlie.gif\" data-image-dimensions=\"200x300\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd3891e2c4833aaebbe88a\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953235261-1WHI2YZG75S1S9JER5JF/charlie.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953235261-1WHI2YZG75S1S9JER5JF/charlie.gif?format=300w\" style=\"left: 0px; top: -40px; width: 160px; height: 240px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_186\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"sita.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953686294-8CR0WQ60EDLVSE1JPSW8/sita.gif\"/></noscript><img alt=\"sita.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953686294-8CR0WQ60EDLVSE1JPSW8/sita.gif\" data-image-dimensions=\"200x283\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd3a55e5e5f08d2c8179fe\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953686294-8CR0WQ60EDLVSE1JPSW8/sita.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953686294-8CR0WQ60EDLVSE1JPSW8/sita.gif?format=300w\" style=\"left: 0px; top: -33.2px; width: 160px; height: 226.4px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_187\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"photogr.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953870890-JE0SUDW5UCWJF8J6K31H/photogr.gif\"/></noscript><img alt=\"photogr.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953870890-JE0SUDW5UCWJF8J6K31H/photogr.gif\" data-image-dimensions=\"200x263\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd3b0d53450a747bb949ba\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953870890-JE0SUDW5UCWJF8J6K31H/photogr.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953870890-JE0SUDW5UCWJF8J6K31H/photogr.gif?format=300w\" style=\"left: 0px; top: -25.2px; width: 160px; height: 210.4px; position: relative;\"/>\n</a>\n</div>\n</div>\n<div class=\"slide sqs-gallery-design-grid-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"yui_3_17_2_1_1754303278814_188\">\n<div class=\"margin-wrapper\">\n<a class=\"image-slide-anchor content-fill\" role=\"presentation\" style=\"overflow: hidden;\">\n<noscript><img alt=\"kampung.gif\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953878060-TYGQNQT128RRQBVY01YA/kampung.gif\"/></noscript><img alt=\"kampung.gif\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953878060-TYGQNQT128RRQBVY01YA/kampung.gif\" data-image-dimensions=\"200x149\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"5ccd3b154e17b63e43619470\" data-image-resolution=\"300w\" data-load=\"false\" data-parent-ratio=\"1.0\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953878060-TYGQNQT128RRQBVY01YA/kampung.gif\" data-type=\"image\" elementtiming=\"system-gallery-block-grid\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556953878060-TYGQNQT128RRQBVY01YA/kampung.gif?format=300w\" style=\"left: -27.3826px; top: 0px; width: 214.765px; height: 160px; position: relative;\"/>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_71914\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303278814_84\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303278814_83\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303278814_82\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303278814_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303278814_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:75%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_7184.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1875\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556962937705-EG8LNHEP0UAJAC6NIAT5/IMG_7184.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1556939417644_55595\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754303278814_94\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754303278814_93\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754303278814_92\" style=\"max-width:564px;\">\n<a class=\"sqs-block-image-link\" href=\"https://nist.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&amp;l2m=Home&amp;tm=Home\" id=\"yui_3_17_2_1_1754303278814_91\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754303278814_90\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754303278814_89\" style=\"\n                position: relative;\n                \n                  padding-bottom:95.21276092529297%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2019-05-04 12.38.07.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png\" data-image-dimensions=\"564x537\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"537\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1556948345926-LP8C6Y01BMRE49303USJ/Screenshot+2019-05-04+12.38.07.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"564\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1556939417644_55882\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\"><br/></p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "The graphic books section of our library is in a major thoroughfare — but I suspect it would still be popular even if I moved it to a back wall.  The books are divided into Fiction, Nonfiction, and Biography/Memoir, with additional labelling to indicate interest level:  (SEC) = All secondary [MS/HS] students; (YA) = Young adult; and (AD) = Adult or advanced.I am particularly pleased to have so many nonfiction graphic books on history, feminism, and refugees — in addition to the typical crowd-pleasers (Tintin, Asterix, Bone, etc.).",
+    "text": "The graphic books section of our library is in a major thoroughfare — but I suspect it would still be popular even if I moved it to a back wall.  The books are divided into Fiction, Nonfiction, and Biography/Memoir, with additional labelling to indicate interest level:  (SEC) = All secondary [MS/HS] students; (YA) = Young adult; and (AD) = Adult or advanced.I am particularly pleased to have so many nonfiction graphic books on history, feminism, and refugees — in addition to the typical crowd-pleasers (Tintin, Asterix, Bone, etc.).",
+    "word_count": 88
+  },
+  "excerpt": "The graphic books section of our library is in a major thoroughfare — but I suspect it would still be popular even if I moved it to a back wall.  The books are divided into Fiction, Nonfiction, and Biography/Memoir, with additional labelling to indicate interest level:  (SEC) = All secondary [MS/...",
+  "id": "2019-5-4-go-graphic-booksnovels",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2019-05-04T00:00:00",
+  "slug": "go-graphic-booksnovels",
+  "title": "Gorging on graphic books...",
+  "url": "https://www.thelibrarianedge.com/microblog/2019/5/4/go-graphic-booksnovels"
+}

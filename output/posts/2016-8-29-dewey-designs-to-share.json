@@ -1,0 +1,526 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T10:42:35.989652",
+    "scraped_at": "2025-08-04T10:42:05.291059",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 248,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 55,
+        "warnings": 0
+      },
+      "success_rate": 5500.0,
+      "summary": {
+        "automatic_fixes_applied": 248,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 55,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "maggie uwcsea east dewey.png",
+        "caption": "",
+        "dimensions": {
+          "height": 746,
+          "width": 1155
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 540,
+          "width": 960
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": 1667,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png",
+        "title": ""
+      },
+      {
+        "alt_text": "Screenshot 2016-08-30 21.52.35.png",
+        "caption": "",
+        "dimensions": {
+          "height": 460,
+          "width": 678
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png",
+        "title": ""
+      },
+      {
+        "alt_text": "DEWEY_POSTER_CMYK_PRINT_READY - SMALLER.png",
+        "caption": "",
+        "dimensions": {
+          "height": 1248,
+          "width": 886
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png",
+        "title": ""
+      },
+      {
+        "alt_text": "2013-04-13-105947_8811008668_o.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510197-UK1VBQAUI2WKTRT7A0E5/2013-04-13-105947_8811008668_o.jpg?format=2500w",
+        "title": ""
+      },
+      {
+        "alt_text": "2013-04-13-105941_8811010472_o.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510671-EJ72RUVMYQ8RX8W4S07D/2013-04-13-105941_8811010472_o.jpg?format=2500w",
+        "title": ""
+      },
+      {
+        "alt_text": "2013-04-13-105934_8811012086_o.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569520308-3U69H9PLCE1O7QRR34P8/2013-04-13-105934_8811012086_o.jpg?format=2500w",
+        "title": ""
+      },
+      {
+        "alt_text": "2013-04-13-105807_8811019106_o.jpg",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": null
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569519800-K5QCDX4BN86W06EITG92/2013-04-13-105807_8811019106_o.jpg?format=2500w",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "Maggie Appleton",
+          "title": "",
+          "url": "http://www.maggieappleton.com/"
+        },
+        {
+          "text": "this retro design one I liked on Flickr by Susanna Ryan",
+          "title": "",
+          "url": "https://www.flickr.com/photos/susannatron/4474968603/in/photostream/"
+        },
+        {
+          "text": "the famous colored layout of rooms at Powells Books",
+          "title": "",
+          "url": "http://www.powells.com/portals/0/images/burnside-map-2015.jpg"
+        },
+        {
+          "text": "click here to access a DROPBOX folder of all her files.",
+          "title": "",
+          "url": "https://www.dropbox.com/sh/1sjr6yvzhze40o7/AAAoVIZE_E_SuzYAc5NnqTIma?dl=0"
+        },
+        {
+          "text": "click here to access a GOOGLE folder of her files",
+          "title": "",
+          "url": "https://drive.google.com/drive/folders/0B1n4TTpYaxRPNUpkNllzbTN2Y2s?resourcekey=0-SY38isWD88z0moCsyM57GQ&usp=sharing"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1472426663956\" id=\"item-57c37162e4fcb561cb87d957\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754300521836_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754300521836_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-726e04869f55a9632519\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">Six years ago I asked my daughter, <a href=\"http://www.maggieappleton.com/\" target=\"_blank\">Maggie Appleton</a>, to help me create some Dewey Decimal System signs for the libraries on our new school campus, the permanent home of United World College of SE Asia (UWCSEA) - East campus, in Tampines, Singapore.  At the time she was an IB Art student at the original UWCSEA campus -- now known as UWCSEA Dover.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1472287299941_28616\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300521836_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300521836_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300521836_68\" style=\"max-width:1155px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300521836_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300521836_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:64.5887451171875%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"maggie uwcsea east dewey.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png\" data-image-dimensions=\"1155x746\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"746\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560060375-TG850OIVV2XHRUATV4IV/maggie+uwcsea+east+dewey.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1155\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1472565211293_32845\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300521836_84\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300521836_83\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300521836_82\" style=\"max-width:960px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300521836_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300521836_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:56.25%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png\" data-image-dimensions=\"960x540\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"540\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472566882936-9WKUTNF7TURWDPT09PY7/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"960\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1472287299941_32248\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">She didn't come up with them completely on her own.  I'd been searching the web for different Dewey designs and had found <a href=\"https://www.flickr.com/photos/susannatron/4474968603/in/photostream/\" target=\"_blank\">this retro design one I liked on Flickr by Susanna Ryan</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1472287299941_33846\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300521836_93\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300521836_92\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300521836_91\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300521836_90\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300521836_89\" style=\"\n                position: relative;\n                \n                  padding-bottom:66.68000030517578%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1667\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472560405672-W8F3EC42OIAEYLN0AKJO/image-asset.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1472565211293_16684\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300521836_102\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none sqs-narrow-width\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300521836_101\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300521836_100\" style=\"max-width:678px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300521836_99\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300521836_98\" style=\"\n                position: relative;\n                \n                  padding-bottom:67.84661102294922%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Screenshot 2016-08-30 21.52.35.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png\" data-image-dimensions=\"678x460\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"460\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472565384988-390VX3XRLGN1C7MVFU7U/Screenshot+2016-08-30+21.52.35.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"678\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1472287299941_37135\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">But it was fairly monochrome and I envisaged associating different colors with different sections, much like <a href=\"http://www.powells.com/portals/0/images/burnside-map-2015.jpg\" target=\"_blank\">the famous colored layout of rooms at Powells Books</a> in Portland, Oregon (see colored section sign to the right). </p><p class=\"\" style=\"white-space:pre-wrap;\">So Maggie got permission from Susanna to modify her icons and to change the colors.</p><p class=\"\" style=\"white-space:pre-wrap;\">Over the years people have asked Maggie for permission to use her designs -- and, so finally, in a creative commons way (in line with how Susanna allowed to build upon her original design) -- <a href=\"https://www.dropbox.com/sh/1sjr6yvzhze40o7/AAAoVIZE_E_SuzYAc5NnqTIma?dl=0\" target=\"_blank\">click here to access a DROPBOX folder of all her files.</a></p><p class=\"\" style=\"white-space:pre-wrap;\">--------------------------------------------------------------</p><p class=\"\" style=\"white-space:pre-wrap;\">My good friend and colleague Barb Philip Reid also has a talented graphic designer (step) daughter -- Natasha Potzsch.   And she asked her for a similar favor (to be a signage servant!). Natasha's Dewey designs are also freely available to all teacher-librarians -- <a href=\"https://drive.google.com/drive/folders/0B1n4TTpYaxRPNUpkNllzbTN2Y2s?resourcekey=0-SY38isWD88z0moCsyM57GQ&amp;usp=sharing\" target=\"_blank\">click here to access a GOOGLE folder of her files</a>.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_9_1472565211293_17535\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754300521836_111\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754300521836_110\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754300521836_109\" style=\"max-width:886px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754300521836_108\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754300521836_107\" style=\"\n                position: relative;\n                \n                  padding-bottom:140.8577880859375%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"DEWEY_POSTER_CMYK_PRINT_READY - SMALLER.png\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png\" data-image-dimensions=\"886x1248\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1248\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569296237-ENB9LWC521F9DSDAI443/DEWEY_POSTER_CMYK_PRINT_READY+-+SMALLER.png?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"886\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block gallery-block sqs-block-gallery\" data-block-json='{\"existingGallery\":null,\"hSize\":null,\"floatDir\":null,\"methodOption\":\"transient\",\"aspectRatio\":null,\"auto-crop\":true,\"blockAnimation\":\"none\",\"collectionId\":\"57c5a098579fb34a01a9eeee\",\"design\":\"stacked\",\"show-meta\":true,\"show-meta-basic\":true,\"show-meta-only-title\":false,\"show-meta-only-description\":false,\"square-thumbs\":true,\"vSize\":null,\"transientGalleryId\":\"57c5a098579fb34a01a9eeee\"}' data-block-type=\"8\" id=\"block-yui_3_17_2_4_1472569414590_9523\"><div class=\"sqs-block-content\">\n<div class=\"sqs-gallery-container sqs-gallery-block-stacked sqs-gallery-block-show-meta block-animation-none clear\" id=\"yui_3_17_2_1_1754300521836_117\">\n<div class=\"sqs-gallery\" id=\"yui_3_17_2_1_1754300521836_134\">\n<div class=\"image-wrapper sqs-active-slide\" data-animation-role=\"image\" data-type=\"image\" id=\"57c5a099440243c9312b0712\">\n<noscript><img alt=\"2013-04-13-105947_8811008668_o.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510197-UK1VBQAUI2WKTRT7A0E5/2013-04-13-105947_8811008668_o.jpg\"/></noscript><img alt=\"2013-04-13-105947_8811008668_o.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510197-UK1VBQAUI2WKTRT7A0E5/2013-04-13-105947_8811008668_o.jpg\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"57c5a099440243c9312b0712\" data-image-resolution=\"2500w\" data-load=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510197-UK1VBQAUI2WKTRT7A0E5/2013-04-13-105947_8811008668_o.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-stacked\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510197-UK1VBQAUI2WKTRT7A0E5/2013-04-13-105947_8811008668_o.jpg?format=2500w\" style=\"\"/>\n</div>\n<div class=\"image-wrapper\" data-animation-role=\"image\" data-type=\"image\" id=\"57c5a0996b8f5b26996de09c\">\n<noscript><img alt=\"2013-04-13-105941_8811010472_o.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510671-EJ72RUVMYQ8RX8W4S07D/2013-04-13-105941_8811010472_o.jpg\"/></noscript><img alt=\"2013-04-13-105941_8811010472_o.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510671-EJ72RUVMYQ8RX8W4S07D/2013-04-13-105941_8811010472_o.jpg\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"57c5a0996b8f5b26996de09c\" data-image-resolution=\"2500w\" data-load=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510671-EJ72RUVMYQ8RX8W4S07D/2013-04-13-105941_8811010472_o.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-stacked\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569510671-EJ72RUVMYQ8RX8W4S07D/2013-04-13-105941_8811010472_o.jpg?format=2500w\" style=\"\"/>\n</div>\n<div class=\"image-wrapper\" data-animation-role=\"image\" data-type=\"image\" id=\"57c5a0a6440243c9312b079f\">\n<noscript><img alt=\"2013-04-13-105934_8811012086_o.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569520308-3U69H9PLCE1O7QRR34P8/2013-04-13-105934_8811012086_o.jpg\"/></noscript><img alt=\"2013-04-13-105934_8811012086_o.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569520308-3U69H9PLCE1O7QRR34P8/2013-04-13-105934_8811012086_o.jpg\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"57c5a0a6440243c9312b079f\" data-image-resolution=\"2500w\" data-load=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569520308-3U69H9PLCE1O7QRR34P8/2013-04-13-105934_8811012086_o.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-stacked\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569520308-3U69H9PLCE1O7QRR34P8/2013-04-13-105934_8811012086_o.jpg?format=2500w\" style=\"\"/>\n</div>\n<div class=\"image-wrapper\" data-animation-role=\"image\" data-type=\"image\" id=\"57c5a0a76b8f5b26996de14c\">\n<noscript><img alt=\"2013-04-13-105807_8811019106_o.jpg\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569519800-K5QCDX4BN86W06EITG92/2013-04-13-105807_8811019106_o.jpg\"/></noscript><img alt=\"2013-04-13-105807_8811019106_o.jpg\" class=\"thumb-image loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569519800-K5QCDX4BN86W06EITG92/2013-04-13-105807_8811019106_o.jpg\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" data-image-id=\"57c5a0a76b8f5b26996de14c\" data-image-resolution=\"2500w\" data-load=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569519800-K5QCDX4BN86W06EITG92/2013-04-13-105807_8811019106_o.jpg\" data-type=\"image\" elementtiming=\"system-gallery-block-stacked\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1472569519800-K5QCDX4BN86W06EITG92/2013-04-13-105807_8811019106_o.jpg?format=2500w\" style=\"\"/>\n</div>\n</div>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_3_1472569579885_10323\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p class=\"\" style=\"white-space:pre-wrap;\">We've both been meaning to share these more widely.  So now -- go have fun.  Our daughters are pleased to have librarians use them!  (And obviously let us know if any links don't work....)</p>\n</div>\n</div></div></div></div></div>",
+    "markdown": "Six years ago I asked my daughter, Maggie Appleton, to help me create some Dewey Decimal System signs for the libraries on our new school campus, the permanent home of United World College of SE Asia (UWCSEA) - East campus, in Tampines, Singapore.  At the time she was an IB Art student at the original UWCSEA campus -- now known as UWCSEA Dover.\n\nShe didn't come up with them completely on her own.  I'd been searching the web for different Dewey designs and had found this retro design one I liked on Flickr by Susanna Ryan.\n\nBut it was fairly monochrome and I envisaged associating different colors with different sections, much like the famous colored layout of rooms at Powells Books in Portland, Oregon (see colored section sign to the right). So Maggie got permission from Susanna to modify her icons and to change the colors.Over the years people have asked Maggie for permission to use her designs -- and, so finally, in a creative commons way (in line with how Susanna allowed to build upon her original design) -- click here to access a DROPBOX folder of all her files.--------------------------------------------------------------My good friend and colleague Barb Philip Reid also has a talented graphic designer (step) daughter -- Natasha Potzsch.   And she asked her for a similar favor (to be a signage servant!). Natasha's Dewey designs are also freely available to all teacher-librarians -- click here to access a GOOGLE folder of her files.\n\nWe've both been meaning to share these more widely.  So now -- go have fun.  Our daughters are pleased to have librarians use them!  (And obviously let us know if any links don't work....)",
+    "text": "Six years ago I asked my daughter, Maggie Appleton, to help me create some Dewey Decimal System signs for the libraries on our new school campus, the permanent home of United World College of SE Asia (UWCSEA) - East campus, in Tampines, Singapore.  At the time she was an IB Art student at the original UWCSEA campus -- now known as UWCSEA Dover.\n\nShe didn't come up with them completely on her own.  I'd been searching the web for different Dewey designs and had found this retro design one I liked on Flickr by Susanna Ryan.\n\nBut it was fairly monochrome and I envisaged associating different colors with different sections, much like the famous colored layout of rooms at Powells Books in Portland, Oregon (see colored section sign to the right). So Maggie got permission from Susanna to modify her icons and to change the colors.Over the years people have asked Maggie for permission to use her designs -- and, so finally, in a creative commons way (in line with how Susanna allowed to build upon her original design) -- click here to access a DROPBOX folder of all her files.--------------------------------------------------------------My good friend and colleague Barb Philip Reid also has a talented graphic designer (step) daughter -- Natasha Potzsch.   And she asked her for a similar favor (to be a signage servant!). Natasha's Dewey designs are also freely available to all teacher-librarians -- click here to access a GOOGLE folder of her files.\n\nWe've both been meaning to share these more widely.  So now -- go have fun.  Our daughters are pleased to have librarians use them!  (And obviously let us know if any links don't work....)",
+    "word_count": 277
+  },
+  "excerpt": "Six years ago I asked my daughter, Maggie Appleton, to help me create some Dewey Decimal System signs for the libraries on our new school campus, the permanent home of United World College of SE Asia (UWCSEA) - East campus, in Tampines, Singapore.",
+  "id": "2016-8-29-dewey-designs-to-share",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": [
+      "design",
+      "signage",
+      "School libraries",
+      "dewey"
+    ]
+  },
+  "modified_date": "",
+  "published_date": "2016-08-29T00:00:00",
+  "slug": "dewey-designs-to-share",
+  "title": "Dewey Designs to Share",
+  "url": "https://www.thelibrarianedge.com/libedge/2016/8/29/dewey-designs-to-share"
+}

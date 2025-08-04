@@ -1,0 +1,158 @@
+{
+  "archive_info": {
+    "extracted_at": "2025-08-04T11:22:55.699332",
+    "scraped_at": "2025-08-04T11:22:25.443524",
+    "validation_info": {
+      "issues": [],
+      "statistics": {
+        "errors": 0,
+        "fixes_applied": 320,
+        "issues_found": 0,
+        "total_posts": 1,
+        "valid_posts": 76,
+        "warnings": 0
+      },
+      "success_rate": 7600.0,
+      "summary": {
+        "automatic_fixes_applied": 320,
+        "posts_failed_completely": 0,
+        "posts_passed_validation": 76,
+        "posts_with_issues": 0,
+        "total_issues_found": 0,
+        "total_posts_processed": 1
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      {
+        "alt_text": "IMG_4606.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1255,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "IMG_4607.JPG",
+        "caption": "",
+        "dimensions": {
+          "height": 1901,
+          "width": 2500
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG",
+        "title": ""
+      },
+      {
+        "alt_text": "Thorndike press",
+        "caption": "",
+        "dimensions": {
+          "height": 526,
+          "width": 829
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press",
+        "title": ""
+      },
+      {
+        "alt_text": "LT large print catalog",
+        "caption": "",
+        "dimensions": {
+          "height": 664,
+          "width": 1119
+        },
+        "local_path": "",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      },
+      {
+        "alt_text": "",
+        "caption": "",
+        "dimensions": {
+          "height": null,
+          "width": 34
+        },
+        "local_path": "",
+        "original_url": "https://assets.squarespace.com/universal/images-v6/default-avatar.png",
+        "title": ""
+      }
+    ],
+    "links": {
+      "email": [],
+      "external": [
+        {
+          "text": "Sept 2018 article on trends in middle-school publishing",
+          "title": "",
+          "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/78041-inside-indie-bookstores-selling-middle-grade-books.html"
+        },
+        {
+          "text": "Thorndike Press",
+          "title": "",
+          "url": "https://www.gale.com/thorndike/-/N-5pZ1z12789?No=60"
+        },
+        {
+          "text": "their YouTube channel",
+          "title": "",
+          "url": "https://www.youtube.com/channel/UCg5hcN32bJzhAlau6qXcjRg"
+        },
+        {
+          "text": "“Reader, Come Home,”",
+          "title": "",
+          "url": "https://books.google.co.th/books?id=Hlg_DwAAQBAJ&printsec=frontcover"
+        },
+        {
+          "text": "LibraryThing collection",
+          "title": "",
+          "url": "https://www.librarything.com/catalog.php?offset=0&previousOffset=0&view=kday_working&collection=526491&shelf=list&sort=title&sort=title"
+        }
+      ],
+      "internal": [],
+      "phone": []
+    }
+  },
+  "author": "Katie Day",
+  "content": {
+    "html": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1537601019136\" id=\"item-5ba5ed9b9140b757636f9edc\"><div class=\"row sqs-row\" id=\"yui_3_17_2_1_1754302942032_72\"><div class=\"col sqs-col-12 span-12\" id=\"yui_3_17_2_1_1754302942032_71\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-363a62d513c39a4e133b\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">Someone recently let me in on a secret:  large print isn’t just for old people (or considered a mistake when doing school library orders).  It’s a growing market for teen readers.</p><p style=\"white-space: pre-wrap;\">The phenomenon isn’t mentioned in a <a href=\"https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/78041-inside-indie-bookstores-selling-middle-grade-books.html\" target=\"_blank\">Sept 2018 article on trends in middle-school publishing</a>, but it was featured at a couple of sessions at ALA last June, with public and school librarians testifying to its popularity and advantages, and <a href=\"https://www.gale.com/thorndike/-/N-5pZ1z12789?No=60\" target=\"_blank\">Thorndike Press</a> has videos of those ALA sessions up on <a href=\"https://www.youtube.com/channel/UCg5hcN32bJzhAlau6qXcjRg\" target=\"_blank\">their YouTube channel</a>.  For some readers, it helps them read faster, for others (e.g., fast readers?), it perhaps slows them down, so they absorb more.  </p><p style=\"white-space: pre-wrap;\">I got my hands on a pile of them and the big surprise is their size.  </p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537787001062_18254\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302942032_70\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302942032_69\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302942032_68\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302942032_67\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302942032_66\" style=\"\n                position: relative;\n                \n                  padding-bottom:50.19999694824219%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_4606.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG\" data-image-dimensions=\"2500x1255\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1255\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787236731-70ALRM6SZPU8L8F2I8QS/IMG_4606.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537787255794_6284\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">Don’t you usually think of large print books as being like door-stops compared to the original?  </p><p style=\"white-space: pre-wrap;\">Of course, inside there still is a size difference - in font.  So how do they do it?  Well, the paper definitely feels thinner -and perhaps the margins are a bit smaller.</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537787255794_5048\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302942032_84\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302942032_83\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302942032_82\" style=\"max-width:2500px;\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302942032_81\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302942032_80\" style=\"\n                position: relative;\n                \n                  padding-bottom:76.04000091552734%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"IMG_4607.JPG\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG\" data-image-dimensions=\"2500x1901\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"1901\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537787288637-Q0DGLB9P7W94ZUCZ2AK7/IMG_4607.JPG?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"2500\"/>\n</div>\n</div>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537786710264_5243\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">The larger text is an affordance I usually associate with ebooks, where I can control the size of the font.</p><p style=\"white-space: pre-wrap;\">Having read a few of these YA large-print titles recently, I am also aware of how much the larger text (or the fact that there is less text on a page?) helps me orient myself in the physical book — my eyes can more quickly scan and find where I left off (which is one of the things the Thorndike videos demonstrate, with middle schoolers reading aloud, being interrupted, and then watching how long it takes them to find their place again).  Maryanne Wolf, in her latest book, <a href=\"https://books.google.co.th/books?id=Hlg_DwAAQBAJ&amp;printsec=frontcover\" target=\"_blank\">“Reader, Come Home,”</a> talks about this “technology of recurrence” as an advantage of physical books, where we can maintain a better space of time/space orientation within a text.</p><p style=\"white-space: pre-wrap;\">Have I tried these out on students?  Asking them to compare?  No, not yet.  But I am definitely going to be buying more of them, in order to give a large range of students the chance to choose.  And not just the “striving” readers (as the Thorndike brochures have renamed “struggling” readers)….</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537787360090_13725\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302942032_94\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302942032_93\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302942032_92\" style=\"max-width:829px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.gale.com/thorndike/-/N-5pZ1z12789?No=60\" id=\"yui_3_17_2_1_1754302942032_91\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302942032_90\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302942032_89\" style=\"\n                position: relative;\n                \n                  padding-bottom:63.44993591308594%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"Thorndike press\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press\" data-image-dimensions=\"829x526\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"526\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789241902-HJ4HXB6L1KOLCOPGXOOK/Thorndike+press?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"829\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_1_1537787360090_14002\"><div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p style=\"white-space: pre-wrap;\">You can search for children’s/YA titles on the <a href=\"https://www.gale.com/thorndike/-/N-5pZ1z12789?No=60\" target=\"_blank\">Thorndike website</a>, but I have put together a list of about 60 ones I want to order for my library —  in this <a href=\"https://www.librarything.com/catalog.php?offset=0&amp;previousOffset=0&amp;view=kday_working&amp;collection=526491&amp;shelf=list&amp;sort=title&amp;sort=title\" target=\"_blank\">LibraryThing collection</a> — which shows the ISBNs for the large print versions.  (P.S. If your school library orders through Follett’s Titlewave, all the Thorndike large print versions are available there….)</p>\n</div>\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-text-ready\" data-block-type=\"5\" id=\"block-yui_3_17_2_1_1537787360090_15821\"><div class=\"sqs-block-content\" id=\"yui_3_17_2_1_1754302942032_104\">\n<div class=\"image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none\" data-test=\"image-block-inline-outer-wrapper\" id=\"yui_3_17_2_1_1754302942032_103\">\n<figure class=\"sqs-block-image-figure intrinsic\" id=\"yui_3_17_2_1_1754302942032_102\" style=\"max-width:1119px;\">\n<a class=\"sqs-block-image-link\" href=\"https://www.librarything.com/catalog.php?offset=0&amp;previousOffset=0&amp;view=kday_working&amp;collection=526491&amp;shelf=list&amp;sort=title&amp;sort=title\" id=\"yui_3_17_2_1_1754302942032_101\" target=\"_blank\">\n<div class=\"image-block-wrapper\" data-animation-role=\"image\" id=\"yui_3_17_2_1_1754302942032_100\">\n<div class=\"sqs-image-shape-container-element has-aspect-ratio\" id=\"yui_3_17_2_1_1754302942032_99\" style=\"\n                position: relative;\n                \n                  padding-bottom:59.33869552612305%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \">\n<img alt=\"LT large print catalog\" class=\"loaded\" data-image=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog\" data-image-dimensions=\"1119x664\" data-image-focal-point=\"0.5,0.5\" data-load=\"false\" data-loader=\"sqs\" data-src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog\" data-stretch=\"false\" decoding=\"async\" elementtiming=\"system-image-block\" height=\"664\" loading=\"lazy\" onload='this.classList.add(\"loaded\")' sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" src=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog\" srcset=\"https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=100w 100w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=300w 300w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=500w 500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=750w 750w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/551e9827e4b0a00742213303/1537789439720-4F17PM9HU9UGVRW4RBQI/LT+large+print+catalog?format=2500w 2500w\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" width=\"1119\"/>\n</div>\n</div>\n</a>\n</figure>\n</div>\n</div></div><div class=\"sqs-block horizontalrule-block sqs-block-horizontalrule\" data-block-type=\"47\" id=\"block-yui_3_17_2_1_1537790057399_8123\"><div class=\"sqs-block-content\"><hr/></div></div></div></div></div>",
+    "markdown": "Someone recently let me in on a secret:  large print isn’t just for old people (or considered a mistake when doing school library orders).  It’s a growing market for teen readers.The phenomenon isn’t mentioned in a Sept 2018 article on trends in middle-school publishing, but it was featured at a couple of sessions at ALA last June, with public and school librarians testifying to its popularity and advantages, and Thorndike Press has videos of those ALA sessions up on their YouTube channel.  For some readers, it helps them read faster, for others (e.g., fast readers?), it perhaps slows them down, so they absorb more.  I got my hands on a pile of them and the big surprise is their size.  \n\nDon’t you usually think of large print books as being like door-stops compared to the original?  Of course, inside there still is a size difference - in font.  So how do they do it?  Well, the paper definitely feels thinner -and perhaps the margins are a bit smaller.\n\nThe larger text is an affordance I usually associate with ebooks, where I can control the size of the font.Having read a few of these YA large-print titles recently, I am also aware of how much the larger text (or the fact that there is less text on a page?) helps me orient myself in the physical book — my eyes can more quickly scan and find where I left off (which is one of the things the Thorndike videos demonstrate, with middle schoolers reading aloud, being interrupted, and then watching how long it takes them to find their place again).  Maryanne Wolf, in her latest book, “Reader, Come Home,” talks about this “technology of recurrence” as an advantage of physical books, where we can maintain a better space of time/space orientation within a text.Have I tried these out on students?  Asking them to compare?  No, not yet.  But I am definitely going to be buying more of them, in order to give a large range of students the chance to choose.  And not just the “striving” readers (as the Thorndike brochures have renamed “struggling” readers)….\n\nYou can search for children’s/YA titles on the Thorndike website, but I have put together a list of about 60 ones I want to order for my library —  in this LibraryThing collection — which shows the ISBNs for the large print versions.  (P.S. If your school library orders through Follett’s Titlewave, all the Thorndike large print versions are available there….)",
+    "text": "Someone recently let me in on a secret:  large print isn’t just for old people (or considered a mistake when doing school library orders).  It’s a growing market for teen readers.The phenomenon isn’t mentioned in a Sept 2018 article on trends in middle-school publishing, but it was featured at a couple of sessions at ALA last June, with public and school librarians testifying to its popularity and advantages, and Thorndike Press has videos of those ALA sessions up on their YouTube channel.  For some readers, it helps them read faster, for others (e.g., fast readers?), it perhaps slows them down, so they absorb more.  I got my hands on a pile of them and the big surprise is their size.  \n\nDon’t you usually think of large print books as being like door-stops compared to the original?  Of course, inside there still is a size difference - in font.  So how do they do it?  Well, the paper definitely feels thinner -and perhaps the margins are a bit smaller.\n\nThe larger text is an affordance I usually associate with ebooks, where I can control the size of the font.Having read a few of these YA large-print titles recently, I am also aware of how much the larger text (or the fact that there is less text on a page?) helps me orient myself in the physical book — my eyes can more quickly scan and find where I left off (which is one of the things the Thorndike videos demonstrate, with middle schoolers reading aloud, being interrupted, and then watching how long it takes them to find their place again).  Maryanne Wolf, in her latest book, “Reader, Come Home,” talks about this “technology of recurrence” as an advantage of physical books, where we can maintain a better space of time/space orientation within a text.Have I tried these out on students?  Asking them to compare?  No, not yet.  But I am definitely going to be buying more of them, in order to give a large range of students the chance to choose.  And not just the “striving” readers (as the Thorndike brochures have renamed “struggling” readers)….\n\nYou can search for children’s/YA titles on the Thorndike website, but I have put together a list of about 60 ones I want to order for my library —  in this LibraryThing collection — which shows the ISBNs for the large print versions.  (P.S. If your school library orders through Follett’s Titlewave, all the Thorndike large print versions are available there….)",
+    "word_count": 415
+  },
+  "excerpt": "Someone recently let me in on a secret:  large print isn’t just for old people (or considered a mistake when doing school library orders).  It’s a growing market for teen readers.The phenomenon isn’t mentioned in a Sept 2018 article on trends in middle-school publishing, but it was featured at a ...",
+  "id": "2018-9-22-large-print-for-middle-school",
+  "metadata": {
+    "categories": [],
+    "meta_description": "",
+    "tags": []
+  },
+  "modified_date": "",
+  "published_date": "2018-09-22T00:00:00",
+  "slug": "large-print-for-middle-school",
+  "title": "Large Print as a new Middle School trend....",
+  "url": "https://www.thelibrarianedge.com/microblog/2018/9/22/large-print-for-middle-school"
+}
