@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  archiver:
+    build:
+      context: ../../
+      dockerfile: deploy/docker/Dockerfile
+    container_name: squarespace-archiver
+    environment:
+      - ARCHIVER_LOG_LEVEL=INFO
+      - ARCHIVER_OUTPUT_DIR=/app/output
+    volumes:
+      - archive_output:/app/output
+      - archive_logs:/app/logs
+      - ./config:/app/config:ro
+    restart: unless-stopped
+    memory: 2g
+    cpus: "1.0"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import src.connectivity; print('OK')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: Redis for caching (if needed for large deployments)
+  redis:
+    image: redis:7-alpine
+    container_name: archiver-redis
+    restart: unless-stopped
+    volumes:
+      - redis_data:/data
+    profiles:
+      - cache
+
+volumes:
+  archive_output:
+    driver: local
+  archive_logs:
+    driver: local
+  redis_data:
+    driver: local

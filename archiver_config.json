@@ -1,0 +1,17 @@
+{
+  "site_url": "https://www.thelibrarianedge.com/",
+  "scraping": {
+    "delay_between_requests": 2.5,
+    "max_retries": 3,
+    "retry_delay": 1.0,
+    "timeout": 30,
+    "user_agent": "Squarespace-Blog-Archiver/0.1.0"
+  },
+  "output": {
+    "output_dir": "output",
+    "backup_existing": true,
+    "pretty_print_json": true,
+    "image_quality": 85,
+    "max_image_width": 1920
+  }
+}

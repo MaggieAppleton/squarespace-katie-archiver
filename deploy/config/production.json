@@ -1,0 +1,36 @@
+{
+	"site_url": "https://www.thelibrarianedge.com/",
+	"output": {
+		"base_directory": "/app/output",
+		"create_subdirectories": true,
+		"backup_enabled": true,
+		"max_backups": 5
+	},
+	"scraping": {
+		"rate_limit_delay": 3.0,
+		"max_retries": 5,
+		"timeout_seconds": 30,
+		"user_agent": "Squarespace Blog Archiver 1.0 (Production)",
+		"respect_robots_txt": true
+	},
+	"performance": {
+		"max_concurrent_requests": 3,
+		"memory_limit_mb": 1536,
+		"enable_caching": true,
+		"batch_size": 5,
+		"enable_compression": true
+	},
+	"logging": {
+		"level": "INFO",
+		"file_enabled": true,
+		"console_enabled": true,
+		"max_log_size_mb": 100,
+		"backup_count": 5
+	},
+	"monitoring": {
+		"enable_progress_reports": true,
+		"progress_interval_seconds": 60,
+		"enable_performance_monitoring": true,
+		"save_performance_reports": true
+	}
+}
