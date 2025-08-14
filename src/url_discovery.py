@@ -73,6 +73,12 @@ class URLDiscovery:
         discovery_results['discovery_methods']['crawling'] = len(crawl_urls)
         self.discovered_urls.update(crawl_urls)
         
+        # Method 6: Historical year-based discovery (2005-2014)
+        historical_urls = await self._discover_historical_posts()
+        discovery_results['historical_urls'] = historical_urls
+        discovery_results['discovery_methods']['historical'] = len(historical_urls)
+        self.discovered_urls.update(historical_urls)
+        
         # Filter and deduplicate
         final_urls = self._filter_and_validate_urls(list(self.discovered_urls))
         
@@ -88,13 +94,21 @@ class URLDiscovery:
         return discovery_results
     
     async def _discover_from_sitemap(self) -> List[str]:
-        """Discover URLs from sitemap.xml."""
+        """Discover URLs from sitemap.xml and alternative locations."""
         self.logger.info("Discovering URLs from sitemap...")
         
         urls = []
+        # Try multiple sitemap locations and patterns
         sitemap_urls = [
             urljoin(self.config.site_url, '/sitemap.xml'),
-            urljoin(self.config.site_url, '/sitemap_index.xml')
+            urljoin(self.config.site_url, '/sitemap_index.xml'),
+            urljoin(self.config.site_url, '/sitemap-posts.xml'),
+            urljoin(self.config.site_url, '/sitemap-blog.xml'),
+            urljoin(self.config.site_url, '/sitemap/posts.xml'),
+            urljoin(self.config.site_url, '/sitemap/blog.xml'),
+            urljoin(self.config.site_url, '/sitemaps/sitemap.xml'),
+            urljoin(self.config.site_url, '/blog-sitemap.xml'),
+            urljoin(self.config.site_url, '/posts-sitemap.xml'),
         ]
         
         for sitemap_url in sitemap_urls:
@@ -118,11 +132,15 @@ class URLDiscovery:
                             except Exception as e:
                                 self.logger.debug(f"Failed to process sub-sitemap {sub_sitemap}: {e}")
                     
-                    break  # If we found one sitemap, don't need to try others
+                    # Don't break here - try all sitemaps to be comprehensive
                     
             except Exception as e:
                 self.logger.debug(f"Failed to fetch sitemap {sitemap_url}: {e}")
                 continue
+        
+        # Also try to discover URLs from RSS feeds
+        rss_urls = await self._discover_from_rss_feeds()
+        urls.extend(rss_urls)
         
         return list(set(urls))  # Remove duplicates
     
@@ -353,23 +371,30 @@ class URLDiscovery:
         return list(set(urls))
     
     async def _crawl_pagination(self, browser: Browser, base_url: str) -> List[str]:
-        """Crawl through paginated results."""
+        """Crawl through paginated results with enhanced historical discovery."""
         urls = []
         
-        # Try different pagination patterns
+        # Try different pagination patterns with more aggressive limits for historical content
         pagination_patterns = [
             '?page={}',
             '?offset={}',
             '/page/{}',
-            '?p={}'
+            '?p={}',
+            '?start={}',  # Alternative pagination
+            '&page={}',   # For URLs that already have query params
         ]
         
         for pattern in pagination_patterns:
             page_num = 1
             consecutive_failures = 0
+            max_pages = 25  # Increased from 10 to catch more historical content
             
-            while consecutive_failures < 3 and page_num <= 10:  # Limit to 10 pages max
-                test_url = base_url + pattern.format(page_num)
+            while consecutive_failures < 5 and page_num <= max_pages:  # Allow more failures
+                # Handle both base URLs with and without existing query params
+                if '?' in base_url and pattern.startswith('?'):
+                    test_url = base_url + pattern.replace('?', '&', 1).format(page_num)
+                else:
+                    test_url = base_url + pattern.format(page_num)
                 
                 page = await browser.new_page()
                 try:
@@ -383,14 +408,20 @@ class URLDiscovery:
                         if page_urls:
                             urls.extend(page_urls)
                             consecutive_failures = 0
-                            self.logger.debug(f"Found {len(page_urls)} URLs on page {page_num}")
+                            
+                            # Check if we're finding older content (pre-2015)
+                            old_content = [url for url in page_urls if any(f'/{year}/' in url for year in range(2005, 2015))]
+                            if old_content:
+                                self.logger.info(f"Found {len(old_content)} historical URLs on page {page_num} of {base_url}")
+                            else:
+                                self.logger.debug(f"Found {len(page_urls)} URLs on page {page_num}")
                         else:
                             consecutive_failures += 1
                     else:
                         consecutive_failures += 1
                     
                     page_num += 1
-                    await asyncio.sleep(1)  # Be respectful
+                    await asyncio.sleep(0.8)  # Slightly reduced delay for efficiency
                     
                 except Exception as e:
                     self.logger.debug(f"Error crawling page {page_num}: {e}")
@@ -399,6 +430,239 @@ class URLDiscovery:
                 
                 finally:
                     await page.close()
+                
+                # If we've gone through many pages without finding anything, try next pattern
+                if page_num > 15 and consecutive_failures >= 3:
+                    break
+        
+        return list(set(urls))
+    
+    async def _discover_from_rss_feeds(self) -> List[str]:
+        """Discover URLs from RSS/Atom feeds which may contain historical content."""
+        self.logger.info("Discovering URLs from RSS/Atom feeds...")
+        
+        urls = []
+        # Common RSS/Atom feed locations
+        feed_urls = [
+            urljoin(self.config.site_url, '/rss'),
+            urljoin(self.config.site_url, '/feed'),
+            urljoin(self.config.site_url, '/feeds'),
+            urljoin(self.config.site_url, '/atom.xml'),
+            urljoin(self.config.site_url, '/rss.xml'),
+            urljoin(self.config.site_url, '/feed.xml'),
+            urljoin(self.config.site_url, '/blog/rss'),
+            urljoin(self.config.site_url, '/blog/feed'),
+            urljoin(self.config.site_url, '/libedge/rss'),
+            urljoin(self.config.site_url, '/libedge/feed'),
+            urljoin(self.config.site_url, '/microblog/rss'),
+            urljoin(self.config.site_url, '/microblog/feed'),
+            urljoin(self.config.site_url, '/blog.rss'),
+            urljoin(self.config.site_url, '/?format=rss'),
+            urljoin(self.config.site_url, '/libedge?format=rss'),
+            urljoin(self.config.site_url, '/microblog?format=rss'),
+        ]
+        
+        for feed_url in feed_urls:
+            try:
+                response = self.session.get(feed_url, timeout=30)
+                if response.status_code == 200:
+                    feed_urls_found = self._parse_rss_feed_for_urls(response.content)
+                    if feed_urls_found:
+                        urls.extend(feed_urls_found)
+                        self.logger.info(f"Found {len(feed_urls_found)} URLs in RSS feed: {feed_url}")
+                        
+            except Exception as e:
+                self.logger.debug(f"Failed to fetch RSS feed {feed_url}: {e}")
+                continue
+        
+        return list(set(urls))
+    
+    def _parse_rss_feed_for_urls(self, feed_content: bytes) -> List[str]:
+        """Parse RSS/Atom feed content for blog post URLs."""
+        urls = []
+        
+        try:
+            # Convert to string
+            content = feed_content.decode('utf-8', errors='ignore')
+            
+            # Look for <link> tags in RSS and <id> tags in Atom feeds
+            import re
+            
+            # RSS <link> tags
+            rss_pattern = r'<link[^>]*>([^<]+)</link>'
+            rss_matches = re.findall(rss_pattern, content, re.IGNORECASE)
+            for match in rss_matches:
+                match = match.strip()
+                if self._is_blog_post_url(match):
+                    urls.append(match)
+            
+            # Atom <id> and <link> tags  
+            atom_id_pattern = r'<id[^>]*>([^<]+)</id>'
+            atom_matches = re.findall(atom_id_pattern, content, re.IGNORECASE)
+            for match in atom_matches:
+                match = match.strip()
+                if self._is_blog_post_url(match):
+                    urls.append(match)
+            
+            # Atom link href attributes
+            atom_link_pattern = r'<link[^>]+href=["\']([^"\']+)["\'][^>]*>'
+            atom_link_matches = re.findall(atom_link_pattern, content, re.IGNORECASE)
+            for match in atom_link_matches:
+                match = match.strip()
+                if self._is_blog_post_url(match):
+                    urls.append(match)
+                    
+        except Exception as e:
+            self.logger.warning(f"Error parsing RSS/Atom feed: {e}")
+        
+        return urls
+    
+    async def _discover_historical_posts(self) -> List[str]:
+        """Discover historical posts from 2005-2014 using year-based exploration."""
+        self.logger.info("Discovering historical posts (2005-2014)...")
+        
+        urls = []
+        historical_years = range(2005, 2015)  # 2005-2014
+        
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            
+            try:
+                for year in historical_years:
+                    # Try different historical URL patterns
+                    year_patterns = [
+                        f'/libedge/{year}',
+                        f'/libedge?year={year}',
+                        f'/libedge?archive={year}',
+                        f'/libedge/?year={year}',
+                        f'/blog/{year}',
+                        f'/blog?year={year}'
+                    ]
+                    
+                    for pattern in year_patterns:
+                        year_url = urljoin(self.config.site_url, pattern)
+                        
+                        try:
+                            year_urls = await self._extract_urls_from_page(browser, year_url)
+                            if year_urls:
+                                urls.extend(year_urls)
+                                self.logger.info(f"Found {len(year_urls)} URLs for year {year} via {pattern}")
+                                
+                                # Also try to paginate within the year
+                                paginated_urls = await self._paginate_year_archive(browser, year_url, year)
+                                urls.extend(paginated_urls)
+                                
+                                break  # If we found content for this year, don't try other patterns
+                        except Exception as e:
+                            self.logger.debug(f"Failed to explore {year_url}: {e}")
+                            continue
+                    
+                    # Small delay between years
+                    await asyncio.sleep(1)
+                
+                # Also try the general archive with different sort orders
+                archive_urls = await self._try_archive_sorting()
+                urls.extend(archive_urls)
+                
+            finally:
+                await browser.close()
+        
+        return list(set(urls))
+    
+    async def _paginate_year_archive(self, browser: Browser, base_url: str, year: int) -> List[str]:
+        """Paginate through a specific year's archive."""
+        urls = []
+        
+        pagination_patterns = [
+            f'?year={year}&page={{}}',
+            f'?year={year}&offset={{}}',
+            f'?page={{}}',
+            f'&page={{}}'
+        ]
+        
+        for pattern in pagination_patterns:
+            page_num = 2  # Start with page 2 since we already got page 1
+            consecutive_failures = 0
+            
+            while consecutive_failures < 3 and page_num <= 10:  # Limit to 10 pages
+                if '{}' in pattern:
+                    test_url = base_url + pattern.format(page_num)
+                else:
+                    test_url = f"{base_url}{pattern}{page_num}"
+                
+                page = await browser.new_page()
+                try:
+                    await page.set_extra_http_headers({'User-Agent': self.config.scraping.user_agent})
+                    
+                    response = await page.goto(test_url, timeout=15000)
+                    if response and response.status == 200:
+                        page_urls = await self._extract_urls_from_page(browser, test_url)
+                        
+                        if page_urls:
+                            urls.extend(page_urls)
+                            consecutive_failures = 0
+                            self.logger.debug(f"Found {len(page_urls)} URLs on year {year} page {page_num}")
+                        else:
+                            consecutive_failures += 1
+                    else:
+                        consecutive_failures += 1
+                    
+                    page_num += 1
+                    await asyncio.sleep(0.5)  # Small delay
+                    
+                except Exception as e:
+                    self.logger.debug(f"Error paginating year {year} page {page_num}: {e}")
+                    consecutive_failures += 1
+                    page_num += 1
+                
+                finally:
+                    await page.close()
+            
+            if urls:  # If we found URLs with this pattern, don't try others
+                break
+        
+        return list(set(urls))
+    
+    async def _try_archive_sorting(self) -> List[str]:
+        """Try different sorting options on archive pages to find older content."""
+        self.logger.info("Trying different archive sorting options...")
+        
+        urls = []
+        archive_sort_patterns = [
+            '/libedge?view=archive&sort=date',
+            '/libedge?view=archive&sort=oldest',
+            '/libedge?view=archive&order=asc',
+            '/libedge?view=archive&sort=published&order=asc',
+            '/libedge?archive=true&sort=date',
+            '/blog-archive?sort=oldest',
+            '/blog-archive?order=asc'
+        ]
+        
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            
+            try:
+                for pattern in archive_sort_patterns:
+                    archive_url = urljoin(self.config.site_url, pattern)
+                    
+                    try:
+                        page_urls = await self._extract_urls_from_page(browser, archive_url)
+                        if page_urls:
+                            urls.extend(page_urls)
+                            self.logger.info(f"Found {len(page_urls)} URLs with sorting: {pattern}")
+                            
+                            # Try to paginate this sorted view
+                            paginated_urls = await self._crawl_pagination(browser, archive_url)
+                            urls.extend(paginated_urls)
+                    
+                    except Exception as e:
+                        self.logger.debug(f"Failed to try sorting {pattern}: {e}")
+                        continue
+                    
+                    await asyncio.sleep(1)
+                
+            finally:
+                await browser.close()
         
         return list(set(urls))
     
@@ -507,9 +771,22 @@ class URLDiscovery:
             parsed = urlparse(url)
             path_parts = [part for part in parsed.path.split('/') if part]
             
-            # For this blog, posts have pattern: /libedge/YYYY/MM/DD/title
-            if len(path_parts) >= 5:  # ['libedge', 'YYYY', 'MM', 'DD', 'title']
-                return True
+            # Enhanced pattern matching for different URL structures:
+            # Modern posts: /libedge/YYYY/MM/DD/title (5+ parts)
+            # Older posts might have: /libedge/YYYY/title or /libedge/title or other variations
+            if len(path_parts) >= 3:  # At minimum: ['libedge', year_or_title, something]
+                # Check if this looks like a real post (has a slug-like final part)
+                if len(path_parts) >= 2:
+                    last_part = path_parts[-1]
+                    # Look for slug patterns (words with hyphens) or reasonable titles
+                    if (len(last_part) > 3 and 
+                        ('-' in last_part or len(last_part.split('-')) > 1 or 
+                         any(char.isalpha() for char in last_part))):
+                        return True
+                
+                # Also accept the standard 5-part pattern
+                if len(path_parts) >= 5:
+                    return True
         
         return False
     
